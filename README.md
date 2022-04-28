@@ -1,1 +1,5 @@
-# address-scraping
+```
+nbb scrape.cljs
+```
+
+writes `schools.json`.
