@@ -161,7 +161,7 @@
         #_#_districts (subvec (vec districts)  0 1)
         concelhos (pull-concelhos page districts [])
         schools (pull-schools page concelhos [])
-        school-string (.stringify js/JSON (clj->js schools) nil "\t")]
+        school-string (.stringify js/JSON (clj->js schools) nil "  ")]
   (.close browser)
   (.writeFileSync fs "./schools.json" school-string))
 
