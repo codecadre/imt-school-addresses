@@ -155,14 +155,17 @@
   (prn "Districts: " (count districts)))
 
 
-(p/let [browser (.launch puppeteer #js {:headless false})
+(p/let [browser (.launch puppeteer #js {:headless true})
         page (.newPage browser)
         districts (pull-districts page)
         #_#_districts (subvec (vec districts)  0 1)
         concelhos (pull-concelhos page districts [])
         schools (pull-schools page concelhos [])
-        school-string (.stringify js/JSON (clj->js schools))]
+        school-string (.stringify js/JSON (clj->js schools) nil "\t")]
+  (.close browser)
   (.writeFileSync fs "./schools.json" school-string))
+
+
 
 #_(comment
  (defp browser (.launch puppeteer #js {:headless false}))
