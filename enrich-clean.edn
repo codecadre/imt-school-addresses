@@ -1,0 +1,100 @@
+({:distrito "Viana do Castelo",
+  :concelho "Melgaço",
+  :school-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Volantiarte1088.aspx",
+  :concelho-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Melga%C3%A7o",
+  :title-raw "Volantiarte ",
+  :address-raw
+  "\r\n\t\t\tAvª Salgueiro Maia, 173 4960-570 VILA \r\n\t\t",
+  :nec-raw 918}
+ {:distrito "Viana do Castelo",
+  :concelho "Monção",
+  :school-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Covas346.aspx",
+  :concelho-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Mon%C3%A7%C3%A3o",
+  :title-raw "Covas ",
+  :address-raw
+  "\r\n\t\t\tRua Eng.º Duarte Pacheco , Loja 8  4950-454 MONÇÃO \r\n\t\t",
+  :nec-raw 266}
+ {:distrito "Viana do Castelo",
+  :concelho "Monção",
+  :school-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Deu-la-Deu.aspx",
+  :concelho-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Mon%C3%A7%C3%A3o",
+  :title-raw "Deu-la-Deu ",
+  :address-raw
+  "\r\n\t\t\tRua Gonçalves Gomes n.º 61 Fração U; 4950-275 Mazedo \r\n\t\t",
+  :nec-raw 544}
+ {:distrito "Viana do Castelo",
+  :concelho "Monção",
+  :school-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Moncanense.aspx",
+  :concelho-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Mon%C3%A7%C3%A3o",
+  :title-raw "Monçanense ",
+  :address-raw
+  "\r\n\t\t\tEstrada de São Pedro, Urbanização Peixe Frio, Fração K, 4950-457 MONÇÃO \r\n\t\t",
+  :nec-raw 1380}
+ {:distrito "Viana do Castelo",
+  :concelho "Valença",
+  :school-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AValenciana043.aspx",
+  :concelho-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Valen%C3%A7a",
+  :title-raw "A Valenciana ",
+  :address-raw
+  "\r\n\t\t\tLargo S. Sebastião, lote 6 –Fracção A 4930-697 VALENÇA \r\n\t\t",
+  :nec-raw 558}
+ {:distrito "Viana do Castelo",
+  :concelho "Valença",
+  :school-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AltoMinho098.aspx",
+  :concelho-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Valen%C3%A7a",
+  :title-raw "Alto Minho ",
+  :address-raw
+  "\r\n\t\t\tAvª Dr. Tito Fontes -Edificio Bruxelas, Loja 15 - 1º 4930-673 VALENÇA \r\n\t\t",
+  :nec-raw 460}
+ {:distrito "Viana do Castelo",
+  :concelho "Arcos de Valdevez",
+  :school-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ArcosdeValdevez115.aspx",
+  :concelho-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Arcos%20Valdevez",
+  :title-raw "Arcos de Valdevez ",
+  :address-raw
+  "\r\n\t\t\tPraça D. Manuel I, Nº 72 4970-595 ARCOS DE VALDEVEZ (SÃO PAIO) \r\n\t\t",
+  :nec-raw 862}
+ {:distrito "Viana do Castelo",
+  :concelho "Arcos de Valdevez",
+  :school-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Arcuense116.aspx",
+  :concelho-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Arcos%20Valdevez",
+  :title-raw "Arcuense ",
+  :address-raw
+  "\r\n\t\t\tRua General Amilcar Mota, Nº 181 4970-459 ARCOS DE VALDEVEZ (SALVADOR) \r\n\t\t",
+  :nec-raw 340}
+ {:distrito "Viana do Castelo",
+  :concelho "Arcos de Valdevez",
+  :school-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Mira-Vez.aspx",
+  :concelho-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Arcos%20Valdevez",
+  :title-raw "Mira-Vez ",
+  :address-raw
+  "\r\n\t\t\tAv Dr. António Caldas, loja 139, Faquelo  4970-592 Arcos de Valdevez \r\n\t\t",
+  :nec-raw 1381}
+ {:distrito "Viana do Castelo",
+  :concelho "Vila Nova de Cerveira",
+  :school-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AltodasCerejas096.aspx",
+  :concelho-href
+  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Vila%20Nova%20Cerveira",
+  :title-raw "Alto das Cerejas ",
+  :address-raw
+  "\r\n\t\t\tRua Fonte Pereira, Lote 1, Fracção H, Campos, 4920- 011 Vila Nova de Cerveira \r\n\t\t",
+  :nec-raw 747})
