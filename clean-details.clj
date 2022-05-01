@@ -37,6 +37,7 @@
                   (map clean-name)
                   (map clean-nec)
                   (map clean-address)
+                  (sort #(compare (:nec-raw %1) (:nec-raw %2)))
                   doall))
 
 #_(->> [(nth d 303)]
