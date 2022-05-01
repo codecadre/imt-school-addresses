@@ -16,7 +16,11 @@
       ))
 
 (defn clean-nec [s]
-  (update s :nec-raw #(edn/read-string (re-find #"\d+" %))))
+  (update s :nec-raw
+          (fn [nec-raw]
+            (if nec-raw
+              (edn/read-string (re-find #"\d+" nec-raw))
+              nil))))
 
 (comment
   (clean-weirdness "Av Dr. António Caldas, loja 139, Faquelo  4970-592 Arcos de"))
@@ -29,23 +33,31 @@
    (dissoc :address-raw)))
 
 (def results (->> d
-                  (take 47)
+                  #_(take 304)
                   (map clean-name)
                   (map clean-nec)
-                  (map clean-address)))
-(last (take 48 d))
+                  (map clean-address)
+                  doall))
+
+#_(->> [(nth d 303)]
+     (map clean-name)
+     (map clean-nec)
+     #_(map clean-address)
+     doall)
+
+#_(last (take 48 d))
 
 #_(pprint/pprint results)
 
 #_(map :title-raw results)
 
 
-#_(spit "./enrich-clean.edn" (with-out-str (pprint/pprint results)))
+(spit "./enrich-clean.edn" (with-out-str (pprint/pprint results)))
 
-#_(spit "./table.txt" (with-out-str (pprint/print-table results)))
+(spit "./table.txt" (with-out-str (pprint/print-table results)))
 
 
-(-> {:distrito "Bragança",
+#_(-> {:distrito "Bragança",
  :concelho "Carrazeda de Ansiâes",
  :school-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/K%c3%a9ris.aspx",
