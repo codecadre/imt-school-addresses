@@ -37,10 +37,13 @@
       (assoc :cp7 (:address-clean s))
       (update :cp7 (fn [address]
                      (or (re-find #"\d{4}-\s\d{3}" address)
+                         ;;next two lines aren't duplicates: -–
                          (re-find #"\d{4}-\d{3}" address)
+                         (re-find #"\d{4}–\d{3}" address)
                          (re-find #"\d{4}\s-\d{3}" address)
-                         (re-find #"\d{4}\s-\s\d{3}" address))))))
-
+                         (re-find #"\d{4}\s-\s\d{3}" address)
+                         (re-find #"\d{4}-\d{2}" address)
+                         (re-find #"\d{4}" address))))))
 #_(->> d
      (take 10)
      (map clean-address)
@@ -57,6 +60,12 @@
                   (map parse-cp7)
                   (sort #(compare (:nec-raw %1) (:nec-raw %2)))
                   doall))
+
+
+#_(->> results
+     (filter (fn [r]
+               (nil? (:cp7 r))))
+     (map :address-clean))
 
 #_(->> [(nth d 303)]
      (map clean-name)

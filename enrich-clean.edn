@@ -235,7 +235,7 @@
   :nec-raw 25,
   :title-clean "M. Silva",
   :address-clean "Rua Dr. Carlos França nº 27 A 2560 TORRES VEDRAS",
-  :cp7 nil}
+  :cp7 "2560"}
  {:distrito "Lisboa",
   :concelho "Torres Vedras",
   :school-href
@@ -245,7 +245,7 @@
   :nec-raw 25,
   :title-clean "M. Silva",
   :address-clean "Rua Dr. Carlos França nº 27 A 2560 TORRES VEDRAS",
-  :cp7 nil}
+  :cp7 "2560"}
  {:distrito "Lisboa",
   :concelho "Lisboa",
   :school-href
@@ -860,7 +860,7 @@
   :title-clean "Abrantina",
   :address-clean
   "Tapada do Chafariz, Rua Projectada à Av.25 de Abril,Lt 7 R/C Dtº 2200 ABRANTES",
-  :cp7 nil}
+  :cp7 "2200"}
  {:distrito "Aveiro",
   :concelho "Aveiro",
   :school-href
@@ -1119,7 +1119,7 @@
   :nec-raw 151,
   :title-clean "A Figueiredo",
   :address-clean "Avª de Angola, 63 2530 LOURINHÃ",
-  :cp7 nil}
+  :cp7 "2530"}
  {:distrito "Lisboa",
   :concelho "Alenquer",
   :school-href
@@ -2325,7 +2325,7 @@
   :nec-raw 395,
   :title-clean "Sacavenense",
   :address-clean "Travessa do Olival, 6 r/c Dtº 2685-86 SACAVÉM",
-  :cp7 nil}
+  :cp7 "2685-86"}
  {:distrito "Santarém",
   :concelho "Tomar",
   :school-href
@@ -2490,7 +2490,7 @@
   :nec-raw 419,
   :title-clean "Andrade",
   :address-clean "Rua 5 de Outubro, 6 –1º C 2100 CORUCHE",
-  :cp7 nil}
+  :cp7 "2100"}
  {:distrito "Porto",
   :concelho "Maia",
   :school-href
@@ -2606,7 +2606,7 @@
   :nec-raw 429,
   :title-clean "Alcanena",
   :address-clean "Rua José Alves Anastácio, 36-1º 2380 ALCANENA",
-  :cp7 nil}
+  :cp7 "2380"}
  {:distrito "Braga",
   :concelho "Guimarães",
   :school-href
@@ -2627,7 +2627,7 @@
   :nec-raw 433,
   :title-clean "Infante de Sagres - Alcochete",
   :address-clean "Av. D. Manuel I, Nº 3,5 2890 ALCOCHETE",
-  :cp7 nil}
+  :cp7 "2890"}
  {:distrito "Portalegre",
   :concelho "Portalegre",
   :school-href
@@ -2668,7 +2668,7 @@
   :nec-raw 437,
   :title-clean "Ferreira do Zêzere",
   :address-clean "Urb. Quinta do Adro 2240 FERREIRA DO ZÊZERE",
-  :cp7 nil}
+  :cp7 "2240"}
  {:distrito "Leiria",
   :concelho "Pombal",
   :school-href
@@ -2722,7 +2722,7 @@
   :title-clean "Infante de Sagres –Albufeira",
   :address-clean
   "Rua Fernão de Magalhães, lote 16 Fracções D e E 8200 ALBUFEIRA",
-  :cp7 nil}
+  :cp7 "8200"}
  {:distrito "Faro",
   :concelho "Castro Marim",
   :school-href
@@ -2742,7 +2742,7 @@
   :nec-raw 447,
   :title-clean "Infante de Sagres - Vila Real de Stº António",
   :address-clean "Rua Teófilo Braga, 85 8900 VILA REAL DE STº ANTÓNIO",
-  :cp7 nil}
+  :cp7 "8900"}
  {:distrito "Santarém",
   :concelho "Chamusca",
   :school-href
@@ -2793,7 +2793,7 @@
   :title-clean "Rio Minho",
   :address-clean
   "Rua Cidade de Lisboa, Bloco C - 1.º Esq. 2685 Camarate",
-  :cp7 nil}
+  :cp7 "2685"}
  {:distrito "Lisboa",
   :concelho "Amadora",
   :school-href
@@ -3564,7 +3564,7 @@
   :title-clean "Nova Torres",
   :address-clean
   "Rua da Escola Preparatória nº 51 R/c Esqº 2350 TORRES NOVAS",
-  :cp7 nil}
+  :cp7 "2350"}
  {:distrito "Lisboa",
   :concelho "Torres Vedras",
   :school-href
@@ -3575,7 +3575,7 @@
   :title-clean "Nova Torres",
   :address-clean
   "Rua da Escola Preparatória nº 51 R/c Esqº 2350 TORRES NOVAS",
-  :cp7 nil}
+  :cp7 "2350"}
  {:distrito "Porto",
   :concelho "Vila Nova de Gaia",
   :school-href
@@ -3692,7 +3692,7 @@
   :nec-raw 566,
   :title-clean "Mindense",
   :address-clean "Rua Painel das Almas, nº 3-Minde 2380 ALCANENA",
-  :cp7 nil}
+  :cp7 "2380"}
  {:distrito "Castelo Branco",
   :concelho "Sertã",
   :school-href
@@ -4176,7 +4176,7 @@
   :nec-raw 622,
   :title-clean "Nova em Águeda",
   :address-clean "Rua Amaro Castela, nº 1, Fração B, 3550–124 Águeda",
-  :cp7 nil}
+  :cp7 "3550–124"}
  {:distrito "Lisboa",
   :concelho "Cascais",
   :school-href
@@ -4231,7 +4231,7 @@
   :title-clean "José Relvas",
   :address-clean
   "Rua de Guilherme Nunes Godinho, Nº 372, Loja 3 2080 ALPIARÇA",
-  :cp7 nil}
+  :cp7 "2080"}
  {:distrito "Coimbra",
   :concelho "Coimbra",
   :school-href
@@ -4274,7 +4274,7 @@
   :title-clean "Conde de Marialva",
   :address-clean
   "Rua Marquês de Pombal, Nº30 2120 SALVATERRA DE MAGOS",
-  :cp7 nil}
+  :cp7 "2120"}
  {:distrito "Lisboa",
   :concelho "Sintra",
   :school-href
@@ -4615,7 +4615,7 @@
   :title-clean "Ria Formosa",
   :address-clean
   "Avª dos Bombeiros Municipais nº 30 lote 3 r/c Esqº 8700 OLHÃO",
-  :cp7 nil}
+  :cp7 "8700"}
  {:distrito "Faro",
   :concelho "Olhão",
   :school-href
@@ -4626,7 +4626,7 @@
   :title-clean "Ria Formosa",
   :address-clean
   "Avª dos Bombeiros Municipais nº 30 lote 3 r/c Esqº 8700 OLHÃO",
-  :cp7 nil}
+  :cp7 "8700"}
  {:distrito "Castelo Branco",
   :concelho "Fundão",
   :school-href
@@ -4967,7 +4967,7 @@
   :title-clean "Pero Rodrigues",
   :address-clean
   "Rua Tomé Adelino Vidigal, 14 - 7050 - MONTEMOR-O-NOVO",
-  :cp7 nil}
+  :cp7 "7050"}
  {:distrito "Setúbal",
   :concelho "Montijo",
   :school-href
@@ -5038,7 +5038,7 @@
   :nec-raw 713,
   :title-clean "Mondego",
   :address-clean "Escadinhas 3140 MONTEMOR-O-VELHO",
-  :cp7 nil}
+  :cp7 "3140"}
  {:distrito "Coimbra",
   :concelho "Cantanhede",
   :school-href
@@ -5886,7 +5886,7 @@
   :nec-raw 812,
   :title-clean "Bejense",
   :address-clean "Rua Sousa Porto 49 r/c 7800 BEJA",
-  :cp7 nil}
+  :cp7 "7800"}
  {:distrito "Faro",
   :concelho "Albufeira",
   :school-href
@@ -6554,7 +6554,7 @@
   :title-clean "Gago Coutinho",
   :address-clean
   "Estrada de Arcena, lote 22 loja Dtª 2615 ALVERCA DO RIBATEJO",
-  :cp7 nil}
+  :cp7 "2615"}
  {:distrito "Lisboa",
   :concelho "Vila Franca de Xira",
   :school-href
@@ -6565,7 +6565,7 @@
   :title-clean "Gago Coutinho",
   :address-clean
   "Estrada de Arcena, lote 22 loja Dtª 2615 ALVERCA DO RIBATEJO",
-  :cp7 nil}
+  :cp7 "2615"}
  {:distrito "Braga",
   :concelho "Vila Nova de Famalicão",
   :school-href
@@ -7024,7 +7024,7 @@
   :title-clean "Terceiro Milénio",
   :address-clean
   "Urbanização S. Sebastião lote 1 Loja A - Quinta da Malata 8500 PORTIMÃO",
-  :cp7 nil}
+  :cp7 "8500"}
  {:distrito "Faro",
   :concelho "Portimão",
   :school-href
@@ -7035,7 +7035,7 @@
   :title-clean "Terceiro Milénio",
   :address-clean
   "Urbanização S. Sebastião lote 1 Loja A - Quinta da Malata 8500 PORTIMÃO",
-  :cp7 nil}
+  :cp7 "8500"}
  {:distrito "Porto",
   :concelho "Marco de Canavezes",
   :school-href
@@ -7728,7 +7728,7 @@
   :nec-raw 1031,
   :title-clean "Os Loios",
   :address-clean "Praceta dos Loios, Nº 5 B 2830 BARREIRO",
-  :cp7 nil}
+  :cp7 "2830"}
  {:distrito "Setúbal",
   :concelho "Barreiro",
   :school-href
@@ -7738,7 +7738,7 @@
   :nec-raw 1031,
   :title-clean "Os Loios",
   :address-clean "Praceta dos Loios, Nº 5 B 2830 BARREIRO",
-  :cp7 nil}
+  :cp7 "2830"}
  {:distrito "Lisboa",
   :concelho "Loures",
   :school-href
@@ -7978,7 +7978,7 @@
   :title-clean "Madalena e Fonseca",
   :address-clean
   "Rua Eleutério Teixeira – Urb. Jardins D´ Água Lt 27 2825 MONTE DA CAPARICA",
-  :cp7 nil}
+  :cp7 "2825"}
  {:distrito "Setúbal",
   :concelho "Almada",
   :school-href
@@ -7989,7 +7989,7 @@
   :title-clean "Madalena e Fonseca",
   :address-clean
   "Rua Eleutério Teixeira – Urb. Jardins D´ Água Lt 27 2825 MONTE DA CAPARICA",
-  :cp7 nil}
+  :cp7 "2825"}
  {:distrito "Santarém",
   :concelho "Rio Maior",
   :school-href
@@ -8678,7 +8678,7 @@
   :nec-raw 1138,
   :title-clean "Instrusol",
   :address-clean "Rua António Amaro Monteiro nº 6 A 2830 BARREIRO",
-  :cp7 nil}
+  :cp7 "2830"}
  {:distrito "Setúbal",
   :concelho "Barreiro",
   :school-href
@@ -8688,7 +8688,7 @@
   :nec-raw 1138,
   :title-clean "Instrusol",
   :address-clean "Rua António Amaro Monteiro nº 6 A 2830 BARREIRO",
-  :cp7 nil}
+  :cp7 "2830"}
  {:distrito "Beja",
   :concelho "Odemira",
   :school-href
@@ -8699,7 +8699,7 @@
   :title-clean "Odemirense",
   :address-clean
   "Avª do Comércio nº 6 A 7630-33 BOAVISTA DOS PINHEIROS",
-  :cp7 nil}
+  :cp7 "7630-33"}
  {:distrito "Beja",
   :concelho "Odemira",
   :school-href
@@ -9056,7 +9056,7 @@
   :title-clean "Santa Eugénia",
   :address-clean
   "Estrada Nacional n.º 2-Edificio Campilho, Piso 2, Loja 7 R/C 5400 VIDAGO",
-  :cp7 nil}
+  :cp7 "5400"}
  {:distrito "Setúbal",
   :concelho "Setúbal",
   :school-href
