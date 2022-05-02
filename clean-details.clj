@@ -32,11 +32,29 @@
    (update :address-clean #(clean-weirdness (str/trim %)))
    (dissoc :address-raw)))
 
+(defn parse-cp7 [s]
+  (-> s
+      (assoc :cp7 (:address-clean s))
+      (update :cp7 (fn [address]
+                     (or (re-find #"\d{4}-\s\d{3}" address)
+                         (re-find #"\d{4}-\d{3}" address)
+                         (re-find #"\d{4}\s-\d{3}" address)
+                         (re-find #"\d{4}\s-\s\d{3}" address))))))
+
+#_(->> d
+     (take 10)
+     (map clean-address)
+     (map parse-cp7)
+     (map :cp7))
+
+
+
 (def results (->> d
                   #_(take 304)
                   (map clean-name)
                   (map clean-nec)
                   (map clean-address)
+                  (map parse-cp7)
                   (sort #(compare (:nec-raw %1) (:nec-raw %2)))
                   doall))
 
