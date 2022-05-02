@@ -91,7 +91,7 @@
   :nec-raw 8,
   :title-clean "Victória",
   :address-clean "Rua Palmira, 64 – 1º Esqº 1170 -286 LISBOA",
-  :cp7 "1170 -286"}
+  :cp7 "1170-286"}
  {:distrito "Lisboa",
   :concelho "Lisboa",
   :school-href
@@ -504,7 +504,7 @@
   :title-clean "Vila Franca",
   :address-clean
   "Rua Alves Redol, 115 e 117 2600 - 100 VILA FRANCA XIRA ",
-  :cp7 "2600 - 100"}
+  :cp7 "2600-100"}
  {:distrito "Porto",
   :concelho "Porto",
   :school-href
@@ -639,7 +639,7 @@
   :nec-raw 79,
   :title-clean "Farense",
   :address-clean "Largo de S. Pedro, Nº 8-1º 8000 -145 FARO",
-  :cp7 "8000 -145"}
+  :cp7 "8000-145"}
  {:distrito "Faro",
   :concelho "Faro",
   :school-href
@@ -649,7 +649,7 @@
   :nec-raw 79,
   :title-clean "Farense",
   :address-clean "Largo de S. Pedro, Nº 8-1º 8000 -145 FARO",
-  :cp7 "8000 -145"}
+  :cp7 "8000-145"}
  {:distrito "Beja",
   :concelho "Beja",
   :school-href
@@ -1657,7 +1657,7 @@
   :nec-raw 296,
   :title-clean "Sousel",
   :address-clean "Rua de S. Pedro, Nº 8 7470 - 181 SOUSEL",
-  :cp7 "7470 - 181"}
+  :cp7 "7470-181"}
  {:distrito "Braga",
   :concelho "Cabeceiras de Basto",
   :school-href
@@ -2090,7 +2090,7 @@
   :title-clean "Planeta",
   :address-clean
   "Rua Vicente de Almeida Eça,nº 38-44-Esgueira 3800 -276 AVEIRO",
-  :cp7 "3800 -276"}
+  :cp7 "3800-276"}
  {:distrito "Aveiro",
   :concelho "Aveiro",
   :school-href
@@ -2101,7 +2101,7 @@
   :title-clean "Planeta",
   :address-clean
   "Rua Vicente de Almeida Eça,nº 38-44-Esgueira 3800 -276 AVEIRO",
-  :cp7 "3800 -276"}
+  :cp7 "3800-276"}
  {:distrito "Lisboa",
   :concelho "Lisboa",
   :school-href
@@ -2293,7 +2293,7 @@
   :title-clean "Sameiro Nova Era",
   :address-clean
   "Rua Rodrigues de Freitas, 2072 r/c Esqº e 1º Dtº 4445 - 637 ERMESINDE",
-  :cp7 "4445 - 637"}
+  :cp7 "4445-637"}
  {:distrito "Porto",
   :concelho "Valongo",
   :school-href
@@ -2304,7 +2304,7 @@
   :title-clean "Sameiro Nova Era",
   :address-clean
   "Rua Rodrigues de Freitas, 2072 r/c Esqº e 1º Dtº 4445 - 637 ERMESINDE",
-  :cp7 "4445 - 637"}
+  :cp7 "4445-637"}
  {:distrito "Aveiro",
   :concelho "Águeda",
   :school-href
@@ -2417,7 +2417,7 @@
   :title-clean "Vitória",
   :address-clean
   "Rua Dr. Joaquim Manuel da Costa, n.º 830, 4420 - 437 Valbom, GONDOMAR",
-  :cp7 "4420 - 437"}
+  :cp7 "4420-437"}
  {:distrito "Aveiro",
   :concelho "Santa Maria da Feira",
   :school-href
@@ -2762,7 +2762,7 @@
   :nec-raw 451,
   :title-clean "Ourique",
   :address-clean "Rua Batalha de Ourique, Nº49 7670 -261 OURIQUE",
-  :cp7 "7670 -261"}
+  :cp7 "7670-261"}
  {:distrito "Setúbal",
   :concelho "Seixal",
   :school-href
@@ -3003,7 +3003,7 @@
   :title-clean "De Palmela",
   :address-clean
   "Rua Humberto Cardoso, Lote 15 B2 2950 -210 PINHAL NOVO",
-  :cp7 "2950 -210"}
+  :cp7 "2950-210"}
  {:distrito "Porto",
   :concelho "Póvoa de Varzim",
   :school-href
@@ -3098,7 +3098,7 @@
   :nec-raw 487,
   :title-clean "Santa Maria de Óbidos",
   :address-clean "Estrada Nacional 8- Lote 4 2510 -737 GAEIRAS",
-  :cp7 "2510 -737"}
+  :cp7 "2510-737"}
  {:distrito "Braga",
   :concelho "Barcelos",
   :school-href
@@ -3173,7 +3173,7 @@
   :title-clean "Restauração",
   :address-clean
   "Praceta Torcato Ferreira, Lote 4 c/v Dtª 2700 -821 AMADORA",
-  :cp7 "2700 -821"}
+  :cp7 "2700-821"}
  {:distrito "Lisboa",
   :concelho "Amadora",
   :school-href
@@ -3184,7 +3184,7 @@
   :title-clean "Restauração",
   :address-clean
   "Praceta Torcato Ferreira, Lote 4 c/v Dtª 2700 -821 AMADORA",
-  :cp7 "2700 -821"}
+  :cp7 "2700-821"}
  {:distrito "Porto",
   :concelho "Matosinhos",
   :school-href
@@ -3426,7 +3426,7 @@
   :nec-raw 535,
   :title-clean "Pero Pinheiro",
   :address-clean "Avª da Liberdade nº 72 -1º 2715 -097 PERO PINHEIRO",
-  :cp7 "2715 -097"}
+  :cp7 "2715-097"}
  {:distrito "Aveiro",
   :concelho "Espinho",
   :school-href
@@ -3479,7 +3479,7 @@
   :title-clean "Damaia",
   :address-clean
   "Rua Fontes Pereira de Melo, Nº 24-A Damaia 2720 -233 AMADORA",
-  :cp7 "2720 -233"}
+  :cp7 "2720-233"}
  {:distrito "Lisboa",
   :concelho "Amadora",
   :school-href
@@ -3490,7 +3490,7 @@
   :title-clean "Damaia",
   :address-clean
   "Rua Fontes Pereira de Melo, Nº 24-A Damaia 2720 -233 AMADORA",
-  :cp7 "2720 -233"}
+  :cp7 "2720-233"}
  {:distrito "Porto",
   :concelho "Vila Nova de Gaia",
   :school-href
@@ -3925,7 +3925,7 @@
   :title-clean "Triunfo - Fundão",
   :address-clean
   "Loteamento Boavista, Lote 23 R/C DTº 6230 -287 FUNDÃO",
-  :cp7 "6230 -287"}
+  :cp7 "6230-287"}
  {:distrito "Porto",
   :concelho "Maia",
   :school-href
@@ -4176,7 +4176,7 @@
   :nec-raw 622,
   :title-clean "Nova em Águeda",
   :address-clean "Rua Amaro Castela, nº 1, Fração B, 3550–124 Águeda",
-  :cp7 "3550–124"}
+  :cp7 "3550-124"}
  {:distrito "Lisboa",
   :concelho "Cascais",
   :school-href
@@ -4209,7 +4209,7 @@
   :title-clean "do Fanqueiro - Loures",
   :address-clean
   "Rua Joaquim Fernandes, Nº 10 - Fanqueiro 2670 -365 LOURES",
-  :cp7 "2670 -365"}
+  :cp7 "2670-365"}
  {:distrito "Lisboa",
   :concelho "Loures",
   :school-href
@@ -4220,7 +4220,7 @@
   :title-clean "do Fanqueiro - Loures",
   :address-clean
   "Rua Joaquim Fernandes, Nº 10 - Fanqueiro 2670 -365 LOURES",
-  :cp7 "2670 -365"}
+  :cp7 "2670-365"}
  {:distrito "Santarém",
   :concelho "Alpiarça",
   :school-href
@@ -4410,7 +4410,7 @@
   :title-clean "S. João da Talha",
   :address-clean
   "Quinta das Torres , lote 8 r/c 2695 -731 S. JOÃO DA TALHA",
-  :cp7 "2695 -731"}
+  :cp7 "2695-731"}
  {:distrito "Santarém",
   :concelho "Coruche",
   :school-href
@@ -4441,7 +4441,7 @@
   :nec-raw 646,
   :title-clean "A Ideal de Alcácer",
   :address-clean "Rua de S. Pedro nº 8 R/C 7580 -142 ALCÁCER DO SAL",
-  :cp7 "7580 -142"}
+  :cp7 "7580-142"}
  {:distrito "Setúbal",
   :concelho "Montijo",
   :school-href
@@ -4778,7 +4778,7 @@
   :title-clean "Carmona",
   :address-clean
   "Rua da Junta de Freguesia - Shopping Parque, Loja 14 2330 -114 ENTRONCAMENTO",
-  :cp7 "2330 -114"}
+  :cp7 "2330-114"}
  {:distrito "Braga",
   :concelho "Fafe",
   :school-href
@@ -5348,7 +5348,7 @@
   :title-clean "Alto das Cerejas",
   :address-clean
   "Rua Fonte Pereira, Lote 1, Fracção H, Campos, 4920- 011 Vila Nova de Cerveira",
-  :cp7 "4920- 011"}
+  :cp7 "4920-011"}
  {:distrito "Faro",
   :concelho "Silves",
   :school-href
@@ -5557,7 +5557,7 @@
   :nec-raw 772,
   :title-clean "Scallabis",
   :address-clean "Rua do Baco, 16 A 2580 -010 ABRIGADA",
-  :cp7 "2580 -010"}
+  :cp7 "2580-010"}
  {:distrito "Braga",
   :concelho "Braga",
   :school-href
@@ -5803,7 +5803,7 @@
   :nec-raw 804,
   :title-clean "Galáxia",
   :address-clean "Rua Cristóvão Colombo, nº 77 2870 -260 MONTIJO",
-  :cp7 "2870 -260"}
+  :cp7 "2870-260"}
  {:distrito "Braga",
   :concelho "Guimarães",
   :school-href
@@ -5906,7 +5906,7 @@
   :nec-raw 816,
   :title-clean "Memorial",
   :address-clean "Lugar de Memorial 4575 -032 ALPENDURADA e MATOS",
-  :cp7 "4575 -032"}
+  :cp7 "4575-032"}
  {:distrito "Porto",
   :concelho "Marco de Canavezes",
   :school-href
@@ -5916,7 +5916,7 @@
   :nec-raw 816,
   :title-clean "Memorial",
   :address-clean "Lugar de Memorial 4575 -032 ALPENDURADA e MATOS",
-  :cp7 "4575 -032"}
+  :cp7 "4575-032"}
  {:distrito "Braga",
   :concelho "Barcelos",
   :school-href
@@ -5927,7 +5927,7 @@
   :title-clean "Galo",
   :address-clean
   "Rua Santa Clara,Edificio Santa Clara, Loja 1 e 2 4750 -132 ARCOZELO",
-  :cp7 "4750 -132"}
+  :cp7 "4750-132"}
  {:distrito "Braga",
   :concelho "Barcelos",
   :school-href
@@ -5938,7 +5938,7 @@
   :title-clean "Galo",
   :address-clean
   "Rua Santa Clara,Edificio Santa Clara, Loja 1 e 2 4750 -132 ARCOZELO",
-  :cp7 "4750 -132"}
+  :cp7 "4750-132"}
  {:distrito "Viseu",
   :concelho "Lamego",
   :school-href
@@ -6055,7 +6055,7 @@
   :title-clean "Viazul",
   :address-clean
   "Edifício Casa D' Alves - Barril 2640 -202 ENCARNAÇÃO",
-  :cp7 "2640 -202"}
+  :cp7 "2640-202"}
  {:distrito "Lisboa",
   :concelho "Mafra",
   :school-href
@@ -6066,7 +6066,7 @@
   :title-clean "Viazul",
   :address-clean
   "Edifício Casa D' Alves - Barril 2640 -202 ENCARNAÇÃO",
-  :cp7 "2640 -202"}
+  :cp7 "2640-202"}
  {:distrito "Porto",
   :concelho "Santo Tirso",
   :school-href
@@ -6140,7 +6140,7 @@
   :title-clean "Duarte",
   :address-clean
   "Rua Prof. Marcelo Caetano nº 15 r/c 2550 -429 PAINHO",
-  :cp7 "2550 -429"}
+  :cp7 "2550-429"}
  {:distrito "Braga",
   :concelho "Guimarães",
   :school-href
@@ -6618,7 +6618,7 @@
   :title-clean "Mem Martins – D. Afonso V",
   :address-clean
   "Rua António Silva Nº 4, Loja A -Urb. S. Carlos 2725 -171 MEM MARTINS",
-  :cp7 "2725 -171"}
+  :cp7 "2725-171"}
  {:distrito "Viseu",
   :concelho "Carregal do Sal",
   :school-href
@@ -6711,7 +6711,7 @@
   :nec-raw 904,
   :title-clean "Jorge Justino-Almeirim",
   :address-clean "Avª 25 de Abril, r/c, Loja 2 2080 -012 ALMEIRIM",
-  :cp7 "2080 -012"}
+  :cp7 "2080-012"}
  {:distrito "Braga",
   :concelho "Barcelos",
   :school-href
@@ -6880,7 +6880,7 @@
   :nec-raw 931,
   :title-clean "J. Guerreiro e Batista",
   :address-clean "Rua José Maria Pinela 7540 -113 SANTIAGO DO CACÉM",
-  :cp7 "7540 -113"}
+  :cp7 "7540-113"}
  {:distrito "Santarém",
   :concelho "Benavente",
   :school-href
@@ -8709,7 +8709,7 @@
   :nec-raw 1142,
   :title-clean "A Mourinha de Stº Teotónio",
   :address-clean "Rua das Escolas nº 1 e 3 r/c 7630 -623 S. TEOTÓNIO",
-  :cp7 "7630 -623"}
+  :cp7 "7630-623"}
  {:distrito "Braga",
   :concelho "Esposende",
   :school-href
@@ -9267,7 +9267,7 @@
   :nec-raw 1197,
   :title-clean "Um",
   :address-clean "Rua da Universidade, Nº 46 4710 - 057 BRAGA",
-  :cp7 "4710 - 057"}
+  :cp7 "4710-057"}
  {:distrito "Aveiro",
   :concelho "Aveiro",
   :school-href
@@ -9289,7 +9289,7 @@
   :title-clean "Leziria",
   :address-clean
   "Rua dos Alámos, Lote 42 - R/C Dtº 2135 - 003 SAMORA CORREIA",
-  :cp7 "2135 - 003"}
+  :cp7 "2135-003"}
  {:distrito "Porto",
   :concelho "Vila Nova de Gaia",
   :school-href

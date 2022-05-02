@@ -36,21 +36,23 @@
   (-> s
       (assoc :cp7 (:address-clean s))
       (update :cp7 (fn [address]
-                     (or (re-find #"\d{4}-\s\d{3}" address)
-                         ;;next two lines aren't duplicates: -–
-                         (re-find #"\d{4}-\d{3}" address)
-                         (re-find #"\d{4}–\d{3}" address)
-                         (re-find #"\d{4}\s-\d{3}" address)
-                         (re-find #"\d{4}\s-\s\d{3}" address)
-                         (re-find #"\d{4}-\d{2}" address)
-                         (re-find #"\d{4}" address))))))
+                     (let  [cp7 (first (re-find #"\d{4}(–|-|\s-\s|\s-|-\s)(\d{3}|\d{2})" address))
+                            cp7-4 (when cp7 (re-find #"^\d{4}(?=\D)" cp7))
+                            cp7-3 (when cp7 (first (re-find #"(?<=\D)(\d{3}|\d{2})" cp7)))]
+                       (if cp7
+                         (apply str [cp7-4 "-" cp7-3])
+                         (re-find #"\d{4}" address)))))))
 #_(->> d
      (take 10)
      (map clean-address)
      (map parse-cp7)
      (map :cp7))
 
+#_(re-find #"(?<=\D)(\d{3}|\d{2})" "1124-563")
 
+#_(parse-cp7 {:address-clean "2685-861"})
+
+#_(re-find #"\d{4}(–|-|\s-\s|\s-|-\s)\d{3}" "1111 - 111")
 
 (def results (->> d
                   #_(take 304)
