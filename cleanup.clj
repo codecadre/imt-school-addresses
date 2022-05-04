@@ -1,4 +1,4 @@
-(ns clean-details
+(ns cleanup
   (:require [clojure.edn :as edn]
             [clojure.pprint :as pprint]
             [clojure.string :as str]))
@@ -42,17 +42,6 @@
                        (if cp7
                          (apply str [cp7-4 "-" cp7-3])
                          (re-find #"\d{4}" address)))))))
-#_(->> d
-     (take 10)
-     (map clean-address)
-     (map parse-cp7)
-     (map :cp7))
-
-#_(re-find #"(?<=\D)(\d{3}|\d{2})" "1124-563")
-
-#_(parse-cp7 {:address-clean "2685-861"})
-
-#_(re-find #"\d{4}(–|-|\s-\s|\s-|-\s)\d{3}" "1111 - 111")
 
 (def results (->> d
                   #_(take 304)
@@ -64,65 +53,7 @@
                   doall))
 
 
-#_(->> results
-     (filter (fn [r]
-               (nil? (:cp7 r))))
-     (map :address-clean))
-
-#_(->> [(nth d 303)]
-     (map clean-name)
-     (map clean-nec)
-     #_(map clean-address)
-     doall)
-
-#_(last (take 48 d))
-
-#_(pprint/pprint results)
-
-#_(map :title-raw results)
-
-
 (spit "./parsed-data/db.edn" (with-out-str (pprint/pprint results)))
 
 (spit "./parsed-data/db.txt" (with-out-str (pprint/print-table results)))
-
-
-#_(-> {:distrito "Bragança",
- :concelho "Carrazeda de Ansiâes",
- :school-href
- "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/K%c3%a9ris.aspx",
- :concelho-href
- "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Carrazeda%20Ans%C3%A3es",
- :title-raw "\r\n\t        Kéris \r\n\t        ",
- :address-raw
- "\r\n\t\t\tRua Luis de Camões, n.º 319, r/c B 5140-080 Carrazeda de Ansiães \r\n\t\t",
- :nec-raw
- {:type :element,
-  :attrs
-  {:id "ctl00_PlaceHolderMain_ObservacoesDiv",
-   :class "paginaConteudoDivTextoSemImagem"},
-  :tag :div,
-  :content
-  ["\r\n\t\t\t"
-   {:type :element,
-    :attrs
-    {:id
-     "ctl00_PlaceHolderMain_Observacoes__ControlWrapper_RichHtmlField",
-     :style "display:inline"},
-    :tag :div,
-    :content
-    [{:type :element,
-      :attrs {:color "#808184", :face "Arial"},
-      :tag :font,
-      :content
-      ["Nº Alvará: "
-       {:type :element,
-        :attrs {:color "#808184", :face "Arial"},
-        :tag :font,
-        :content ["1356"]}
-       " "]}]}
-   "\r\n\t\t"]}}
-    clean-name
-    clean-address
-    clean-nec
-    )
+g
