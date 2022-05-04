@@ -3,7 +3,7 @@
             [clojure.pprint :as pprint]
             [clojure.string :as str]))
 
-(def d (-> "enrich-raw.edn" slurp edn/read-string))
+(def d (-> "schools.edn" slurp edn/read-string))
 
 (defn clean-weirdness [s]
   (apply str (remove #(= % \ ) (seq s))))
@@ -82,9 +82,9 @@
 #_(map :title-raw results)
 
 
-(spit "./enrich-clean.edn" (with-out-str (pprint/pprint results)))
+(spit "./parsed-data/db.edn" (with-out-str (pprint/pprint results)))
 
-(spit "./table.txt" (with-out-str (pprint/print-table results)))
+(spit "./parsed-data/db.txt" (with-out-str (pprint/print-table results)))
 
 
 #_(-> {:distrito "Bragança",

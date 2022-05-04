@@ -49,28 +49,9 @@ Pulls each school page and produces `schools.edn` with the details.
 
 
 
-
-
-
-
-The entire data set can be found in
-
-
-
-Check [`parse.ipynb`](parse.ipynb).
-
 ## Licence
 
 TODO
 
 GPL2 maybe
 MIT Maybe
-
-
-
-
-```
-nbb scrape.cljs
-```
-
-writes `schools.json`.
