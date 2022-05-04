@@ -3886,16 +3886,6 @@
  {:distrito "Porto",
   :concelho "Vila Nova de Gaia",
   :school-href
-  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovaemGulpilhares709.aspx",
-  :concelho-href
-  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia",
-  :title-raw "\r\n\t        Nova em Gulpilhares \r\n\t        ",
-  :address-raw
-  "\r\n\t\t\tRua Padre Cid n º 390 r/c 4405-677 GULPILHARES \r\n\t\t",
-  :nec-raw "NºAlvará: 1021\r\n\t\t\t"}
- {:distrito "Porto",
-  :concelho "Vila Nova de Gaia",
-  :school-href
   "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovaGaia712.aspx",
   :concelho-href
   "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia",
