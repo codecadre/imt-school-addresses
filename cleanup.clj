@@ -1,7 +1,8 @@
 (ns cleanup
   (:require [clojure.edn :as edn]
             [clojure.pprint :as pprint]
-            [clojure.string :as str]))
+            [clojure.string :as str]
+            [cheshire.core :as json]))
 
 (def d (-> "schools.edn" slurp edn/read-string))
 
@@ -54,6 +55,5 @@
 
 
 (spit "./parsed-data/db.edn" (with-out-str (pprint/pprint results)))
-
+(spit "./parsed-data/db.json" (json/generate-string results {:pretty true}))
 (spit "./parsed-data/db.txt" (with-out-str (pprint/print-table results)))
-g
