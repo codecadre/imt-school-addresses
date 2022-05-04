@@ -29,7 +29,7 @@ To reproduce the parsing and data processing, you need [`babashka`](https://baba
 ### Install
 
 ```
-npi i
+npm i
 ```
 
 ## Run
