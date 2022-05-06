@@ -54,6 +54,6 @@
                                  href->hc!
                                  hiccup->school-raw)))
   (println "processed " (count @results) " schools.")
-  (Thread/sleep (int (rand 500))))
+  (Thread/sleep (int (rand 250))))
 
 (spit "./schools.edn" (with-out-str (pprint/pprint @results)))

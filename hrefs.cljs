@@ -5,7 +5,7 @@
    ["fs" :as fs]
    [clojure.string :as str]))
 
-(defn sleep-ms [] (js/Promise. (fn [r] (js/setTimeout r (int (* 1000 (rand)))))))
+(defn sleep-ms [] (js/Promise. (fn [r] (js/setTimeout r (int (* 500 (rand)))))))
 
 (defn escape-char
   "escape special characters"[s]
@@ -34,46 +34,61 @@
 (defn cycle-paginators [page {:keys [id href distrito concelho] :as concelho-map} page-count next-page results]
   (p/let [_ (.waitForSelector page ".divPaginacaoSemMenu > input")
           paginator-handlers (.$$ page ".divPaginacaoSemMenu > input")
-          next-page-handler (nth paginator-handlers next-page)
+          next-page-handler (nth paginator-handlers (if (= 1 next-page)
+                                                      next-page
+                                                      (inc next-page)));;skip first one "<" after first page
           _ (.click next-page-handler)
-          _ (.waitForSelector page ".divPaginacaoSemMenu > input")
-          _ (.goBack page)
-          _ (.goForward page)
+          ;;_ (.goBack page)
+          ;;_ (.goForward page)
           _ (sleep-ms)
-          results (pull-schools-href-list page concelho-map results)]
+          _ (.waitForSelector page ".divPaginacaoSemMenu > input")
+          _ (prn "pulling for np:" next-page)
+          results (pull-schools-href-list page concelho-map results)
+          next-page (inc next-page)]
     (if (> page-count next-page)
-      (cycle-paginators page concelho-map page-count (inc next-page) results)
+      (cycle-paginators page concelho-map page-count next-page results)
       results)))
 
 (defn get-school-href [page concelho results]
   (p/let [_ (.goto page (:href concelho))
           _ (sleep-ms)
           paginator-handles (.$$ page ".divPaginacaoSemMenu > input")
-          paginator-handles (drop-last paginator-handles)
-          handlers-count (count paginator-handles)]
-    (if (zero? handlers-count)
-      (p/let [results (pull-schools-href-list page concelho results)]
-        results)
+          paginator-handles (drop-last paginator-handles);;drops the ">" next element
+          handlers-count (count paginator-handles)
+          no-pagination? (zero? handlers-count)
+          results (pull-schools-href-list page concelho results)]
+
+    (if no-pagination?
+      results
       (cycle-paginators page concelho handlers-count 1 results))))
+
+(comment (p/let [browser (.launch puppeteer #js {:headless false})
+         page (.newPage browser)
+         _ (.goto page "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Paredes")
+         paginator-handles (.$$ page ".divPaginacaoSemMenu > input")
+         paginator-handles (drop-last paginator-handles) ;;drops the ">" next element
+         handlers-count (count paginator-handles)]
+
+   (prn ">> " handlers-count) ))
 
 (comment
   (def concelhos [{:distrito "Lisboa"
                    :concelho "Lisboa"
                    :href
-                   "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}
+                   "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Loul%C3%A9"}
                   {:distrito "wtv"
                    :concelho "wtv"
-                   :href "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Bragan%u00e7a"}
+                   :href "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Paredes"}
                   {:distrito "wtv"
                    :concelho "wtv"
                    :href
-                   "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Cabeiras%20Basto"}])
+                   "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}])
 
   (p/let [browser (.launch puppeteer #js {:headless false})
           page (.newPage browser)
-          concelho-map (nth concelhos 1)
+          concelho-map (nth concelhos 2)
           results (get-school-href page concelho-map [])]
-    (prn results)))
+    (prn "pulled: "(count (set (map :school-href results))))))
 
 (defn pull-schools [page concelhos results]
   (p/let [concelho (first concelhos)
@@ -85,6 +100,16 @@
     (if (empty? rest-concelho)
       results
       (pull-schools page rest-concelho results))))
+
+(comment
+  (p/let [browser (.launch puppeteer #js {:headless false})
+          page (.newPage browser)
+          r (pull-schools page
+                          [{:href "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Loul%C3%A9",
+                            :concelho "wtv"
+                            :distrito "wtv"}]
+                          [])]
+    (prn (set (map :school-href r)))))
 
 (def anchors-query "var a = []; Array.from(document.querySelectorAll('a')).forEach(el => {a.push({href: el.href, id: el.id, html: el.innerHTML })});a")
 
@@ -117,9 +142,9 @@
  (p/let [browser (.launch puppeteer #js {:headless false})
          page (.newPage browser)]
    (pull-concelhos page
-                   [{:href "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Evora",
-                     :id "Distrito\\=Evora",
-                     :html "Évora"}])))
+                   [{:href "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Loul%C3%A9",
+                     :id "Distrito\\=Loule",
+                     :html "Loule"}])))
 
 (def base-url "https://www.imt-ip.pt")
 

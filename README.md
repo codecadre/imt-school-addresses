@@ -46,7 +46,19 @@ bb schools.clj
 
 Pulls each school page and produces `schools.edn` with the details.
 
+## nrepl
 
+```
+bb nrepl
+```
+
+for .`clj` files and
+
+```
+nbb nrepl-server :port 1337
+```
+
+for `*.cljs` files
 
 
 ## Licence
