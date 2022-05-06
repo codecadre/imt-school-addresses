@@ -20,6 +20,13 @@ Probably what you want is the output at
 - `parsed-data/db.edn`
 - `parsed-data/db.txt` (for debug but easier to look at for a quick reference)
 
+## unique ids and data issues
+
+Schools have an integer number which is unique for the most part. IMT calls this the "school number", "nec" or "alvará".
+
+However, given that this number appears associated with [multiple schools with different numbers](https://github.com/codecadre/imt-school-addresses/blob/20b1d3a0a4d05c54a906b3c2f55d4ea92ac73d70/duplicates.txt), etc, we added a UUID deterministically generated from the url of each school, which by definition, is a unique record.
+
+
 ## Steps to reproduce this:
 
 ### Dependencies
