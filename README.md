@@ -20,7 +20,7 @@ Probably what you want is the output at
 - `parsed-data/db.edn`
 - `parsed-data/db.txt` (for debug but easier to look at for a quick reference)
 
-## unique ids and data issues
+## Unique IDs and data issues
 
 Schools have an integer number which is unique for the most part. IMT calls this the "school number", "nec" or "alvará".
 

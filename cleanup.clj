@@ -2,7 +2,8 @@
   (:require [clojure.edn :as edn]
             [clojure.pprint :as pprint]
             [clojure.string :as str]
-            [cheshire.core :as json]))
+            [cheshire.core :as json]
+            [clojure.set :as set]))
 
 (def d (-> "schools.edn" slurp edn/read-string))
 
@@ -17,11 +18,12 @@
       ))
 
 (defn clean-nec [s]
-  (update s :nec-raw
-          (fn [nec-raw]
-            (if nec-raw
-              (edn/read-string (re-find #"\d+" nec-raw))
-              nil))))
+  (-> s
+   (update :nec-raw
+           (fn [nec-raw]
+             (if nec-raw
+               (edn/read-string (re-find #"\d+" nec-raw))
+               nil)))))
 
 (comment
   (clean-weirdness "Av Dr. António Caldas, loja 139, Faquelo  4970-592 Arcos de"))
@@ -75,11 +77,12 @@
                   (map clean-address)
                   (map parse-cp7)
                   (map add-uuid)
-                  (sort #(compare (:nec-raw %1) (:nec-raw %2)))
+                  (map #(set/rename-keys % {:nec-raw :nec :address-clean :address :title-clean :name :school-href :imt-href}))
+                  (sort #(compare (:nec %1) (:nec %2)))
                   doall))
 
 (def nec-duplicates
-  (map first (filter #(> (last %) 1) (map #(vector (first %) (count (last %))) (group-by :nec-raw results)))))
+  (map first (filter #(> (last %) 1) (map #(vector (first %) (count (last %))) (group-by :nec results)))))
 ;; ([nil 3]
 ;;  [851 3]
 ;;  [964 2]
@@ -90,20 +93,20 @@
 ;;  [1079 2]
 ;;  [1318 2])
 
-(def duplicates (filter #(or ((set nec-duplicates) (:nec-raw %)) (nil? (:nec-raw %))) results))
+(def duplicates (filter #(or ((set nec-duplicates) (:nec %)) (nil? (:nec %))) results))
 
 (spit "./duplicates.txt" (with-out-str
-                            (pprint/print-table [:id :nec-raw :title-clean :address-clean :school-href]
+                            (pprint/print-table [:id :nec :name :address :imt-href]
                                                 duplicates)))
 
-(comment (spit "./parsed-data/db.edn" (with-out-str (pprint/pprint results)))
- (spit "./parsed-data/db.json" (json/generate-string results {:pretty true}))
- (spit "./parsed-data/db.txt" (with-out-str (pprint/print-table results))))
+(spit "./parsed-data/db.edn" (with-out-str (pprint/pprint results)))
+(spit "./parsed-data/db.json" (json/generate-string results {:pretty true}))
+(spit "./parsed-data/db.txt" (with-out-str (pprint/print-table results)))
 
 (comment
   (count results) ;;1153
 
   (count (set results)) ;;1153
 
-  (count (set (map :nec-raw results)));; 1142
+  (count (set (map :nec results)));; 1142
   )
