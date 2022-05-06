@@ -44,16 +44,66 @@
                          (apply str [cp7-4 "-" cp7-3])
                          (re-find #"\d{4}" address)))))))
 
+
+(defn string->uuid
+  "deterministic ID
+  cljs version based on core/random-uuid with a few changes to use the seedrandom
+  WARNING: This is different than just adding a #uuid to a string"
+  [string]
+  #?(:clj (java.util.UUID/fromString (.toString (java.util.UUID/nameUUIDFromBytes (.getBytes string))))
+     :cljs (letfn [(random-fn [v] ((seedrandom (str string v))))
+                   (det-rand-int [i n] (Math/floor (* (random-fn i) n)))
+                   (hex [i] (.toString (det-rand-int i 16) 16))]
+             (let [rhex (.toString (bit-or 0x8 (bit-and 0x3 (det-rand-int 0 16))) 16)]
+               (uuid
+                (str (hex 1)  (hex 2)  (hex 3)  (hex 4)
+                     (hex 5)  (hex 6)  (hex 7)  (hex 8) "-"
+                     (hex 9)  (hex 10) (hex 11) (hex 12) "-"
+                     "4"      (hex 13) (hex 14) (hex 15) "-"
+                     rhex     (hex 16) (hex 17) (hex 18) "-"
+                     (hex 19) (hex 20) (hex 21) (hex 22)
+                     (hex 23) (hex 24) (hex 25) (hex 26)
+                     (hex 27) (hex 28) (hex 19) (hex 30)))))))
+
+(defn add-uuid [{:keys [school-href] :as s}]
+  (assoc s :id (string->uuid school-href)))
+
 (def results (->> d
                   #_(take 304)
                   (map clean-name)
                   (map clean-nec)
                   (map clean-address)
                   (map parse-cp7)
+                  (map add-uuid)
                   (sort #(compare (:nec-raw %1) (:nec-raw %2)))
                   doall))
 
+(def nec-duplicates
+  (map first (filter #(> (last %) 1) (map #(vector (first %) (count (last %))) (group-by :nec-raw results)))))
+;; ([nil 3]
+;;  [851 3]
+;;  [964 2]
+;;  [352 2]
+;;  [1077 2]
+;;  [131 2]
+;;  [1314 2]
+;;  [1079 2]
+;;  [1318 2])
 
-(spit "./parsed-data/db.edn" (with-out-str (pprint/pprint results)))
-(spit "./parsed-data/db.json" (json/generate-string results {:pretty true}))
-(spit "./parsed-data/db.txt" (with-out-str (pprint/print-table results)))
+(def duplicates (filter #(or ((set nec-duplicates) (:nec-raw %)) (nil? (:nec-raw %))) results))
+
+(spit "./duplicates.txt" (with-out-str
+                            (pprint/print-table [:id :nec-raw :title-clean :address-clean :school-href]
+                                                duplicates)))
+
+(comment (spit "./parsed-data/db.edn" (with-out-str (pprint/pprint results)))
+ (spit "./parsed-data/db.json" (json/generate-string results {:pretty true}))
+ (spit "./parsed-data/db.txt" (with-out-str (pprint/print-table results))))
+
+(comment
+  (count results) ;;1153
+
+  (count (set results)) ;;1153
+
+  (count (set (map :nec-raw results)));; 1142
+  )
