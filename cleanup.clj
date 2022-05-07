@@ -67,8 +67,8 @@
                      (hex 23) (hex 24) (hex 25) (hex 26)
                      (hex 27) (hex 28) (hex 19) (hex 30)))))))
 
-(defn add-uuid [{:keys [nec-raw name-clean] :as s}]
-  (assoc s :id (string->uuid (str name-clean nec-raw))))
+(defn add-uuid [{:keys [address-clean nec-raw title-clean] :as s}]
+  (assoc s :id (string->uuid (str title-clean address-clean nec-raw))))
 
 (def results (->> d
                   #_(take 304)
