@@ -67,8 +67,8 @@
                      (hex 23) (hex 24) (hex 25) (hex 26)
                      (hex 27) (hex 28) (hex 19) (hex 30)))))))
 
-(defn add-uuid [{:keys [school-href] :as s}]
-  (assoc s :id (string->uuid school-href)))
+(defn add-uuid [{:keys [nec-raw name-clean] :as s}]
+  (assoc s :id (string->uuid (str name-clean nec-raw))))
 
 (def results (->> d
                   #_(take 304)
@@ -95,13 +95,24 @@
 
 (def duplicates (filter #(or ((set nec-duplicates) (:nec %)) (nil? (:nec %))) results))
 
+(def ks
+  [:id
+   :nec
+   :name
+   :address
+   :distrito
+   :concelho
+   :cp7
+   :concelho-href
+   :imt-href])
+
 (spit "./duplicates.txt" (with-out-str
                             (pprint/print-table [:id :nec :name :address :imt-href]
                                                 duplicates)))
 
 (spit "./parsed-data/db.edn" (with-out-str (pprint/pprint results)))
 (spit "./parsed-data/db.json" (json/generate-string results {:pretty true}))
-(spit "./parsed-data/db.txt" (with-out-str (pprint/print-table results)))
+(spit "./parsed-data/db.txt" (with-out-str (pprint/print-table ks results)))
 
 (comment
   (count results) ;;1153
