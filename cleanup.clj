@@ -70,13 +70,22 @@
 (defn add-uuid [{:keys [address-clean nec-raw title-clean] :as s}]
   (assoc s :id (string->uuid (str title-clean address-clean nec-raw))))
 
+(defn overwrites [data-set]
+  (reduce
+   (fn [acc [update-id updates]]
+     (map (fn [{:keys [id] :as school}]
+            (if (= id update-id)
+              (merge school updates)
+              school)) acc)) data-set (-> "overwrites.edn" slurp edn/read-string)))
+
 (def results (->> d
                   #_(take 304)
                   (map clean-name)
                   (map clean-nec)
                   (map clean-address)
-                  (map parse-cp7)
                   (map add-uuid)
+                  overwrites
+                  (map parse-cp7)
                   (map #(set/rename-keys % {:nec-raw :nec :address-clean :address :title-clean :name :school-href :imt-href}))
                   (sort #(compare (:nec %1) (:nec %2)))
                   doall))

@@ -23,9 +23,15 @@ Probably what you want is the output at
 
 ## Unique IDs
 
-Schools have an associated integer value which is unique for the most part. This is the school license number provided by IMT, sometimes is also called "school number", "nec" or "alvará". However, this number appears associated with [multiple schools with different numbers](https://github.com/codecadre/imt-school-addresses/blob/20b1d3a0a4d05c54a906b3c2f55d4ea92ac73d70/duplicates.txt), for multiple reasons, for instance, it might be that a school closed down and the same license was granted to a different school. Because of this, we added a UUID deterministically generated from 
+Schools have an associated integer value which is unique for the most part. This is the school license number provided by IMT, sometimes is also called "school number", "nec" or "alvará". However, this number appears associated with [multiple schools with different numbers](https://github.com/codecadre/imt-school-addresses/blob/20b1d3a0a4d05c54a906b3c2f55d4ea92ac73d70/duplicates.txt), for multiple reasons, for instance, it might be that a school closed down and the same license was granted to a different school. Because of this, we added a UUID deterministically generated from
 
 ```UUID (school name + license nr. + address)```
+
+## Overwrites
+
+In some cases, information on the IMT school profile might not be accurate, for instance, the address might be an old one. Manually fixing these instances is outside the scope of the project, however, in cases where the address has a glaring mistake, we manually fix it with `overwrites.edn`. Here's a few examples:
+
+- [Lago Azul](https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LagoAzul%e2%80%93FigueirodosVinhos588.aspx) zip code: `3620` should be `3260`.
 
 ## Steps to reproduce this:
 
