@@ -12,6 +12,12 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Set%C3%BAbal"
   },
   {
+    "distrito": "Coimbra",
+    "concelho": "Cantanhede",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/4Drive.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Cantanhede"
+  },
+  {
     "distrito": "Aveiro",
     "concelho": "Santa Maria da Feira",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/5Estrelas.aspx",
@@ -22,12 +28,6 @@
     "concelho": "Santa Maria da Feira",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/5Quinas.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Santa%20Maria%20da%20Feira"
-  },
-  {
-    "distrito": "Porto",
-    "concelho": "Porto",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/75AGV.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"
   },
   {
     "distrito": "Porto",
@@ -100,6 +100,12 @@
     "concelho": "Lourinhã",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AFigueiredo018.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lourinh%C3%A3"
+  },
+  {
+    "distrito": "Porto",
+    "concelho": "Porto",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AGVPorto.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"
   },
   {
     "distrito": "Leiria",
@@ -241,9 +247,9 @@
   },
   {
     "distrito": "Porto",
-    "concelho": "Póvoa de Varzim",
+    "concelho": "Paços de Ferreira",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ASebastiana.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=P%C3%B3voa%20de%20Varzim"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Pa%C3%A7os%20de%20Ferreira"
   },
   {
     "distrito": "Faro",
@@ -264,12 +270,6 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Valen%C3%A7a"
   },
   {
-    "distrito": "Lisboa",
-    "concelho": "Loures",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AVidadaConducao.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Loures"
-  },
-  {
     "distrito": "Coimbra",
     "concelho": "Figueira da Foz",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Abadias047.aspx",
@@ -283,9 +283,9 @@
   },
   {
     "distrito": "Santarém",
-    "concelho": "Abrantes",
+    "concelho": "Mação",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Abranjovem049.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Abrantes"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Ma%C3%A7%C3%A3o"
   },
   {
     "distrito": "Santarém",
@@ -322,12 +322,6 @@
     "concelho": "Coimbra",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Academica054.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Coimbra"
-  },
-  {
-    "distrito": "Porto",
-    "concelho": "Porto",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Academica055.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"
   },
   {
     "distrito": "Aveiro",
@@ -558,12 +552,6 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia"
   },
   {
-    "distrito": "Porto",
-    "concelho": "Felgueiras",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AltodaLixa095.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Felgueiras"
-  },
-  {
     "distrito": "Viana do Castelo",
     "concelho": "Vila Nova de Cerveira",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AltodasCerejas096.aspx",
@@ -684,10 +672,10 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Arcos%20Valdevez"
   },
   {
-    "distrito": "Guarda",
-    "concelho": "Fornos de Algodres",
+    "distrito": "Coimbra",
+    "concelho": "Tábua",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Arede.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Guarda&Concelho=Fornos%20de%20Algodres"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=T%C3%A1bua"
   },
   {
     "distrito": "Faro",
@@ -1128,10 +1116,10 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Ansi%C3%A3o"
   },
   {
-    "distrito": "Évora",
-    "concelho": "Vendas Novas",
+    "distrito": "Leiria",
+    "concelho": "Figueiró dos Vinhos",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Avenida204.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Evora&Concelho=Vendas%20Novas"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Figueir%C3%B3%20dos%20Vinhos"
   },
   {
     "distrito": "Porto",
@@ -1147,9 +1135,9 @@
   },
   {
     "distrito": "Lisboa",
-    "concelho": "Lisboa",
+    "concelho": "Azambuja",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Azambuja207.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Azambuja"
   },
   {
     "distrito": "Viseu",
@@ -1410,6 +1398,12 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Santa%20Maria%20da%20Feira"
   },
   {
+    "distrito": "Faro",
+    "concelho": "Loulé",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Boliqueime.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Loul%C3%A9"
+  },
+  {
     "distrito": "Braga",
     "concelho": "Braga",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/BomJesus254.aspx",
@@ -1615,9 +1609,9 @@
   },
   {
     "distrito": "Bragança",
-    "concelho": "Vila Flôr",
+    "concelho": "Vimioso",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/CarlosVaz285.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Vila%20Flor"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Vimioso"
   },
   {
     "distrito": "Beja",
@@ -1759,9 +1753,9 @@
   },
   {
     "distrito": "Santarém",
-    "concelho": "Chamusca",
+    "concelho": "Santarém",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Chamusca307.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Chamusca"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Santar%C3%A9m"
   },
   {
     "distrito": "Setúbal",
@@ -1915,9 +1909,9 @@
   },
   {
     "distrito": "Lisboa",
-    "concelho": "Lisboa",
+    "concelho": "Sintra",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Columbano_.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"
   },
   {
     "distrito": "Santarém",
@@ -2136,10 +2130,10 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Vila%20Franca%20Xira"
   },
   {
-    "distrito": "Leiria",
-    "concelho": "Porto de Mós",
+    "distrito": "Santarém",
+    "concelho": "Almeirim",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DaSerra360.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Porto%20de%20M%C3%B3s"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Almeirim"
   },
   {
     "distrito": "Coimbra",
@@ -2322,6 +2316,12 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"
   },
   {
+    "distrito": "Porto",
+    "concelho": "Vila Nova de Gaia",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Dom%c3%adnio.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia"
+  },
+  {
     "distrito": "Vila Real",
     "concelho": "Peso da Régua",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Douriense395.aspx",
@@ -2394,10 +2394,10 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Santo%20Tirso"
   },
   {
-    "distrito": "Viseu",
-    "concelho": "Lamego",
+    "distrito": "Lisboa",
+    "concelho": "Cascais",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EgasMoniz402.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Lamego"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Cascais"
   },
   {
     "distrito": "Guarda",
@@ -2440,12 +2440,6 @@
     "concelho": "Tondela",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Escola%20de%20Condu%c3%a7%c3%a3o%20Grand%20Tour.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Tondela"
-  },
-  {
-    "distrito": "Lisboa",
-    "concelho": "Lisboa",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeCondu%c3%a7%c3%a3oAutom%c3%b3vel.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"
   },
   {
     "distrito": "Lisboa",
@@ -2514,16 +2508,22 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"
   },
   {
+    "distrito": "Faro",
+    "concelho": "Faro",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeConducaoMontenegroemMovimento.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Faro"
+  },
+  {
     "distrito": "Braga",
     "concelho": "Vila Nova de Famalicão",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeConducaoPositiva.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"
   },
   {
-    "distrito": "Porto",
-    "concelho": "Vila do Conde",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeConducaoSOUSABATISTA.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Conde"
+    "distrito": "Faro",
+    "concelho": "Portimão",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeConducaoSempremcirculo.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Portim%C3%A3o"
   },
   {
     "distrito": "Coimbra",
@@ -2686,12 +2686,6 @@
     "concelho": "Bragança",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Exito.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Bragan%C3%A7a"
-  },
-  {
-    "distrito": "Lisboa",
-    "concelho": "Loures",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Extra438.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Loures"
   },
   {
     "distrito": "Faro",
@@ -3031,9 +3025,9 @@
   },
   {
     "distrito": "Lisboa",
-    "concelho": "Odivelas",
+    "concelho": "Mafra",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Good.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Odivelas"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Mafra"
   },
   {
     "distrito": "Lisboa",
@@ -3076,12 +3070,6 @@
     "concelho": "Póvoa de Varzim",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/GuedesVieiraPovoadoVarzim501.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=P%C3%B3voa%20de%20Varzim"
-  },
-  {
-    "distrito": "Faro",
-    "concelho": "Loulé",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/GuedesVieriaSintra.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Loul%C3%A9"
   },
   {
     "distrito": "Porto",
@@ -3138,10 +3126,10 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Seixal"
   },
   {
-    "distrito": "Aveiro",
-    "concelho": "Aveiro",
+    "distrito": "Lisboa",
+    "concelho": "Mafra",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/HomemCristo.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Aveiro"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Mafra"
   },
   {
     "distrito": "Faro",
@@ -3306,12 +3294,6 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Beja&Concelho=Aljustrel"
   },
   {
-    "distrito": "Beja",
-    "concelho": "Odemira",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfantedeSagresAlmodovar533.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Beja&Concelho=Odemira"
-  },
-  {
     "distrito": "Setúbal",
     "concelho": "Barreiro",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfantedeSagresBarreiro546.aspx",
@@ -3409,9 +3391,9 @@
   },
   {
     "distrito": "Lisboa",
-    "concelho": "Vila Franca de Xira",
+    "concelho": "Mafra",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Instrucoop560.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Vila%20Franca%20Xira"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Mafra"
   },
   {
     "distrito": "Setúbal",
@@ -3822,12 +3804,6 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=CasteloBranco&Concelho=Sert%C3%A3"
   },
   {
-    "distrito": "Leiria",
-    "concelho": "Caldas da Raínha",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Malhoa.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Caldas%20da%20Rainha"
-  },
-  {
     "distrito": "Lisboa",
     "concelho": "Vila Franca de Xira",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Malvarosa.aspx",
@@ -3838,12 +3814,6 @@
     "concelho": "Setúbal",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Manobras621.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Set%C3%BAbal"
-  },
-  {
-    "distrito": "Guarda",
-    "concelho": "Manteigas",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Manteigas622.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Guarda&Concelho=Manteigas"
   },
   {
     "distrito": "Leiria",
@@ -4099,9 +4069,9 @@
   },
   {
     "distrito": "Bragança",
-    "concelho": "Mogadouro",
+    "concelho": "Torre de Moncorvo",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Mogadourense662.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Mogadouro"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Torre%20de%20Moncorvo"
   },
   {
     "distrito": "Viseu",
@@ -4171,9 +4141,9 @@
   },
   {
     "distrito": "Lisboa",
-    "concelho": "Cadaval",
+    "concelho": "Alenquer",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Montejunto.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Cadaval"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Alenquer"
   },
   {
     "distrito": "Braga",
@@ -4186,12 +4156,6 @@
     "concelho": "Montemor-o-Novo",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Montemorense674.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Evora&Concelho=Montemor%20o%20Novo"
-  },
-  {
-    "distrito": "Vila Real",
-    "concelho": "Valpaços",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Montenegrense675.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Valpa%C3%A7os"
   },
   {
     "distrito": "Setúbal",
@@ -4368,12 +4332,6 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia"
   },
   {
-    "distrito": "Aveiro",
-    "concelho": "São João da Madeira",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovaCaparica.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=S.%20Jo%C3%A3o%20da%20Madeira"
-  },
-  {
     "distrito": "Braga",
     "concelho": "Guimarães",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovaEra710.aspx",
@@ -4531,9 +4489,15 @@
   },
   {
     "distrito": "Setúbal",
-    "concelho": "Seixal",
+    "concelho": "Setúbal",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovadeSet%c3%babal.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Seixal"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Set%C3%BAbal"
+  },
+  {
+    "distrito": "Faro",
+    "concelho": "Tavira",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovadeTavira.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Tavira"
   },
   {
     "distrito": "Santarém",
@@ -4638,6 +4602,12 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Gondomar"
   },
   {
+    "distrito": "Porto",
+    "concelho": "Felgueiras",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/OMotorista.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Felgueiras"
+  },
+  {
     "distrito": "Bragança",
     "concelho": "Alfândega da Fé",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/OPrado.aspx",
@@ -4675,9 +4645,9 @@
   },
   {
     "distrito": "Leiria",
-    "concelho": "Óbidos",
+    "concelho": "Caldas da Raínha",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Oeste740.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=%C3%93bidos"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Caldas%20da%20Rainha"
   },
   {
     "distrito": "Porto",
@@ -4690,6 +4660,12 @@
     "concelho": "Oliveira do Bairro",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Oia741.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Oliveira%20Bairro"
+  },
+  {
+    "distrito": "Aveiro",
+    "concelho": "São João da Madeira",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Oitava.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=S.%20Jo%C3%A3o%20da%20Madeira"
   },
   {
     "distrito": "Castelo Branco",
@@ -4744,12 +4720,6 @@
     "concelho": "Braga",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Olivolante750.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Braga"
-  },
-  {
-    "distrito": "Porto",
-    "concelho": "Vila Nova de Gaia",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Onda751.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia"
   },
   {
     "distrito": "Braga",
@@ -4873,9 +4843,9 @@
   },
   {
     "distrito": "Aveiro",
-    "concelho": "Mealhada",
+    "concelho": "Anadia",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Pampilhosa770.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Mealhada"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Anadia"
   },
   {
     "distrito": "Porto",
@@ -5040,12 +5010,6 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Portalegre&Concelho=Ponte%20de%20Sor"
   },
   {
-    "distrito": "Vila Real",
-    "concelho": "Vila Real",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/PontodePartida.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Vila%20Real"
-  },
-  {
     "distrito": "Portalegre",
     "concelho": "Portalegre",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Portalegrense800.aspx",
@@ -5118,10 +5082,10 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Marco%20Canavezes"
   },
   {
-    "distrito": "Aveiro",
-    "concelho": "Aveiro",
+    "distrito": "Leiria",
+    "concelho": "Caldas da Raínha",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Prestige.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Aveiro"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Caldas%20da%20Rainha"
   },
   {
     "distrito": "Setúbal",
@@ -5262,12 +5226,6 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"
   },
   {
-    "distrito": "Leiria",
-    "concelho": "Caldas da Raínha",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RainhaDLeonor834.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Caldas%20da%20Rainha"
-  },
-  {
     "distrito": "Coimbra",
     "concelho": "Coimbra",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RainhaSanta835.aspx",
@@ -5314,6 +5272,12 @@
     "concelho": "Vila Nova de Famalicão",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Recta%20Segura.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"
+  },
+  {
+    "distrito": "Aveiro",
+    "concelho": "Anadia",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RedLineMalaposta.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Anadia"
   },
   {
     "distrito": "Évora",
@@ -5574,6 +5538,12 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Barcelos"
   },
   {
+    "distrito": "Lisboa",
+    "concelho": "Odivelas",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SCDrive.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Odivelas"
+  },
+  {
     "distrito": "Viseu",
     "concelho": "Penalva do Castelo",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SCristovao%e2%80%93PenalvadoCastelo881.aspx",
@@ -5622,12 +5592,6 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Guimar%C3%A3es"
   },
   {
-    "distrito": "Portalegre",
-    "concelho": "Portalegre",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SIIIMPLEAMAIA.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Portalegre&Concelho=Portalegre"
-  },
-  {
     "distrito": "Viseu",
     "concelho": "Cinfães",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SJoao886.aspx",
@@ -5635,9 +5599,9 @@
   },
   {
     "distrito": "Lisboa",
-    "concelho": "Loures",
+    "concelho": "Lisboa",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SJoaodaTalha888.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Loures"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"
   },
   {
     "distrito": "Lisboa",
@@ -5653,9 +5617,9 @@
   },
   {
     "distrito": "Braga",
-    "concelho": "Braga",
+    "concelho": "Vila Nova de Famalicão",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SMarcos892.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Braga"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"
   },
   {
     "distrito": "Coimbra",
@@ -5730,6 +5694,12 @@
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Loures"
   },
   {
+    "distrito": "Aveiro",
+    "concelho": "Santa Maria da Feira",
+    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Safira.aspx",
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Santa%20Maria%20da%20Feira"
+  },
+  {
     "distrito": "Viseu",
     "concelho": "Carregal do Sal",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Salizcruz907.aspx",
@@ -5737,9 +5707,9 @@
   },
   {
     "distrito": "Lisboa",
-    "concelho": "Vila Franca de Xira",
+    "concelho": "Loures",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Salvaterra908.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Vila%20Franca%20Xira"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Loures"
   },
   {
     "distrito": "Santarém",
@@ -5881,12 +5851,6 @@
   },
   {
     "distrito": "Porto",
-    "concelho": "Baião",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SantaMarinhense933.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Bai%C3%A3o"
-  },
-  {
-    "distrito": "Porto",
     "concelho": "Lousada",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SantaQuiteria934.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Lousada"
@@ -5941,9 +5905,9 @@
   },
   {
     "distrito": "Faro",
-    "concelho": "Alcoutim",
+    "concelho": "Faro",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SaoCiro947.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Alcoutim"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Faro"
   },
   {
     "distrito": "Braga",
@@ -6013,9 +5977,9 @@
   },
   {
     "distrito": "Castelo Branco",
-    "concelho": "Belmonte",
+    "concelho": "Covilhã",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SenhoradaEsperanca957.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=CasteloBranco&Concelho=Belmonte"
+    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=CasteloBranco&Concelho=Covilh%C3%A3"
   },
   {
     "distrito": "Porto",
@@ -6070,18 +6034,6 @@
     "concelho": "Sever do Vouga",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SeverdoVouga970.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Sever%20do%20Vouga"
-  },
-  {
-    "distrito": "Santarém",
-    "concelho": "Santarém",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Siiimplearr%c3%a1bida.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Santar%C3%A9m"
-  },
-  {
-    "distrito": "Setúbal",
-    "concelho": "Moita",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Siiimplesado.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Moita"
   },
   {
     "distrito": "Coimbra",
@@ -6171,12 +6123,6 @@
     "distrito": "Porto",
     "concelho": "Vila do Conde",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SousaBatista.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Conde"
-  },
-  {
-    "distrito": "Porto",
-    "concelho": "Vila do Conde",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SousaeBatista984.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Conde"
   },
   {
@@ -6753,12 +6699,6 @@
     "distrito": "Viseu",
     "concelho": "Viseu",
     "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Viriato1074.aspx",
-    "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Viseu"
-  },
-  {
-    "distrito": "Viseu",
-    "concelho": "Viseu",
-    "school-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Visiense1076.aspx",
     "concelho-href": "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Viseu"
   },
   {

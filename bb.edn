@@ -8,4 +8,8 @@
           (wait/wait-for-port "localhost" port)
           (spit ".nrepl-port" port)
           (fs/delete-on-exit ".nrepl-port")
-          (deref proc))}}
+          (deref proc))
+  hrefs {:doc "Step 1:scrapes IMT website for hrefs only"
+         :task (shell "npx nbb hrefs.cljs")}}
+
+ }

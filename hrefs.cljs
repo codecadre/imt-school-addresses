@@ -5,10 +5,18 @@
    ["fs" :as fs]
    [clojure.string :as str]))
 
-(defn sleep-ms [] (js/Promise. (fn [r] (js/setTimeout r (int (* 500 (rand)))))))
+(defn rand-int-from-to
+  "returns a random integer from to"
+  [from to]
+  (let [min-value from
+        max-value to]
+    (+ min-value (rand-int  (- max-value min-value)))))
+
+(defn sleep-ms [] (js/Promise. (fn [r] (js/setTimeout r (rand-int-from-to 500 2000)))))
 
 (defn escape-char
-  "escape special characters"[s]
+  "escape special characters"
+  [s]
   (->>
    (str/split s "=" )
    (interpose "\\=")
@@ -180,7 +188,8 @@
         #_#_districts (subvec (vec districts)  0 1)
         concelhos (pull-concelhos page districts [])
         schools (pull-schools page concelhos [])
-        school-string (.stringify js/JSON (clj->js schools) nil "  ")]
+        schools-sorted (sort-by :school-href schools)
+        school-string (.stringify js/JSON (clj->js schools-sorted) nil "  ")]
   (.close browser)
   (.writeFileSync fs "./hrefs.json" school-string))
 

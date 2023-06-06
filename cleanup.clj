@@ -7,6 +7,9 @@
 
 (def d (-> "schools.edn" slurp edn/read-string))
 
+(defn sort-schools [data]
+  (sort-by :imt-href data))
+
 (defn clean-weirdness [s]
   (apply str (remove #(= % \ ) (seq s))))
 
@@ -117,11 +120,11 @@
 
 (spit "./duplicates.txt" (with-out-str
                             (pprint/print-table [:id :nec :name :address :imt-href]
-                                                duplicates)))
+                                                (sort-schools duplicates))))
 
-(spit "./parsed-data/db.edn" (with-out-str (pprint/pprint results)))
-(spit "./parsed-data/db.json" (json/generate-string results {:pretty true}))
-(spit "./parsed-data/db.txt" (with-out-str (pprint/print-table ks results)))
+(spit "./parsed-data/db.edn" (with-out-str (pprint/pprint (sort-schools results))))
+(spit "./parsed-data/db.json" (json/generate-string (sort-schools results) {:pretty true}))
+(spit "./parsed-data/db.txt" (with-out-str (pprint/print-table ks (sort-schools results))))
 
 (comment
   (count results) ;;1153
@@ -130,3 +133,25 @@
 
   (count (set (map :nec results)));; 1142
   )
+
+
+
+(comment
+  ;;sorting hrefs.json
+  (def my-pretty-printer (cheshire.core/create-pretty-printer
+                          (assoc cheshire.core/default-pretty-print-options
+                                 :indent-arrays? true
+                                 :object-field-value-separator ": "))
+    )
+
+ (-> (cheshire.core/parse-string (slurp "hrefs.json"))
+     (as-> x (sort-by #(get % "school-href") x))
+     (cheshire.core/generate-string {:pretty my-pretty-printer})
+     (as-> xs (spit "hrefs.json" xs))
+     )
+
+ (-> [10 11]
+     (conj 12)
+     (as-> xs (map - xs [3 2 1]))
+     (reverse))
+ )
