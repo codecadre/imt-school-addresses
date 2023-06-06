@@ -7,9 +7,6 @@
 
 (def d (-> "schools.edn" slurp edn/read-string))
 
-(defn sort-schools [data]
-  (sort-by :imt-href data))
-
 (defn clean-weirdness [s]
   (apply str (remove #(= % \ ) (seq s))))
 
@@ -122,11 +119,11 @@
 
 (spit "./duplicates.txt" (with-out-str
                             (pprint/print-table [:id :nec :name :address :imt-href]
-                                                (sort-schools duplicates))))
+                                                duplicates)))
 
-(spit "./parsed-data/db.edn" (with-out-str (pprint/pprint (sort-schools results))))
-(spit "./parsed-data/db.json" (json/generate-string (sort-schools results) {:pretty true}))
-(spit "./parsed-data/db.txt" (with-out-str (pprint/print-table ks (sort-schools results))))
+(spit "./parsed-data/db.edn" (with-out-str (pprint/pprint results)))
+(spit "./parsed-data/db.json" (json/generate-string results {:pretty true}))
+(spit "./parsed-data/db.txt" (with-out-str (pprint/print-table ks results)))
 
 (comment
   (count results) ;;1153
