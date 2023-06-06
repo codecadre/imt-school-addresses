@@ -171,4 +171,3 @@
   (spit "./schools.edn" (with-out-str (pprint/pprint sorted-data)))
 
   )
->>>>>>> main
