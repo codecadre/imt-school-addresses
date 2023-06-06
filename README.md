@@ -48,7 +48,7 @@ npm i
 ## Run
 
 ```
-nbb hrefs.cljs
+bb hrefs
 ```
 
 Runs puppeteer script and produces `hrefs.json` - a collection of links for each school page.
@@ -82,13 +82,13 @@ for `*.cljs` files
 
 ## Licence (code and open data)
 
-Code is MIT license - basically you can do what you want with the code, just give this project credit for it. 
+Code is MIT license - basically you can do what you want with the code, just give this project credit for it.
 
 The data being reproduced here is assumed to be in the public domain. Aditionally, when I stated the purpose in the [FOI I filled with IMT](https://www.flaviosousa.co/pedido-accesso-dados-publicos/), no objection was made on the grounds of it being made public.
 
 Acording to the [Open Data Directive](https://digital-strategy.ec.europa.eu/en/policies/open-data), countries are encouraged to make public data accessible, regardless of the end use:
 
-> clearly obliged member states to ‘encourage public sector bodies and public undertakings to produce and make available documents [...] in accordance with the principle of “open by design and by default’’. 
+> clearly obliged member states to ‘encourage public sector bodies and public undertakings to produce and make available documents [...] in accordance with the principle of “open by design and by default’’.
 
 [From wikipedia](https://en.wikipedia.org/wiki/Directive_on_the_re-use_of_public_sector_information#Open_data_licensing)
 
