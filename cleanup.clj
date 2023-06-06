@@ -90,6 +90,8 @@
                   overwrites
                   (map parse-cp7)
                   (map #(set/rename-keys % {:nec-raw :nec :address-clean :address :title-clean :name :school-href :imt-href}))
+                  (sort-by :cp7);;sort by cp7 and then name before sorting by nec "para desempatar" when nec is the equal
+                  (sort-by :name)
                   (sort #(compare (:nec %1) (:nec %2)))
                   doall))
 
@@ -155,3 +157,18 @@
      (as-> xs (map - xs [3 2 1]))
      (reverse))
  )
+
+(comment
+  (def schools (-> "schools.edn" slurp edn/read-string))
+
+  (def sorted-data
+    (->> schools
+         (sort-by :school-href)
+         (sort-by :concelho)
+         (sort-by :distrito)
+         ))
+
+  (spit "./schools.edn" (with-out-str (pprint/pprint sorted-data)))
+
+  )
+>>>>>>> main

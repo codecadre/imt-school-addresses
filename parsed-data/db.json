@@ -1,14 +1,4 @@
 [ {
-  "address" : "Urbanização Quinta do Carregoso, n.º 323 r/c Esq. 4580-294 Bitarães",
-  "name" : "Royal",
-  "distrito" : "Porto",
-  "imt-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Royal.aspx",
-  "concelho" : "Paredes",
-  "nec" : null,
-  "cp7" : "4580-294",
-  "id" : "85b9c656-e409-38cc-a8fa-9d1a39713ae0",
-  "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Paredes"
-}, {
   "address" : "Rua Pinto Bessa n.º 215, 4300-431 Porto",
   "name" : "Campanhã",
   "distrito" : "Porto",
@@ -28,6 +18,16 @@
   "cp7" : "1070-083",
   "id" : "b939f188-69db-3720-9816-55d9709f8ab4",
   "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"
+}, {
+  "address" : "Urbanização Quinta do Carregoso, n.º 323 r/c Esq. 4580-294 Bitarães",
+  "name" : "Royal",
+  "distrito" : "Porto",
+  "imt-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Royal.aspx",
+  "concelho" : "Paredes",
+  "nec" : null,
+  "cp7" : "4580-294",
+  "id" : "85b9c656-e409-38cc-a8fa-9d1a39713ae0",
+  "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Paredes"
 }, {
   "address" : "Avª Barbosa do Bocage, 23 A e B R/C 1000-070 LISBOA",
   "name" : "Automóvel Clube de Portugal",
@@ -949,16 +949,6 @@
   "id" : "522db535-7570-3cf1-9dd1-161527a8d5b5",
   "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Peniche"
 }, {
-  "address" : "Avª das Amoreiras Lote 2-1º 5370-204 MIRANDELA",
-  "name" : "Nordeste",
-  "distrito" : "Bragança",
-  "imt-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Nordeste694.aspx",
-  "concelho" : "Mirandela",
-  "nec" : 131,
-  "cp7" : "5370-204",
-  "id" : "94eb941d-67c3-3b04-9fd4-8d5798eb73de",
-  "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Mirandela"
-}, {
   "address" : "Rua Bartolomeu Dias, n.º 22-A 5430-426 VALPAÇOS",
   "name" : "D. Chama",
   "distrito" : "Vila Real",
@@ -968,6 +958,16 @@
   "cp7" : "5430-426",
   "id" : "86166ec4-67dc-3dc3-b991-6997e76d9399",
   "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Valpa%C3%A7os"
+}, {
+  "address" : "Avª das Amoreiras Lote 2-1º 5370-204 MIRANDELA",
+  "name" : "Nordeste",
+  "distrito" : "Bragança",
+  "imt-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Nordeste694.aspx",
+  "concelho" : "Mirandela",
+  "nec" : 131,
+  "cp7" : "5370-204",
+  "id" : "94eb941d-67c3-3b04-9fd4-8d5798eb73de",
+  "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Mirandela"
 }, {
   "address" : "Largo Gil Eanes, Loja 5 8500-536 PORTIMÃO",
   "name" : "Portimonense",
@@ -7349,16 +7349,6 @@
   "id" : "a0ac275a-6df4-3a18-9ecc-6f1ff37dd1cb",
   "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Amadora"
 }, {
-  "address" : "Rua Laura Aires, n.º 5, R/C Esq.º e Dt.º, 2675-564 ODIVELAS",
-  "name" : "Columbano",
-  "distrito" : "Lisboa",
-  "imt-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Columbano.aspx",
-  "concelho" : "Odivelas",
-  "nec" : 964,
-  "cp7" : "2675-564",
-  "id" : "f58d0579-fec6-370a-bb58-8e1d3228b5f6",
-  "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Odivelas"
-}, {
   "address" : "Rua Basílio Teles, n.º 13, C, 1070-020 Lisboa",
   "name" : "Columbano",
   "distrito" : "Lisboa",
@@ -7368,6 +7358,16 @@
   "cp7" : "1070-020",
   "id" : "23ce8b65-cdd4-3dee-ba8e-78f6d22c9f16",
   "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"
+}, {
+  "address" : "Rua Laura Aires, n.º 5, R/C Esq.º e Dt.º, 2675-564 ODIVELAS",
+  "name" : "Columbano",
+  "distrito" : "Lisboa",
+  "imt-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Columbano.aspx",
+  "concelho" : "Odivelas",
+  "nec" : 964,
+  "cp7" : "2675-564",
+  "id" : "f58d0579-fec6-370a-bb58-8e1d3228b5f6",
+  "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Odivelas"
 }, {
   "address" : "Lugar de Outeirinho - Praça Padre Portela, loja 2 B ; 4755-266 MACEIRA de RATES BCL",
   "name" : "Mundial",
@@ -8229,16 +8229,6 @@
   "id" : "17a10e09-7d1b-3d8a-84ba-1e13d9c42672",
   "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Gondomar"
 }, {
-  "address" : "Avenida 25 de Abril, n.º 19 5430-420 Valpaços",
-  "name" : "Ponto de Partida",
-  "distrito" : "Vila Real",
-  "imt-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/PontodePartida.aspx",
-  "concelho" : "Vila Real",
-  "nec" : 1077,
-  "cp7" : "5430-420",
-  "id" : "74d02e36-9dfb-3d9b-854b-071c7d8dcf81",
-  "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Vila%20Real"
-}, {
   "address" : "Avª Alto da Lixa, Nº 1606-Fracção D 4615-483 VILA COVA da LIXA",
   "name" : "Alto da Lixa",
   "distrito" : "Porto",
@@ -8248,6 +8238,16 @@
   "cp7" : "4615-483",
   "id" : "9c1d7452-49b8-3109-b3be-d11f0aabf215",
   "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Felgueiras"
+}, {
+  "address" : "Avenida 25 de Abril, n.º 19 5430-420 Valpaços",
+  "name" : "Ponto de Partida",
+  "distrito" : "Vila Real",
+  "imt-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/PontodePartida.aspx",
+  "concelho" : "Vila Real",
+  "nec" : 1077,
+  "cp7" : "5430-420",
+  "id" : "74d02e36-9dfb-3d9b-854b-071c7d8dcf81",
+  "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Vila%20Real"
 }, {
   "address" : "Rua José Alves Leite, Bloco 1, Fracçâo C, D e E 4720-022 AMARES",
   "name" : "Lusíada",
@@ -10309,16 +10309,6 @@
   "id" : "a224d02c-7645-3707-97b8-0833fe6200bf",
   "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=S%C3%A1t%C3%A3o"
 }, {
-  "address" : "Rua Aveiro 1-B, Mamodeiro 3810-732 NOSSA SENHORA DE FÁTIMA",
-  "name" : "Prestige",
-  "distrito" : "Aveiro",
-  "imt-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Prestige.aspx",
-  "concelho" : "Aveiro",
-  "nec" : 1314,
-  "cp7" : "3810-732",
-  "id" : "351af02c-cc4f-3980-8f70-da518e9b8dbb",
-  "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Aveiro"
-}, {
   "address" : "Rua General Amílcar Mota, n.º 21 ; 2500-209 Caldas da Rainha",
   "name" : "Malhoa",
   "distrito" : "Leiria",
@@ -10328,6 +10318,16 @@
   "cp7" : "2500-209",
   "id" : "02713c1f-d2c3-3548-b74e-9251cc0754fc",
   "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Caldas%20da%20Rainha"
+}, {
+  "address" : "Rua Aveiro 1-B, Mamodeiro 3810-732 NOSSA SENHORA DE FÁTIMA",
+  "name" : "Prestige",
+  "distrito" : "Aveiro",
+  "imt-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Prestige.aspx",
+  "concelho" : "Aveiro",
+  "nec" : 1314,
+  "cp7" : "3810-732",
+  "id" : "351af02c-cc4f-3980-8f70-da518e9b8dbb",
+  "concelho-href" : "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Aveiro"
 }, {
   "address" : "Av. João de Deus Ramos, n.º 138-152, Centro comercial Solum, Loja 317, 3.º andar, 3030-328 Coimbra",
   "name" : "Solum",

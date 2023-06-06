@@ -53,17 +53,29 @@ bb hrefs
 
 Runs puppeteer script and produces `hrefs.json` - a collection of links for each school page.
 
+Sorted by "school-href".
+
 ```
 bb schools.clj
 ```
 
 Pulls each school page and produces `schools.edn` with the details.
 
+Sorted by `:concelho` > `:distrito` > `:school-href`
+
 ```
 bb cleanup.clj
 ```
 
-Clean up dataset.
+Clean up dataset and produces:
+
+- `parsed-data/db.json`
+- `parsed-data/db.edn`
+- `parsed-data/db.txt`
+
+sorted by `nec` > `name` > `cp7`
+
+
 
 ## nrepl
 

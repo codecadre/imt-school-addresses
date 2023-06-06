@@ -57,3 +57,6 @@
   (Thread/sleep (int (rand 250))))
 
 (spit "./schools.edn" (with-out-str (pprint/pprint @results)))
+
+
+(def schools (-> "schools.edn" slurp edn/read-string))
