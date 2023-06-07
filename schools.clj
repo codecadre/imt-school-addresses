@@ -3,7 +3,8 @@
             [clojure.pprint :as pprint]
             [clojure.walk :refer [postwalk]]
             [babashka.curl :as curl]
-            [babashka.pods :as pods]))
+            [babashka.pods :as pods]
+            [util :as util]))
 
 (pods/load-pod 'retrogradeorbit/bootleg "0.1.9")
 
@@ -54,9 +55,12 @@
                                  href->hc!
                                  hiccup->school-raw)))
   (println "processed " (count @results) " schools.")
-  (Thread/sleep (int (rand 250))))
+  (Thread/sleep (int (util/rand-int-from-to 250 2000))))
 
-(spit "./schools.edn" (with-out-str (pprint/pprint @results)))
+(def sorted-data
+    (->> @results
+         (sort-by :school-href)
+         (sort-by :concelho)
+         (sort-by :distrito)))
 
-
-(def schools (-> "schools.edn" slurp edn/read-string))
+(spit "./schools.edn" (with-out-str (pprint/pprint sorted-data)))

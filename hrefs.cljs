@@ -12,6 +12,7 @@
         max-value to]
     (+ min-value (rand-int  (- max-value min-value)))))
 
+;;TODO require from util
 (defn sleep-ms [] (js/Promise. (fn [r] (js/setTimeout r (rand-int-from-to 500 2000)))))
 
 (defn escape-char

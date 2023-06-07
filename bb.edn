@@ -9,7 +9,12 @@
           (spit ".nrepl-port" port)
           (fs/delete-on-exit ".nrepl-port")
           (deref proc))
-  hrefs {:doc "Step 1:scrapes IMT website for hrefs only"
-         :task (shell "npx nbb hrefs.cljs")}}
+  hrefs {:doc "Step 1: scrapes IMT website for hrefs only"
+         :task (shell "npx nbb hrefs.cljs")}
+  schools {:doc "Step 2: scrapes IMT website for the entire school data using the hrefs"
+           :task (shell "bb schools.clj")}
+  cleanup {:doc "Step 3: Cleans the data in the predefined sort order"
+           :task (shell "bb cleanup.clj")}}
+
 
  }
