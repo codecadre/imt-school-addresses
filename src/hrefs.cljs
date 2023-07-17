@@ -39,13 +39,15 @@
   (p/let [s (pull-schools-href-list page {:id 123 :distrito "distrito" :concelho "concelho"} [])]
     (prn "..." s)))
 
-
+;; 0 1 2 3
+;; 1 2 3 >
+;; < 1 2 3 >
 (defn cycle-paginators [page {:keys [id href distrito concelho] :as concelho-map} page-count next-page results]
   (p/let [_ (.waitForSelector page ".divPaginacaoSemMenu > input")
           paginator-handlers (.$$ page ".divPaginacaoSemMenu > input")
-          next-page-handler (nth paginator-handlers (if (= 1 next-page)
-                                                      next-page
-                                                      (inc next-page)));;skip first one "<" after first page
+          next-page-handler (nth paginator-handlers (if (= 2 next-page)
+                                                      1
+                                                      next-page)) ;;skip first one "<" after first page
           _ (.click next-page-handler)
           ;;_ (.goBack page)
           ;;_ (.goForward page)
@@ -54,7 +56,7 @@
           _ (prn "pulling for np:" next-page)
           results (pull-schools-href-list page concelho-map results)
           next-page (inc next-page)]
-    (if (> page-count next-page)
+    (if (<= next-page page-count)
       (cycle-paginators page concelho-map page-count next-page results)
       results)))
 
@@ -69,7 +71,7 @@
 
     (if no-pagination?
       results
-      (cycle-paginators page concelho handlers-count 1 results))))
+      (cycle-paginators page concelho handlers-count 2 results))))
 
 (comment (p/let [browser (.launch puppeteer #js {:headless false})
          page (.newPage browser)
@@ -183,7 +185,7 @@
     (prn "Districts: " (count districts))))
 
 
-(p/let [browser (.launch puppeteer #js {:headless false})
+(p/let [browser (.launch puppeteer #js {:headless true})
         page (.newPage browser)
         districts (pull-districts page)
         #_#_districts (subvec (vec districts)  0 1)
@@ -192,7 +194,7 @@
         schools-sorted (sort-by :school-href schools)
         school-string (.stringify js/JSON (clj->js schools-sorted) nil "  ")]
   (.close browser)
-  (.writeFileSync fs "./hrefs.json" school-string))
+  (.writeFileSync fs "../hrefs.json" school-string))
 
 
 (comment

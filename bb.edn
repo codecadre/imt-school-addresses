@@ -12,18 +12,18 @@
   :enter (println "Entering:" (:name (current-task)) " - " (:doc (current-task)) )
 
   hrefs {:doc "Step 1: scrapes IMT website for hrefs only"
-         :task (shell "npx nbb hrefs.cljs")}
+         :task (shell "npx nbb src/hrefs.cljs")}
 
   schools {:doc "Step 2: scrapes IMT website for the entire school data using the hrefs"
-           :task (shell "bb schools.clj")}
+           :task (shell "bb -m schools")}
 
   cleanup {:doc "Step 3: Cleans the data in the predefined sort order"
-           :task (shell "bb cleanup.clj")}
+           :task (shell "bb -m cleanup")}
 
   run-all {:doc "Do the whole thing"
            :task (do (run 'hrefs)
                      (run 'schools)
-                     (if (seq (fs/modified-since "parsed-data/db.edn"
-                                                 "schools.edn"))
-                       (run 'cleanup)
-                       (println "No new schools")))}}}
+                     #_(if (seq (fs/modified-since "parsed-data/db.edn"
+                                                 "schools.edn")))
+                     (run 'cleanup)
+                     #_(println "No new schools"))}}}
