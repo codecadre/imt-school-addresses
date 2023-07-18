@@ -1,0 +1,12 @@
+{:address "Rua Dr. José Assis e Santos, Nº 89 3450-123 MORTÁGUA",
+ :name "Nova de Esgueira",
+ :href-id #uuid "85fe668b-07ea-31f0-a9f1-ddafd0ec3c3e",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Nova%20de%20Esgueira.aspx",
+ :concelho "Mortágua",
+ :nec 339,
+ :cp7 "3450-123",
+ :id #uuid "3ec263bb-8436-3778-9b94-fe1db90a4426",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Mort%C3%A1gua"}

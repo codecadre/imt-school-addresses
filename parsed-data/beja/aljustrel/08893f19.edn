@@ -1,0 +1,12 @@
+{:address "Rua D. Sancho II , 6 A 7600-088 ALJUSTREL",
+ :name "Aljustrelense",
+ :href-id #uuid "08893f19-1f9d-3e9e-a05e-1a6d9fa269ba",
+ :distrito "Beja",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Aljustrelense084.aspx",
+ :concelho "Aljustrel",
+ :nec 260,
+ :cp7 "7600-088",
+ :id #uuid "f6898fd6-4f84-3ba9-be93-fc5250690cda",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Beja&Concelho=Aljustrel"}

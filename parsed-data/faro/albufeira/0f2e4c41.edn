@@ -1,0 +1,13 @@
+{:address
+ "Rua Camilo Castelo Branco, Nº 60 Edificio Areias do Mar, cave, Parte B, Loja 9 8200-276 Albufeira",
+ :name "Areias Mar",
+ :href-id #uuid "0f2e4c41-a6e2-37b1-afe1-a81b9740b4df",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AreiasMar117.aspx",
+ :concelho "Albufeira",
+ :nec 1261,
+ :cp7 "8200-276",
+ :id #uuid "108770e5-745f-330d-8b4b-f2abf86768e9",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Albufeira"}

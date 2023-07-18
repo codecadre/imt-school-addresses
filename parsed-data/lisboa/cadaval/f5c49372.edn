@@ -1,0 +1,13 @@
+{:address
+ "Estrada Nacional 115, n.º 42, R/C Esq., 2550-355 CASAL CABREIRO",
+ :name "Montejunto",
+ :href-id #uuid "f5c49372-ad49-3db3-ad0c-505d5f6e718a",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Montejunto.aspx",
+ :concelho "Cadaval",
+ :nec 1287,
+ :cp7 "2550-355",
+ :id #uuid "3d5bfad6-873a-3ef0-9c20-e7a27c22d237",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Cadaval"}

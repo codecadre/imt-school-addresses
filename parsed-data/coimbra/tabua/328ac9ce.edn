@@ -1,0 +1,12 @@
+{:address "Avª Dr. Castanheira Figueiredo, Bloco 2 r/c 3420-301 TÁBUA",
+ :name "Nossa Senhora de Fátima",
+ :href-id #uuid "328ac9ce-4bd5-3035-ac62-e355120bb6df",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NossaSenhoradeFatima698.aspx",
+ :concelho "Tábua",
+ :nec 959,
+ :cp7 "3420-301",
+ :id #uuid "9928bd7d-4423-3446-84fb-e23bdb2e5c2d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=T%C3%A1bua"}

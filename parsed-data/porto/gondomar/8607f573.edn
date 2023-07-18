@@ -1,0 +1,12 @@
+{:address "Rua do Monte Crasto, 69 – 1º 4420-210 GONDOMAR (S. COSME)",
+ :name "Gondomar Centro",
+ :href-id #uuid "8607f573-57a0-314d-92a9-2d7cb1f84663",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/GondomarCentro.aspx",
+ :concelho "Gondomar",
+ :nec 465,
+ :cp7 "4420-210",
+ :id #uuid "c212a915-330a-31e9-aa2d-943e86c96112",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Gondomar"}

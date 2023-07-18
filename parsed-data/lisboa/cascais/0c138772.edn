@@ -1,0 +1,12 @@
+{:address "Rua das Padarias, n.º 72 A e B 2755-062 Alcabideche",
+ :name "Aprendizes do Volante",
+ :href-id #uuid "0c138772-b83d-3bc9-ab3b-3b7b44d7d5a3",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AprendizesdoVolante.aspx",
+ :concelho "Cascais",
+ :nec 1382,
+ :cp7 "2755-062",
+ :id #uuid "51d4031a-5116-3f3b-97b4-41f50466631b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Cascais"}

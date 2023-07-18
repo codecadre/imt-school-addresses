@@ -1,0 +1,12 @@
+{:address "Rua Direita das Campinas, n.º 266, 4100-205 Porto",
+ :name "Ramalde",
+ :href-id #uuid "cee479f7-4298-3a8c-8018-11af91b3ddac",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Ramalde.aspx",
+ :concelho "Porto",
+ :nec 1352,
+ :cp7 "4100-205",
+ :id #uuid "583b44cd-b68b-3982-9415-3608b5cd8f98",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

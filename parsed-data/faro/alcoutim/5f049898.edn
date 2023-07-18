@@ -1,0 +1,12 @@
+{:address "Estrada da Senhora da Saúde, n.º 49 ; 8005-147 Faro",
+ :name "C.C.S.",
+ :href-id #uuid "5f049898-6977-37e4-a8f9-cde5a235ed88",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SaoCiro947.aspx",
+ :concelho "Alcoutim",
+ :nec 508,
+ :cp7 "8005-147",
+ :id #uuid "3d0e5710-16af-378e-be17-6a4de330f591",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Alcoutim"}

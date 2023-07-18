@@ -1,0 +1,12 @@
+{:address "Urbanização de S. José, Loja E e J 4750-283 BARCELINHOS",
+ :name "Barcelinhos",
+ :href-id #uuid "f261c1e4-00c7-3be7-bc7e-b6751f0248d2",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Barcelinhos219.aspx",
+ :concelho "Barcelos",
+ :nec 513,
+ :cp7 "4750-283",
+ :id #uuid "e3ee06a1-39a2-36c1-a453-f92ded1383eb",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Barcelos"}

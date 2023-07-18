@@ -1,0 +1,13 @@
+{:address
+ "Rua da República, lote 23-Quinta do Pinheiro 6300-854 GUARDA",
+ :name "Pinheiro",
+ :href-id #uuid "c71fd8d7-8d5b-3638-b918-5de892bb9171",
+ :distrito "Guarda",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Pinheiro790.aspx",
+ :concelho "Guarda",
+ :nec 922,
+ :cp7 "6300-854",
+ :id #uuid "6dabe57e-c56b-3f70-83a3-626d61cc450a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Guarda&Concelho=Guarda"}

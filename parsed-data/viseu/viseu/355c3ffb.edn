@@ -1,0 +1,13 @@
+{:address
+ "Rua Stº António nº 55 A-Bairro de Stª Eulália 3500-693 REPESES",
+ :name "De Repeses",
+ :href-id #uuid "355c3ffb-edde-3cb1-a2f3-3716f1c1f694",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DeRepeses.aspx",
+ :concelho "Viseu",
+ :nec 1075,
+ :cp7 "3500-693",
+ :id #uuid "8c577d0e-750d-3c08-ae29-dc42fa5b4a91",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Viseu"}

@@ -1,0 +1,12 @@
+{:address "Av. dos Salesianos, n.º 70 e 72 ; 7000-292 Évora",
+ :name "Infante de Évora",
+ :href-id #uuid "1fba08cf-cdd6-3e7a-a770-6431a7dc0f39",
+ :distrito "Évora",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfantedeEvora528.aspx",
+ :concelho "Évora",
+ :nec 948,
+ :cp7 "7000-292",
+ :id #uuid "2dfffa7d-767f-3e1d-8ed6-67ceff7424e2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Evora&Concelho=%C3%89vora"}

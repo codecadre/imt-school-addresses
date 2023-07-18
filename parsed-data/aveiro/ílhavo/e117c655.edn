@@ -1,0 +1,12 @@
+{:address "Av. José Estevão, n.º 610/612, 6830-556 GAFANHA DA NAZARÉ",
+ :name "Estrela de Almeida",
+ :href-id #uuid "e117c655-a9c1-31a5-b490-b91cdb808849",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EstreladeAlmeida424.aspx",
+ :concelho "Ílhavo",
+ :nec 333,
+ :cp7 "6830-556",
+ :id #uuid "f4547e37-e2f9-378c-9b4b-12ab77019e79",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Ilhavo"}

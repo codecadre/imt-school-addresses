@@ -1,0 +1,12 @@
+{:address "Avª do Sabor 5200-289 MOGADOURO",
+ :name "Mogadourense",
+ :href-id #uuid "142874ad-ad03-3e49-b427-bc1568f0795c",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Mogadourense662.aspx",
+ :concelho "Mogadouro",
+ :nec 1201,
+ :cp7 "5200-289",
+ :id #uuid "0f7182e1-9ade-3a01-95c8-f5e495a01bc4",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Mogadouro"}

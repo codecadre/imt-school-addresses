@@ -1,0 +1,13 @@
+{:address
+ "Rua Distrito de Lobata, Nº 7-B, Quinta de Cima, Torre da Marinha 2840-378 SEIXAL",
+ :name "Pereira & Tostão",
+ :href-id #uuid "c2fec1b7-9df1-34c4-934a-14ed32fcf897",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/PereiraTostao785.aspx",
+ :concelho "Seixal",
+ :nec 1223,
+ :cp7 "2840-378",
+ :id #uuid "b34c6654-2f02-318b-9639-1ecf952e4d2f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Seixal"}

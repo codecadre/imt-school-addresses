@@ -1,0 +1,13 @@
+{:address
+ "Urbanização S. Sebastião lote 1 Loja A - Quinta da Malata 8500 PORTIMÃO",
+ :name "Terceiro Milénio",
+ :href-id #uuid "03ad6a12-83c2-3bb5-aabe-247de17fa9c0",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/TerceiroMilenio1002.aspx",
+ :concelho "Portimão",
+ :nec 943,
+ :cp7 "8500",
+ :id #uuid "a86c89ea-c5e3-33c2-9451-36fb1c2ef67b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Portim%C3%A3o"}

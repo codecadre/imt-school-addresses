@@ -1,0 +1,13 @@
+{:address
+ "Rua Guilherme Gomes Fernandes, 35 -1.º Esq.º 2675-371 ODIVELAS",
+ :name "Chuabo de Odivelas",
+ :href-id #uuid "1381fb91-5aab-3aa1-b48c-6e40689ec7a1",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ChuabodeOdivelas308.aspx",
+ :concelho "Odivelas",
+ :nec 481,
+ :cp7 "2675-371",
+ :id #uuid "2bbe11c1-928c-3628-a1c2-da4b6a0f51e2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Odivelas"}

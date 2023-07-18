@@ -1,0 +1,12 @@
+{:address "Praça da República, 14 7040-026 ARRAIOLOS",
+ :name "Arraiolense",
+ :href-id #uuid "54b7de03-0ac1-3968-bce2-beaf5ccd14a2",
+ :distrito "Évora",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Arraiolense127.aspx",
+ :concelho "Arraiolos",
+ :nec 480,
+ :cp7 "7040-026",
+ :id #uuid "60878311-f2f3-3ffa-9754-720b83e9ab9c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Evora&Concelho=Arraiolos"}

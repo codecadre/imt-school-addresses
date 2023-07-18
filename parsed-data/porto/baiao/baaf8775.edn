@@ -1,0 +1,12 @@
+{:address "RUA ABEL RIBEIRO, FRACÇÃO G ",
+ :name "Dominante",
+ :href-id #uuid "baaf8775-b578-3385-a2f2-7c95d0a52a72",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeConducaoDominante.aspx",
+ :concelho "Baião",
+ :nec 1043,
+ :cp7 nil,
+ :id #uuid "822982a7-9290-3af9-bae5-eb9ba1b2afae",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Bai%C3%A3o"}

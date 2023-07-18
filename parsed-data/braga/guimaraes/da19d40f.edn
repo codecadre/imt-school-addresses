@@ -1,0 +1,13 @@
+{:address
+ "Lugar de Pevidem -Rua da Fonte da Venda;Nº 691 r/c 4810-320 SELHO",
+ :name "Pevidense",
+ :href-id #uuid "da19d40f-e783-37eb-a5c3-6a3337c899a7",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Pevidense788.aspx",
+ :concelho "Guimarães",
+ :nec 432,
+ :cp7 "4810-320",
+ :id #uuid "90fc3e36-060e-3854-add0-313109170e88",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Guimar%C3%A3es"}

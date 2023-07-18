@@ -1,0 +1,13 @@
+{:address
+ "Av. Natália Correia, Urba. Villas Serena, n.º198, r/c, loja 18, 2955-098 Pinhal Novo",
+ :name "Vila Serena",
+ :href-id #uuid "6469266f-efbf-3c44-8937-152474e414fb",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeCondu%c3%a7%c3%a3oVilaSerena.aspx",
+ :concelho "Palmela",
+ :nec 1407,
+ :cp7 "2955-098",
+ :id #uuid "41d4e819-8a0f-3e57-b267-7a315a3e6b95",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Palmela"}

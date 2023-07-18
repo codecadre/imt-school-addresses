@@ -1,0 +1,12 @@
+{:address "Largo Filinto Elísio, n.º 13 B, 2805-141 ALMADA",
+ :name "Cova da Piedade",
+ :href-id #uuid "a41f9de5-666a-3c7f-920d-b5ff4755c035",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/CovadaPiedade.aspx",
+ :concelho "Almada",
+ :nec 1269,
+ :cp7 "2805-141",
+ :id #uuid "835cdc15-6c0a-3a64-a89b-8db74a1c67af",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Almada"}

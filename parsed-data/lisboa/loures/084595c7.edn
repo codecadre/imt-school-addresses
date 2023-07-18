@@ -1,0 +1,12 @@
+{:address "Rua Joaquim Fernandes, Nº 10 - Fanqueiro 2670 -365 LOURES",
+ :name "do Fanqueiro - Loures",
+ :href-id #uuid "084595c7-355f-35ad-bc61-210f561783cf",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/doFanqueiroLoures389.aspx",
+ :concelho "Loures",
+ :nec 624,
+ :cp7 "2670-365",
+ :id #uuid "cbcb4def-535a-35a2-b803-005bc074d383",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Loures"}

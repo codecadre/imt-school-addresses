@@ -1,0 +1,12 @@
+{:address "Rua Bernardo de Albuquerque nº 25 r/c 3000-072 COIMBRA",
+ :name "Siiimpletunas",
+ :href-id #uuid "c23366b4-1d4d-3f6a-87a0-cf4ee135df87",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Siiimpletunas.aspx",
+ :concelho "Coimbra",
+ :nec 626,
+ :cp7 "3000-072",
+ :id #uuid "d4a52045-b061-3833-8636-b6836c732a5d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Coimbra"}

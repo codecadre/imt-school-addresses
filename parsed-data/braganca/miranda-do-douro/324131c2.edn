@@ -1,0 +1,13 @@
+{:address
+ "Edificio Buonas Bistas, Bloco 2, Loja de Trás, 5210-003 MIRANDA do DOURO",
+ :name "Miranda do Douro",
+ :href-id #uuid "324131c2-889f-3449-a044-02871421891b",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/MirandadoDouro652.aspx",
+ :concelho "Miranda do Douro",
+ :nec 651,
+ :cp7 "5210-003",
+ :id #uuid "43ca12fc-3fab-3fbb-b40e-6d2d9ab9aa34",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Miranda%20Douro"}

@@ -1,0 +1,13 @@
+{:address
+ "Largo da Portagem n.º 39, escritório n.º 402, 4º andar 3000-337 Coimbra",
+ :name "Capas Negras",
+ :href-id #uuid "33574197-8b6c-3fb7-b5e1-0904beef7a51",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/CapasNegras.aspx",
+ :concelho "Coimbra",
+ :nec 1378,
+ :cp7 "3000-337",
+ :id #uuid "1ed673f8-79f4-3bec-828b-cc726e551cfe",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Coimbra"}

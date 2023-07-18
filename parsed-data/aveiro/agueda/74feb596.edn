@@ -1,0 +1,12 @@
+{:address "Rua António Breda n.º 35 r/c 3750-106 Águeda",
+ :name "Rainha de Águeda",
+ :href-id #uuid "74feb596-d17f-3e9a-bcaf-9fcaba68dc22",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Rainhade%c3%81gueda.aspx",
+ :concelho "Águeda",
+ :nec 1451,
+ :cp7 "3750-106",
+ :id #uuid "6fca4fd0-d6bc-3c75-a384-abf2a047981f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=%C3%81gueda"}

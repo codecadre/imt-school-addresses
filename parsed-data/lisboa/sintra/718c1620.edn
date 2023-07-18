@@ -1,0 +1,12 @@
+{:address "Largo Gama Barros, n.º 16; 2735-476 Cacém",
+ :name "Gama Barros",
+ :href-id #uuid "718c1620-2181-3256-b71d-3e6c4075a8d8",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/GamaBarros.aspx",
+ :concelho "Sintra",
+ :nec 1292,
+ :cp7 "2735-476",
+ :id #uuid "a2c961f5-3d82-3859-880b-8cdf11724a83",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"}

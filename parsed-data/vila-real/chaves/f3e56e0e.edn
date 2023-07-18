@@ -1,0 +1,12 @@
+{:address "Bairro Aliança, 7 5400-040 SANTA MARIA MAIOR",
+ :name "Flaviense",
+ :href-id #uuid "f3e56e0e-84d0-3c2d-89d8-774ca29de4cd",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Flaviense458.aspx",
+ :concelho "Chaves",
+ :nec 89,
+ :cp7 "5400-040",
+ :id #uuid "4e5c786d-fbc4-3869-9bbf-26a0909309ee",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Chaves"}

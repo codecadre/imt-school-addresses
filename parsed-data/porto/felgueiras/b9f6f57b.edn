@@ -1,0 +1,13 @@
+{:address
+ "Avª Alto da Lixa, Nº 1606-Fracção D 4615-483 VILA COVA da LIXA",
+ :name "Alto da Lixa",
+ :href-id #uuid "b9f6f57b-a488-3fa2-9d5b-daeee2f98b5d",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AltodaLixa095.aspx",
+ :concelho "Felgueiras",
+ :nec 1077,
+ :cp7 "4615-483",
+ :id #uuid "9c1d7452-49b8-3109-b3be-d11f0aabf215",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Felgueiras"}

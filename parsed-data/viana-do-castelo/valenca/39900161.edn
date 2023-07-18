@@ -1,0 +1,13 @@
+{:address
+ "Avª Dr. Tito Fontes -Edificio Bruxelas, Loja 15 - 1º 4930-673 VALENÇA",
+ :name "Alto Minho",
+ :href-id #uuid "39900161-a259-38ac-93a0-a983cea102ff",
+ :distrito "Viana do Castelo",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AltoMinho098.aspx",
+ :concelho "Valença",
+ :nec 460,
+ :cp7 "4930-673",
+ :id #uuid "ea575bde-ced1-3cae-b389-86214e0047dc",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Valen%C3%A7a"}

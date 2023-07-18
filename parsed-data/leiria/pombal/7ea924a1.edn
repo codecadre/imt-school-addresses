@@ -1,0 +1,13 @@
+{:address
+ "Rua Marechal António Spínola, edifício Intermarché, Várzea, 3100-389 POMBAL",
+ :name "Cardal",
+ :href-id #uuid "7ea924a1-f775-3cbd-b208-ab5a3728a546",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Cardal.aspx",
+ :concelho "Pombal",
+ :nec 1394,
+ :cp7 "3100-389",
+ :id #uuid "8a892bb2-7296-3ffb-9be9-3172cbacd2c8",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Pombal"}

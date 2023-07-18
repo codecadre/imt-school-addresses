@@ -1,0 +1,13 @@
+{:address
+ "Rua Dr. Rogério Braúlio Martins (Edifício Eubasto), N.º 18 Loja 16 Boticas",
+ :name "S. Cristóvão",
+ :href-id #uuid "afefdc95-df62-3879-9c78-fe73e58fc036",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SCristovao879.aspx",
+ :concelho "Boticas",
+ :nec 530,
+ :cp7 nil,
+ :id #uuid "32104b70-98c4-3f9c-8977-92b883f01b8a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Boticas"}

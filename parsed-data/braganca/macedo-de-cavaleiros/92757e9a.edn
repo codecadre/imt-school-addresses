@@ -1,0 +1,13 @@
+{:address
+ "Avª Ilha do Sal- Ed. Infante D. Henrique r/c Dtº 5340-214 MACEDO DE CAVALEIROS",
+ :name "A Nova",
+ :href-id #uuid "92757e9a-5476-3327-ace7-de8de6c337c0",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ANova033.aspx",
+ :concelho "Macedo de Cavaleiros",
+ :nec 650,
+ :cp7 "5340-214",
+ :id #uuid "206d336c-926e-373e-93fe-32efd4b64ee2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Macedo%20Cavaleiros"}

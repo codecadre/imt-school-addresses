@@ -1,0 +1,13 @@
+{:address
+ "Estrada Nacional 8, n,º 1, fração A, loja C r/c 2460-711 São Vicente Aljubarrota ",
+ :name "Aljubarrota",
+ :href-id #uuid "df8938ea-c02b-309c-bfa2-cf2b4e15a2f7",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Aljubarrota.aspx",
+ :concelho "Alcobaça",
+ :nec 1375,
+ :cp7 "2460-711",
+ :id #uuid "7b3b61f7-003e-3d6d-81ee-c916fc7235a9",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Alcoba%C3%A7a"}

@@ -1,0 +1,13 @@
+{:address
+ "Rua da Juventude n.º 9, loja 12, com entrada pela Sociedade Filarmónica Recreio Alverquense",
+ :name "Alverca Rio",
+ :href-id #uuid "a322f4fa-fc7e-30db-83f2-32693447343e",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Alverca-Rio.aspx",
+ :concelho "Vila Franca de Xira",
+ :nec 1401,
+ :cp7 nil,
+ :id #uuid "4e24e93e-8297-3401-bff0-6cd16928b7fe",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Vila%20Franca%20Xira"}

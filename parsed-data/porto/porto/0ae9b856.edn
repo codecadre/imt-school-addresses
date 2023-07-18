@@ -1,0 +1,12 @@
+{:address "Praça da República, 64 4050-496 PORTO",
+ :name "Pincor",
+ :href-id #uuid "0ae9b856-2f8e-3cc2-860b-95360e380290",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Pincor789.aspx",
+ :concelho "Porto",
+ :nec 36,
+ :cp7 "4050-496",
+ :id #uuid "2992efee-820c-3d52-98e5-a1d5e2cf9890",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

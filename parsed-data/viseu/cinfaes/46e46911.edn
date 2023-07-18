@@ -1,0 +1,13 @@
+{:address
+ "Edifício Multifuncional- Quintela em Paúves 4690-058 CINFÃES",
+ :name "Cinfanense",
+ :href-id #uuid "46e46911-b669-340c-987f-434d0db77eb8",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Cinfanense315.aspx",
+ :concelho "Cinfães",
+ :nec 989,
+ :cp7 "4690-058",
+ :id #uuid "3e42559a-bb58-336b-adb5-1c2a24e0dd71",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Cinf%C3%A3es"}

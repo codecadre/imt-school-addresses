@@ -1,0 +1,13 @@
+{:address
+ "Lugar de Outeirinho - Praça Padre Portela, loja 2 B ; 4755-266 MACEIRA de RATES BCL",
+ :name "Mundial",
+ :href-id #uuid "a2877446-ef65-3404-8eef-121d7bb346ef",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Outeirinho760.aspx",
+ :concelho "Barcelos",
+ :nec 966,
+ :cp7 "4755-266",
+ :id #uuid "db4c0fa5-56ae-3d74-9f6a-dc200925e99f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Barcelos"}

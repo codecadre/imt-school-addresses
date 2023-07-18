@@ -1,0 +1,12 @@
+{:address "Estrela de Benfica, 743 –1º 1500-089 LISBOA",
+ :name "Benfica",
+ :href-id #uuid "7a2274c9-eacc-3742-a879-182c1f9d53be",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Benfica243.aspx",
+ :concelho "Lisboa",
+ :nec 28,
+ :cp7 "1500-089",
+ :id #uuid "ced40618-e18e-393a-bbe6-e8fc4d285815",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}

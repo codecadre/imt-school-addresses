@@ -1,0 +1,12 @@
+{:address "Av. Marechal Gomes da Costa 1800-000 LISBOA",
+ :name "Carristur",
+ :href-id #uuid "762c1c6f-f11d-3d1d-8fa6-9656b00db5fc",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeCondu%c3%a7%c3%a3oCarristur.aspx",
+ :concelho "Lisboa",
+ :nec 1350,
+ :cp7 "1800-000",
+ :id #uuid "a41f1f27-cbd2-347c-9593-4089c00b0a04",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}

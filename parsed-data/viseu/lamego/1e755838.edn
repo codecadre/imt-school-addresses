@@ -1,0 +1,12 @@
+{:address "Rua Francisco Sá Carneiro 5100-344 BRITIANDE",
+ :name "Egas Moniz",
+ :href-id #uuid "1e755838-c65b-38fd-ba1d-d0516dc88235",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EgasMoniz402.aspx",
+ :concelho "Lamego",
+ :nec 873,
+ :cp7 "5100-344",
+ :id #uuid "b1b64999-0e41-3e55-bf6b-2a270a0e8460",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Lamego"}

@@ -1,0 +1,13 @@
+{:address
+ "Estrada Nacional nº 16, nº 139, 6370-147 FORNOS DE ALGODRES",
+ :name "Fornos de Algodres",
+ :href-id #uuid "e5ffa72b-a9f6-30ee-bff0-5c710c6bbccf",
+ :distrito "Guarda",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/FornosdeAlgodres463.aspx",
+ :concelho "Fornos de Algodres",
+ :nec 495,
+ :cp7 "6370-147",
+ :id #uuid "267323ac-751a-361a-a9ac-6930cfb96673",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Guarda&Concelho=Fornos%20de%20Algodres"}

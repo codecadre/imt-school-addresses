@@ -1,0 +1,12 @@
+{:address "Rua Marquês de Pombal, n.º 116-A, 2710-091 Sintra",
+ :name "Cacém",
+ :href-id #uuid "d095d926-8035-31c6-bf0b-84065b3f12bb",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Cac%c3%a9m.aspx",
+ :concelho "Sintra",
+ :nec 1424,
+ :cp7 "2710-091",
+ :id #uuid "fba50ccd-e318-3586-bfff-179921327f9c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"}

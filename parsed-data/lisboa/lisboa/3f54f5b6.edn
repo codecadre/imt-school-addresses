@@ -1,0 +1,12 @@
+{:address "Rua dos Fanqueiros, N.º 277 - 2.º Dto, 1100-230 Lisboa",
+ :name "Baixa de Lisboa",
+ :href-id #uuid "3f54f5b6-597e-3621-a658-6d5d824620c8",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/BaixadeLisboa.aspx",
+ :concelho "Lisboa",
+ :nec 924,
+ :cp7 "1100-230",
+ :id #uuid "f89efa05-f2e0-3552-8467-233f0eb9cb85",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}

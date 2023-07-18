@@ -1,0 +1,13 @@
+{:address
+ "Rua Major António Fernandes Varão, Lote 15-Loja A-3 5000-414 VILA REAL",
+ :name "J. L.",
+ :href-id #uuid "fdb63728-b32a-3166-b5af-c3cb29a58c0e",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/JL571.aspx",
+ :concelho "Vila Real",
+ :nec 1253,
+ :cp7 "5000-414",
+ :id #uuid "dcdcb58c-0af6-3b3a-a6e4-4d814bdfe075",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Vila%20Real"}

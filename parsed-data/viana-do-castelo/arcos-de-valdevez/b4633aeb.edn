@@ -1,0 +1,13 @@
+{:address
+ "Rua General Amilcar Mota, Nº 181 4970-459 ARCOS DE VALDEVEZ (SALVADOR)",
+ :name "Arcuense",
+ :href-id #uuid "b4633aeb-75cf-3d4c-bc06-0884d1112341",
+ :distrito "Viana do Castelo",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Arcuense116.aspx",
+ :concelho "Arcos de Valdevez",
+ :nec 340,
+ :cp7 "4970-459",
+ :id #uuid "4cd7f3c9-4d40-30c9-afe2-879472687f9c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Arcos%20Valdevez"}

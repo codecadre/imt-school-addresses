@@ -1,0 +1,12 @@
+{:address "Rua 19 de Junho, n.º 313/397, 4805-081 CALDAS das TAIPAS",
+ :name "Inovadora",
+ :href-id #uuid "c23c369a-535b-39ad-ae73-828350af7ace",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Inovadora558.aspx",
+ :concelho "Guimarães",
+ :nec 657,
+ :cp7 "4805-081",
+ :id #uuid "6c29493e-1e94-3cff-99bc-d1e204890ad2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Guimar%C3%A3es"}

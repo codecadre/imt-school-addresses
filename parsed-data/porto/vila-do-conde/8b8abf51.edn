@@ -1,0 +1,12 @@
+{:address "Rua 5 de Outubro n º 2423 4480-739 VILA DO CONDE",
+ :name "Sousa e Batista",
+ :href-id #uuid "8b8abf51-c6ec-3efe-bbb2-8ddce8de3931",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SousaeBatista984.aspx",
+ :concelho "Vila do Conde",
+ :nec 851,
+ :cp7 "4480-739",
+ :id #uuid "9c2a8e84-8d15-3059-a1bf-7012779e109c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Conde"}

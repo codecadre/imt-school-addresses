@@ -1,0 +1,12 @@
+{:address "Av. Luísa Todi, n.º 289, Loja; 2900-964 Setúbal",
+ :name "Cortes de Setúbal",
+ :href-id #uuid "161f16de-e2f3-393c-87a2-fef833a7453a",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/CortesdeAlmeirim337.aspx",
+ :concelho "Setúbal",
+ :nec 547,
+ :cp7 "2900-964",
+ :id #uuid "b93a80b3-8137-3127-9f8f-f44691637c0e",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Set%C3%BAbal"}

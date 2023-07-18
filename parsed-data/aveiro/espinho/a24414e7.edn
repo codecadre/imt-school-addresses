@@ -1,0 +1,12 @@
+{:address "Rua 32, n.º 798, 4500-190 ESPINHO",
+ :name "RPM32",
+ :href-id #uuid "a24414e7-0e25-3f51-aab4-db2524c0477f",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RPM32.aspx",
+ :concelho "Espinho",
+ :nec 1327,
+ :cp7 "4500-190",
+ :id #uuid "589c00ef-7af5-3997-980d-61d2c79a1777",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Espinho"}

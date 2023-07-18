@@ -1,0 +1,13 @@
+{:address
+ "Rua Francisco Xavier Ataíde de Oliveira, Lote 31, Loja D, 8600-775 LAGOS",
+ :name "Infante D. Henrique",
+ :href-id #uuid "497bd240-cf30-3a18-8612-d79d8bf38960",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfanteDHenrique524.aspx",
+ :concelho "Lagos",
+ :nec 191,
+ :cp7 "8600-775",
+ :id #uuid "3a051498-3977-3fb0-bf52-adac2f479ab0",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Lagos"}

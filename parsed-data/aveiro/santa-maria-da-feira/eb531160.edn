@@ -1,0 +1,13 @@
+{:address
+ "Rua Dr. Cândido Pinto, n.º 28 C, Fração D ; 4520-707 Souto VFR",
+ :name "Medieval",
+ :href-id #uuid "eb531160-ce4f-3055-b886-876a2ab64a65",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Medieval.aspx",
+ :concelho "Santa Maria da Feira",
+ :nec 1318,
+ :cp7 "4520-707",
+ :id #uuid "7e57acad-4b71-3006-a0bb-dc2c8d594ac0",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Santa%20Maria%20da%20Feira"}

@@ -1,0 +1,13 @@
+{:address
+ "Rua Dr. José Marques – Edifício Arrábida 2000 r/c Esqº 2530-565 TORRES NOVAS",
+ :name "São Bernardo",
+ :href-id #uuid "f05a3829-8f1d-3c9b-a81c-f50e417ae664",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SaoBernardo946.aspx",
+ :concelho "Torres Novas",
+ :nec 925,
+ :cp7 "2530-565",
+ :id #uuid "a04be5b6-dded-3f24-bddd-2de2cfbcc539",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Torres%20Novas"}

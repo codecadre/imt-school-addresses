@@ -1,0 +1,13 @@
+{:address
+ "Rua dos Pinheiros - Alto Ventoso 6100-205 CERNACHE BONJARDIM",
+ :name "De Cernache de Bonjardim",
+ :href-id #uuid "af9ba30a-ec61-3104-8130-6685e9a5eb70",
+ :distrito "Castelo Branco",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DeCernachedeBonjardim370.aspx",
+ :concelho "Sertã",
+ :nec 725,
+ :cp7 "6100-205",
+ :id #uuid "f478c154-509d-3b8b-9105-e78fd927d72b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=CasteloBranco&Concelho=Sert%C3%A3"}

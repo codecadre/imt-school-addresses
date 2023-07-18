@@ -1,0 +1,13 @@
+{:address
+ "Rua dos Alámos, Lote 42 - R/C Dtº 2135 - 003 SAMORA CORREIA",
+ :name "Leziria",
+ :href-id #uuid "9040601c-9e51-36a8-8db6-ccdd31530164",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Leziria596.aspx",
+ :concelho "Benavente",
+ :nec 1199,
+ :cp7 "2135-003",
+ :id #uuid "dd8e6f6d-c319-3ab3-8331-93029e586a23",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Benavente"}

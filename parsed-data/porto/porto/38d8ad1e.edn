@@ -1,0 +1,12 @@
+{:address "Rua Dr. Eduardo Santos Silva, n,º 61 4200-282 Porto",
+ :name "Pólo Universitário",
+ :href-id #uuid "38d8ad1e-c36a-33aa-bf98-6e12e2dd96e9",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/P%c3%b3loUniversit%c3%a1rio.aspx",
+ :concelho "Porto",
+ :nec 1376,
+ :cp7 "4200-282",
+ :id #uuid "7679ccca-6a09-3765-b0a1-ace6c138ddf9",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

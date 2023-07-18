@@ -1,0 +1,13 @@
+{:address
+ "Avª Dr. João Lima Gomes – Lote 2 Dtº 3620-301 MOIMENTA DA BEIRA",
+ :name "Moimenta da Beira",
+ :href-id #uuid "a06250b8-e9dd-3bae-b6c3-8eba9fd3f5fd",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/MoimentadaBeira663.aspx",
+ :concelho "Moimenta da Beira",
+ :nec 616,
+ :cp7 "3620-301",
+ :id #uuid "107a8dca-20bf-3677-a557-c56933e93d3c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Moimenta%20da%20Beira"}

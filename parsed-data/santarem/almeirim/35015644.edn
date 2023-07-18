@@ -1,0 +1,12 @@
+{:address "Avª 25 de Abril, r/c, Loja 2 2080 -012 ALMEIRIM",
+ :name "Jorge Justino-Almeirim",
+ :href-id #uuid "35015644-3144-3ab2-a516-bb46476ae9e1",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/JorgeJustinoAlmeirim578.aspx",
+ :concelho "Almeirim",
+ :nec 904,
+ :cp7 "2080-012",
+ :id #uuid "5eb2ffa3-b397-3680-b310-9a8ac057c230",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Almeirim"}

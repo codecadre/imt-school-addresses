@@ -1,0 +1,12 @@
+{:address "Rua do Areeiro nº 14 3770-352 PALHAÇA",
+ :name "Bairrada",
+ :href-id #uuid "933f57b4-5409-334e-8622-7305fbbf4a33",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Bairrada215.aspx",
+ :concelho "Oliveira do Bairro",
+ :nec 1110,
+ :cp7 "3770-352",
+ :id #uuid "1c3d1ab3-21d5-3d33-905b-24892d709d06",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Oliveira%20Bairro"}

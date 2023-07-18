@@ -1,0 +1,12 @@
+{:address "Praça D. Dinis n º 61 r/c 5360-377 VILA FLOR",
+ :name "Carlos Vaz",
+ :href-id #uuid "dc55446b-85c4-38a1-a16b-430305512f79",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/CarlosVaz285.aspx",
+ :concelho "Vila Flôr",
+ :nec 595,
+ :cp7 "5360-377",
+ :id #uuid "55d747fe-def6-3fa4-bf54-382a702a7355",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Vila%20Flor"}

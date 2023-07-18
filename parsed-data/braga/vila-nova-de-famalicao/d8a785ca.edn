@@ -1,0 +1,12 @@
+{:address "Av. do Loureiro, 65, Loja 2, 4765-620 DELÃES",
+ :name "Desigual",
+ :href-id #uuid "d8a785ca-3813-34d8-b725-2ec2feaa0b2b",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Desigual382.aspx",
+ :concelho "Vila Nova de Famalicão",
+ :nec 784,
+ :cp7 "4765-620",
+ :id #uuid "21cb62bf-3dbd-34dc-b0af-4a55ed722000",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"}

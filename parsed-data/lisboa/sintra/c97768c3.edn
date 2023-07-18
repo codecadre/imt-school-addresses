@@ -1,0 +1,12 @@
+{:address "Rua Ferreira de Castro nº 47 loja 5 2635-361 RIO DE MOURO",
+ :name "Mercês-Serra das Minas",
+ :href-id #uuid "c97768c3-dd76-3b54-bb77-828ad2785663",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/MercesSerradasMinas643.aspx",
+ :concelho "Sintra",
+ :nec 1003,
+ :cp7 "2635-361",
+ :id #uuid "9bd67077-f5b8-3f9e-bba1-b19589345063",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"}

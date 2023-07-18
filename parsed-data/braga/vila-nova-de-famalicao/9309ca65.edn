@@ -1,0 +1,12 @@
+{:address "Travessa do Outeiro, n.º 42 r/c, 4760-859 V. N. Famalicão",
+ :name "Macedo",
+ :href-id #uuid "9309ca65-2326-38c2-bef2-d9bbe7143ae5",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Macedo.aspx",
+ :concelho "Vila Nova de Famalicão",
+ :nec 1390,
+ :cp7 "4760-859",
+ :id #uuid "7f859937-f420-3a67-92fe-0a8a9193eeff",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"}

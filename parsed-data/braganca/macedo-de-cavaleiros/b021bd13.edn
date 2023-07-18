@@ -1,0 +1,13 @@
+{:address
+ "Rua Dr. Luís Olaio, nº 15 - 1º 5340-262 MACEDO DE CAVALEIROS",
+ :name "Automóvel de Macedo",
+ :href-id #uuid "b021bd13-871e-3d1a-9630-b6a820e54ce0",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutomoveldeMacedo198.aspx",
+ :concelho "Macedo de Cavaleiros",
+ :nec 338,
+ :cp7 "5340-262",
+ :id #uuid "c5905827-834f-3976-9652-5655bb3389c2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Macedo%20Cavaleiros"}

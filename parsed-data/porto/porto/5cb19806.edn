@@ -1,0 +1,12 @@
+{:address "Avª Fernão de Magalhães nº 1851 4350-171 PORTO",
+ :name "Estádio",
+ :href-id #uuid "5cb19806-3a27-301e-91ea-a3a2de416c9d",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Estadio414.aspx",
+ :concelho "Porto",
+ :nec 1106,
+ :cp7 "4350-171",
+ :id #uuid "2928cbe1-9a5b-3839-8b11-4b1f006f5dc2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

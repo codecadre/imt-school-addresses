@@ -1,0 +1,13 @@
+{:address
+ "Av. Prof Dr. Veríssimo Serrão, n.º 16 (ex lote 8) Loja 3 2005-172 Santarém",
+ :name "Roda Segura",
+ :href-id #uuid "226216d5-a661-337b-a63c-0dc52563a52a",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RodaSegura.aspx",
+ :concelho "Santarém",
+ :nec 1359,
+ :cp7 "2005-172",
+ :id #uuid "91935f13-d068-3c26-98e4-54db1f0d4a43",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Santar%C3%A9m"}

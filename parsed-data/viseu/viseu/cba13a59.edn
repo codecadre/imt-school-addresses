@@ -1,0 +1,12 @@
+{:address "Campo de Viriato, 26 3510-122 VISEU",
+ :name "Automobilismo da Beira",
+ :href-id #uuid "cba13a59-ecf0-3098-b6e1-7fd260c66f04",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutomobilismodaBeira181.aspx",
+ :concelho "Viseu",
+ :nec 92,
+ :cp7 "3510-122",
+ :id #uuid "abcb656f-a6c5-3b8d-ae7d-6cf49ec4d1e9",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Viseu"}

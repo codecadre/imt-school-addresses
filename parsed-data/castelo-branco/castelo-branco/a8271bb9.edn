@@ -1,0 +1,13 @@
+{:address
+ "Avenida da Carapalha, Lote 65, n.º 45 r/c Dtº 6000-129 CASTELO BRANCO",
+ :name "Carapalha",
+ :href-id #uuid "a8271bb9-40a8-3dd1-b17d-508cc99e614a",
+ :distrito "Castelo Branco",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeConducaoCarapalha.aspx",
+ :concelho "Castelo Branco",
+ :nec 1420,
+ :cp7 "6000-129",
+ :id #uuid "49fb784a-9341-39ef-9823-0c7bee9ea578",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=CasteloBranco&Concelho=Castelo%20Branco"}

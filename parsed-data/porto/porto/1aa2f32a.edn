@@ -1,0 +1,12 @@
+{:address "Rua 9 de Abril n.º 201, r/c Paranhos, 4200-422 Porto",
+ :name "Nova do Porto",
+ :href-id #uuid "1aa2f32a-7df0-34dd-98fb-0b9582a9a557",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovadoPorto.aspx",
+ :concelho "Porto",
+ :nec 1399,
+ :cp7 "4200-422",
+ :id #uuid "c3ab6d6d-9310-3cf2-894f-938f36548629",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

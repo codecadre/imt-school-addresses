@@ -1,0 +1,13 @@
+{:address
+ "Avª das Forças Armadas - Cruzamento de Pegões 2985-216 PEGÕES",
+ :name "Montijo",
+ :href-id #uuid "4cdb9310-8bec-3639-96a4-e14f181eaa22",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Montijo676.aspx",
+ :concelho "Montijo",
+ :nec 648,
+ :cp7 "2985-216",
+ :id #uuid "9d73b140-d4c7-3c8c-be56-4cd1128644ea",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Montijo"}

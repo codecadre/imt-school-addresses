@@ -1,0 +1,13 @@
+{:address
+ "Rua Nova - Edifício Serafim Carvalho, Loja 5, 4775-269 Viatodos",
+ :name "Sara",
+ :href-id #uuid "4cd96d10-b92c-30a0-9ae2-e6018bdf1dc8",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Sara.aspx",
+ :concelho "Barcelos",
+ :nec 779,
+ :cp7 "4775-269",
+ :id #uuid "a21e72fc-541a-303e-8954-dbe229484380",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Barcelos"}

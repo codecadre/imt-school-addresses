@@ -1,0 +1,12 @@
+{:address "Rua de Olivença, No Prédio Moço, s/nº-1º 6200-156 COVILHÃ",
+ :name "A .Gomes - Covilhã",
+ :href-id #uuid "46dd0ad5-50ff-3454-b83a-fc58a1bba093",
+ :distrito "Castelo Branco",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AGomesCovilha002.aspx",
+ :concelho "Covilhã",
+ :nec 472,
+ :cp7 "6200-156",
+ :id #uuid "3e718da7-99eb-37b0-a469-51ab4c0a4d15",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=CasteloBranco&Concelho=Covilh%C3%A3"}

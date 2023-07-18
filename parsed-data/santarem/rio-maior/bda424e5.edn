@@ -1,0 +1,12 @@
+{:address "Rua Ernesto Alves, 23 – 2º 2040-411 RIO MAIOR",
+ :name "Rio Maiorense",
+ :href-id #uuid "bda424e5-ffdf-341b-a025-628cc2ec57fc",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RioMaiorense856.aspx",
+ :concelho "Rio Maior",
+ :nec 144,
+ :cp7 "2040-411",
+ :id #uuid "3355fa7c-d17d-31be-bb04-c6a06e03c1ed",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Rio%20Maior"}

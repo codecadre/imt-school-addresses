@@ -1,0 +1,12 @@
+{:address "EN 2 - Quinta Marcão, lote 1 - 252 r/c 3510-197 VISEU",
+ :name "Armando Cruz",
+ :href-id #uuid "25576d4b-c215-3432-b7fe-daf1f9328a64",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ArmandoCruz122.aspx",
+ :concelho "Viseu",
+ :nec 901,
+ :cp7 "3510-197",
+ :id #uuid "84fa75dc-e51d-31ac-ad7c-c40cf0b218dd",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Viseu"}

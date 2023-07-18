@@ -1,0 +1,13 @@
+{:address
+ "Rua Dr. Francisco Pissara de Matos-Lote 7 r/c 6300-693 GUARDA",
+ :name "Egitaniense",
+ :href-id #uuid "894f65b6-039b-3c50-930d-dd55b7a39588",
+ :distrito "Guarda",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Egitaniense403.aspx",
+ :concelho "Guarda",
+ :nec 1024,
+ :cp7 "6300-693",
+ :id #uuid "2c1b97d6-74ce-381d-a2bd-9a97c79e9fb3",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Guarda&Concelho=Guarda"}

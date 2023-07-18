@@ -1,0 +1,12 @@
+{:address "Avª Fernão de Magalhães, 160 –1º 3000-171 COIMBRA",
+ :name "Rainha Santa",
+ :href-id #uuid "9f9e5642-d692-3f12-9652-e87abd640d01",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RainhaSanta835.aspx",
+ :concelho "Coimbra",
+ :nec 376,
+ :cp7 "3000-171",
+ :id #uuid "1aee2c19-8686-3b80-90c2-c3cab78b5476",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Coimbra"}

@@ -1,0 +1,12 @@
+{:address "Rua dos Aliados, n.º 63, 4820-248 FAFE",
+ :name "Fafecidade",
+ :href-id #uuid "51afa33c-6247-3338-8c21-6db296dbc64c",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Fafecidade.aspx",
+ :concelho "Fafe",
+ :nec 783,
+ :cp7 "4820-248",
+ :id #uuid "e6fbe2c9-1129-3fd5-bbc1-37c72e035760",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Fafe"}

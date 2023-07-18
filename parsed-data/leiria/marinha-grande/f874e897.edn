@@ -1,0 +1,12 @@
+{:address "Rua Alfredo Gândara, n.º 22, 2430-053 MARINHA GRANDE",
+ :name "Batalhense da Marinha Grande",
+ :href-id #uuid "f874e897-630b-341e-9f7a-4c7a04e737aa",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/BatalhensedaMarinhaGrande226.aspx",
+ :concelho "Marinha Grande",
+ :nec 855,
+ :cp7 "2430-053",
+ :id #uuid "131d0cdd-8526-3a94-8c30-a7ab1a018101",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Marinha%20Grande"}

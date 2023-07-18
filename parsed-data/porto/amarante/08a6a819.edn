@@ -1,0 +1,13 @@
+{:address
+ "Travessa General Vitorino Laranjeiro, n.º 47; 4600-018 Amarante (São Gonçalo)",
+ :name "Seven",
+ :href-id #uuid "08a6a819-e3a0-33eb-9c45-249429e3cb00",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Seven.aspx",
+ :concelho "Amarante",
+ :nec 1294,
+ :cp7 "4600-018",
+ :id #uuid "be2a7ab7-8871-3a27-a9a3-a0ecd60c1555",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Amarante"}

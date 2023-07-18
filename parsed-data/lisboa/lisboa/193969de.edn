@@ -1,0 +1,12 @@
+{:address "Praça de Alvalade, n.º 17, D, 1700-038 LISBOA",
+ :name "Elite",
+ :href-id #uuid "193969de-8f7b-3ec6-93ff-52a6a8808d40",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeConducaoElite.aspx",
+ :concelho "Lisboa",
+ :nec 916,
+ :cp7 "1700-038",
+ :id #uuid "61f05386-40be-383b-936b-1d1c9fdecf2f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}

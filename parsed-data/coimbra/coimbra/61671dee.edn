@@ -1,0 +1,13 @@
+{:address
+ "Rua Soldado José dos Santos Calhau, n.º 14 ; 3045-481 Taveiro",
+ :name "Taveiro",
+ :href-id #uuid "61671dee-984b-3c78-91ba-2683a570ad0e",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Taveiro.aspx",
+ :concelho "Coimbra",
+ :nec 1318,
+ :cp7 "3045-481",
+ :id #uuid "102c6d36-273b-3cfa-b2f1-19416f55127b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Coimbra"}

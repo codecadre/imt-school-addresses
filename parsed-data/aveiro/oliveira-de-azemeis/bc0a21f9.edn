@@ -1,0 +1,13 @@
+{:address
+ "Travessa Domingos Pinho, n.º 57 A 3720-133 Oliveira de Azeméis",
+ :name "Via Azeméis",
+ :href-id #uuid "bc0a21f9-1480-37f0-97f4-258847804307",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ViaAzem%c3%a9is.aspx",
+ :concelho "Oliveira de Azeméis",
+ :nec 1384,
+ :cp7 "3720-133",
+ :id #uuid "1e5b06fa-e185-3efd-9ab7-844752382224",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Oliveira%20de%20Azem%C3%A9is"}

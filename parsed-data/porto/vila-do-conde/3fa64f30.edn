@@ -1,0 +1,13 @@
+{:address
+ "Avª Dr. João Canavarro nº 348 – 1º D 4480-668 VILA DO CONDE",
+ :name "Vilacondense",
+ :href-id #uuid "3fa64f30-2704-381c-9698-3117443c99a9",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Vilacondense1068.aspx",
+ :concelho "Vila do Conde",
+ :nec 374,
+ :cp7 "4480-668",
+ :id #uuid "29270f87-7613-32d0-b7d0-f28e5ab6b92b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Conde"}

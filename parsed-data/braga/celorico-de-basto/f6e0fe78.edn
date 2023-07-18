@@ -1,0 +1,13 @@
+{:address
+ "Rua de Barreirós, 27, R/C, Britelo, 4890-296 Celorico de Basto, Braga",
+ :name "Volante de Celorico",
+ :href-id #uuid "f6e0fe78-aaf9-3c84-a3e9-f84fac593e7c",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/VolantedeCelorico1081.aspx",
+ :concelho "Celorico de Basto",
+ :nec 810,
+ :cp7 "4890-296",
+ :id #uuid "6dadc722-b06d-32e3-a109-5854c3ce770f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Celorico%20Basto"}

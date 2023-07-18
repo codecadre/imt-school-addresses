@@ -1,0 +1,12 @@
+{:address "Rua do Gesto, n.º 75, 4535-201 MOZELOS",
+ :name "Irmãos Couto",
+ :href-id #uuid "46eafee9-9e06-3c67-bdde-831bb16c6b47",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/IrmaosCouto.aspx",
+ :concelho "Santa Maria da Feira",
+ :nec 1232,
+ :cp7 "4535-201",
+ :id #uuid "8a4454f1-59bb-3f28-a558-8698a7b2935b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Santa%20Maria%20da%20Feira"}

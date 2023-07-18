@@ -1,0 +1,13 @@
+{:address
+ "Avª Infante D. Pedro, Nº 106 - C.C.Scala,Loja 30 2615-150 ALVERCA DO RIBATEJO",
+ :name "Infante D. Pedro",
+ :href-id #uuid "75837f63-3312-380e-bcff-fb0aafbffa78",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfanteDPedro525.aspx",
+ :concelho "Vila Franca de Xira",
+ :nec 375,
+ :cp7 "2615-150",
+ :id #uuid "e7c5dbc6-199e-3489-9f98-1edf60b0cdde",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Vila%20Franca%20Xira"}

@@ -1,0 +1,12 @@
+{:address "Rua Duarte Pacheco nº 178 8135-104 ALMANCIL",
+ :name "Infante de Almancil",
+ :href-id #uuid "1bb0fff1-298d-30a8-a56f-0e654550077b",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfantedeAlmancil526.aspx",
+ :concelho "Loulé",
+ :nec 907,
+ :cp7 "8135-104",
+ :id #uuid "28ca5320-75ac-3af4-811a-83911e12e607",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Loul%C3%A9"}

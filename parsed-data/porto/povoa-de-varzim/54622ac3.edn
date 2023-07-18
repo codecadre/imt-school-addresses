@@ -1,0 +1,12 @@
+{:address "Praceta do leigal, n.º 128 freguesia de Freamunde",
+ :name "A Sebastiana",
+ :href-id #uuid "54622ac3-a07c-3863-a581-a372ed8f7235",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ASebastiana.aspx",
+ :concelho "Póvoa de Varzim",
+ :nec 1400,
+ :cp7 nil,
+ :id #uuid "2d345168-b282-3ff8-bf77-0a3d2414d737",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=P%C3%B3voa%20de%20Varzim"}

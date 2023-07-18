@@ -1,0 +1,12 @@
+{:address "Avª João Paulo II, 42 B e 42 F 2970-649 SESIMBRA",
+ :name "Jevi",
+ :href-id #uuid "ed310111-c319-38a4-8f62-1ff724390a7d",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Jevi575.aspx",
+ :concelho "Sesimbra",
+ :nec 799,
+ :cp7 "2970-649",
+ :id #uuid "588695ce-55f5-383b-9441-f06b5ef93cd1",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Sesimbra"}

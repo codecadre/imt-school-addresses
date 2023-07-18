@@ -1,0 +1,13 @@
+{:address
+ "Bairro da Igreja, Lote 3 R/C Dtº 5445-101 CARRAZEDO MONTENEGRO",
+ :name "Montenegrense",
+ :href-id #uuid "e3d4b171-9e4f-307d-8dd7-b8795e303b43",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Montenegrense675.aspx",
+ :concelho "Valpaços",
+ :nec 1179,
+ :cp7 "5445-101",
+ :id #uuid "72bd25d1-1334-3e94-b947-fce85ba12bb2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Valpa%C3%A7os"}

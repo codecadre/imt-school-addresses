@@ -1,0 +1,13 @@
+{:address
+ "Av. Prof. Dr. Fortunato de Almeida-Edf. do Areal 3520-056 NELAS",
+ :name "Nelas",
+ :href-id #uuid "753a4e96-0c9a-364a-8f34-3d3fbc004c53",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Nelas688.aspx",
+ :concelho "Nelas",
+ :nec 367,
+ :cp7 "3520-056",
+ :id #uuid "f5b05aa0-1e8d-3e90-aaf7-5c88e76a3fb7",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Nelas"}

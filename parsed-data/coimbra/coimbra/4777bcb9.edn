@@ -1,0 +1,13 @@
+{:address
+ "Rua Capitão Luis Gonzaga, n.º 31-A, Lote1, Loja E, 3000-095 COIMBRA",
+ :name "Aurora",
+ :href-id #uuid "4777bcb9-c4c7-3f5c-8cb5-ba26e6839405",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Aurora136.aspx",
+ :concelho "Coimbra",
+ :nec 408,
+ :cp7 "3000-095",
+ :id #uuid "a6a4d978-4417-3212-a003-2802f7343908",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Coimbra"}

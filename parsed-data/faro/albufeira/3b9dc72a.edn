@@ -1,0 +1,12 @@
+{:address "Edifício Central ,Lagoas, Loja L 8200-171 ALBUFEIRA",
+ :name "Alfa",
+ :href-id #uuid "3b9dc72a-b77d-3bf7-bae3-a3cb938cc28f",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Alfa080.aspx",
+ :concelho "Albufeira",
+ :nec 814,
+ :cp7 "8200-171",
+ :id #uuid "e4eba7bb-ce5c-3805-ace4-93380fa5f0eb",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Albufeira"}

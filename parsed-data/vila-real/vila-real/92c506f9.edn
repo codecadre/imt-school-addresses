@@ -1,0 +1,13 @@
+{:address
+ "Rua Actor Rui de Carvalho, Lote 5, Loja R/C 5000-262 VILA REAL",
+ :name "Aléu",
+ :href-id #uuid "92c506f9-47ce-3405-a1ff-bc9dd4842cff",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Aleu079.aspx",
+ :concelho "Vila Real",
+ :nec 1260,
+ :cp7 "5000-262",
+ :id #uuid "89e14534-5919-3abf-96e0-9d1d8a42e552",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Vila%20Real"}

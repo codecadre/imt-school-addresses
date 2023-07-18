@@ -1,0 +1,12 @@
+{:address "Rua da Serrinha n.º 815, Fracção E; 4575-049 ALPENDURADA",
+ :name "Preferência",
+ :href-id #uuid "67ba8117-9072-3d13-90e0-145406143df7",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Preferencia809.aspx",
+ :concelho "Marco de Canavezes",
+ :nec 1228,
+ :cp7 "4575-049",
+ :id #uuid "af8fb6e2-9075-3b10-901e-27c8514a0575",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Marco%20Canavezes"}

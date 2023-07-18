@@ -1,0 +1,12 @@
+{:address "Av. D. Manuel I, Nº 3,5 2890 ALCOCHETE",
+ :name "Infante de Sagres - Alcochete",
+ :href-id #uuid "65b4e898-21d7-3f28-960a-913f8e9faf4c",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfantedeSagresAlcochete530.aspx",
+ :concelho "Alcochete",
+ :nec 433,
+ :cp7 "2890",
+ :id #uuid "19ac1307-e61e-3028-a74f-d638f3101a23",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Alcochete"}

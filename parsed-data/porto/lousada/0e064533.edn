@@ -1,0 +1,12 @@
+{:address "Rua S. João de Deus, Nº 76 R/C e 1º 4620-660 SILVARES",
+ :name "A Lousadense",
+ :href-id #uuid "0e064533-d509-300f-933d-f7780bbe0fb2",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ALousadense025.aspx",
+ :concelho "Lousada",
+ :nec 430,
+ :cp7 "4620-660",
+ :id #uuid "722870f9-acdb-32fb-8cf8-a740f3cd31ff",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Lousada"}

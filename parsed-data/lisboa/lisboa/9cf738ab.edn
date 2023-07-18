@@ -1,0 +1,12 @@
+{:address "Rua José D' Esaguy, n.º 8, 1750-091 LISBOA",
+ :name "Babilónia",
+ :href-id #uuid "9cf738ab-420e-3419-a061-739e405f3ce9",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Babilonia209.aspx",
+ :concelho "Lisboa",
+ :nec 1187,
+ :cp7 "1750-091",
+ :id #uuid "3ff4549f-c286-365e-a249-ca2fd202107e",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}

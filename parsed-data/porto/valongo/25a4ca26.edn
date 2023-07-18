@@ -1,0 +1,12 @@
+{:address "Rua Dr. Mário Cal Brandão, Nº 931 4440-488 VALONGO",
+ :name "Coduvallis",
+ :href-id #uuid "25a4ca26-8012-348e-be3f-087c659fb771",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Coduvallis319.aspx",
+ :concelho "Valongo",
+ :nec 1192,
+ :cp7 "4440-488",
+ :id #uuid "595ac5ba-b5e0-34a1-8de8-68d7c220abef",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Valongo"}

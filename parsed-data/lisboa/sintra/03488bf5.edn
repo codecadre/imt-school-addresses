@@ -1,0 +1,13 @@
+{:address
+ "Rua General José Esteves Morais Sarmento, Nº 7 e 9 2710-583 SINTRA",
+ :name "Automóvel de Sintra",
+ :href-id #uuid "03488bf5-52cf-3ab3-b884-c32f9a16bf09",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutomoveldeSintra199.aspx",
+ :concelho "Sintra",
+ :nec 48,
+ :cp7 "2710-583",
+ :id #uuid "43efa9cb-26d1-357f-89ec-5640bbeec57d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"}

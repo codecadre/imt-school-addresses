@@ -1,0 +1,13 @@
+{:address
+ "Rua Mestre João Serra, Lote A - Zona Industrial 7300-061 PORTALEGRE",
+ :name "SIIIMPLEAMAIA",
+ :href-id #uuid "82d134cc-adaf-3f96-979d-23c6ee7927ea",
+ :distrito "Portalegre",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SIIIMPLEAMAIA.aspx",
+ :concelho "Portalegre",
+ :nec 434,
+ :cp7 "7300-061",
+ :id #uuid "0bf573bf-4604-34d7-9eaa-94b030f7ff4f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Portalegre&Concelho=Portalegre"}

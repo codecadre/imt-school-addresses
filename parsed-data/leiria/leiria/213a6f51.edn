@@ -1,0 +1,13 @@
+{:address
+ "Estrada Nacional 109, n.º 161, Várzeas, 2425-507 Souto da Carpalhosa",
+ :name "Limits",
+ :href-id #uuid "213a6f51-964e-3926-ba04-e0fd459ebece",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Limits.aspx",
+ :concelho "Leiria",
+ :nec 1338,
+ :cp7 "2425-507",
+ :id #uuid "65bf902e-6581-3acf-886b-3c63ae6fac1c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Leiria"}

@@ -1,0 +1,12 @@
+{:address "Rua Central da Gandra nº 1479 4585-116 GANDRA",
+ :name "Pinheiro Manso",
+ :href-id #uuid "0f2498c8-b37e-32e4-8de3-851824661dd2",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/PinheiroManso792.aspx",
+ :concelho "Paredes",
+ :nec 692,
+ :cp7 "4585-116",
+ :id #uuid "6b055c93-4b3f-36be-a426-1b59a49dfd23",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Paredes"}

@@ -1,0 +1,12 @@
+{:address "Bº Nossa Senhora da Conceição, 136 7160-231 VILA VIÇOSA",
+ :name "Auto Nisse",
+ :href-id #uuid "468ac560-f064-3b72-9f7a-25f72294d315",
+ :distrito "Évora",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutoNisse168.aspx",
+ :concelho "Vila Viçosa",
+ :nec 596,
+ :cp7 "7160-231",
+ :id #uuid "d2917096-c5d1-3577-9e64-5d2f1ece06d9",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Evora&Concelho=Vila%20Vi%C3%A7osa"}

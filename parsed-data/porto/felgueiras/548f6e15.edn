@@ -1,0 +1,12 @@
+{:address "Lugar da Cachada 4610-250 MARGARIDE (SANTA EULÁLIA)",
+ :name "Valverde",
+ :href-id #uuid "548f6e15-9d66-3637-8813-ee8ba56a9429",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Valverde1037.aspx",
+ :concelho "Felgueiras",
+ :nec 1102,
+ :cp7 "4610-250",
+ :id #uuid "ba279c39-db1f-32e7-b6ff-e459629825b2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Felgueiras"}

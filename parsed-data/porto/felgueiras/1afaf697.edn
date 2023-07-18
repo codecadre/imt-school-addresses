@@ -1,0 +1,12 @@
+{:address "Rua Central N.º 41 ",
+ :name "José Luís Cunha",
+ :href-id #uuid "1afaf697-6b36-39ae-b2ce-edd9b3aefb5c",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/JoseLuisCunha1316.aspx",
+ :concelho "Felgueiras",
+ :nec 1316,
+ :cp7 nil,
+ :id #uuid "4c5fcfa6-7cf0-305a-869f-2017133ef799",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Felgueiras"}

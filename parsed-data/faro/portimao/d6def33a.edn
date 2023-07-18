@@ -1,0 +1,12 @@
+{:address "Qtª do Amparo, lote 34/35 r/c 8500-547 PORTIMÃO",
+ :name "Infante de Sagres - Portimão II",
+ :href-id #uuid "d6def33a-00e0-3275-b4c9-7959876551df",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfantedeSagresPortimaoII541.aspx",
+ :concelho "Portimão",
+ :nec 584,
+ :cp7 "8500-547",
+ :id #uuid "4a81bf8e-19a3-316a-858d-6ba6b6dee5de",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Portim%C3%A3o"}

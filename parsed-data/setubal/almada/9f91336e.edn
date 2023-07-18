@@ -1,0 +1,13 @@
+{:address
+ "Avª António José Gomes 54 –1º esqº 2800-338 COVA da PIEDADE",
+ :name "Nova Almada",
+ :href-id #uuid "9f91336e-e60c-3d7a-8761-6ede0f7b7619",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovaAlmada699.aspx",
+ :concelho "Almada",
+ :nec 978,
+ :cp7 "2800-338",
+ :id #uuid "4696761e-29aa-3a57-b583-1f84e4337852",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Almada"}

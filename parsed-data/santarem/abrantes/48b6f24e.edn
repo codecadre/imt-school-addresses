@@ -1,0 +1,12 @@
+{:address "Av. D. João I, Nº 616 R/C -Vale de Rãs 2200-233 ABRANTES",
+ :name "Abranjovem",
+ :href-id #uuid "48b6f24e-7a08-3a71-adc2-3ffceb330cc4",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Abranjovem049.aspx",
+ :concelho "Abrantes",
+ :nec 1171,
+ :cp7 "2200-233",
+ :id #uuid "047043a3-7c4b-3ead-9521-88d928bab27d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Abrantes"}

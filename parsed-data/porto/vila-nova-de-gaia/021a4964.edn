@@ -1,0 +1,12 @@
+{:address "Rua da Bélgica, nº 2281 R/C, 4400-058 VILA NOVA de GAIA",
+ :name "Alto Nível",
+ :href-id #uuid "021a4964-3704-3b62-acfa-4c225626437c",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AltoNivel.aspx",
+ :concelho "Vila Nova de Gaia",
+ :nec 1301,
+ :cp7 "4400-058",
+ :id #uuid "9b19e309-3374-3a82-964b-2ef4fa7abf04",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia"}

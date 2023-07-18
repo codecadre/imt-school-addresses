@@ -1,0 +1,12 @@
+{:address "Rua Sacadura Cabral, 34 2600-230 VILA FRANCA DE XIRA",
+ :name "Instrucoop",
+ :href-id #uuid "2b1278c1-16b6-32b5-ba9d-10690e064411",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Instrucoop560.aspx",
+ :concelho "Vila Franca de Xira",
+ :nec 378,
+ :cp7 "2600-230",
+ :id #uuid "98554559-0208-36af-8642-0f228f5e7f15",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Vila%20Franca%20Xira"}

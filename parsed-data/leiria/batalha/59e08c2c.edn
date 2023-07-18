@@ -1,0 +1,13 @@
+{:address
+ "Estrada do Vale de Ourém, 18, Fr. B - R/C Esq, 2495-032 São Mamede",
+ :name "Riachense",
+ :href-id #uuid "59e08c2c-40c2-36ea-9702-1f94d66db6fe",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Riachense.aspx",
+ :concelho "Batalha",
+ :nec 1163,
+ :cp7 "2495-032",
+ :id #uuid "ff047d01-627d-3a91-8c82-e9047446b96f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Batalha"}

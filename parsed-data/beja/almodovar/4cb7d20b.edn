@@ -1,0 +1,12 @@
+{:address "Rua do Convento nº 27 7700-058 ALMODOVAR",
+ :name "Almodovar",
+ :href-id #uuid "4cb7d20b-68e8-35d4-a3fd-90000c8b529e",
+ :distrito "Beja",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Almodovar091.aspx",
+ :concelho "Almodôvar",
+ :nec 469,
+ :cp7 "7700-058",
+ :id #uuid "b480dbb4-2a7b-3630-ab09-897177c4c073",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Beja&Concelho=Almodovar"}

@@ -1,0 +1,13 @@
+{:address
+ "Rua Cardeal Alpedrinha, n.º 72 A, 2500-843 Caldas da Rainha",
+ :name "Nova Rainha",
+ :href-id #uuid "8f9f901c-4245-3456-a76f-0d4e90612d0f",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovaRainha.aspx",
+ :concelho "Caldas da Raínha",
+ :nec 1333,
+ :cp7 "2500-843",
+ :id #uuid "7dae2074-337a-32b5-a5fa-ed158afe9c76",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Caldas%20da%20Rainha"}

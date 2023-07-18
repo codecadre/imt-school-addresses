@@ -1,0 +1,12 @@
+{:address "Av. da Cerqueda, n.º 731, 4765-791 Oliveira São Mateus",
+ :name "Escola de Condução Positiva",
+ :href-id #uuid "4b5b9e7b-0869-33dd-8565-993d766175ac",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeConducaoPositiva.aspx",
+ :concelho "Vila Nova de Famalicão",
+ :nec 1341,
+ :cp7 "4765-791",
+ :id #uuid "da467f43-8854-30e9-97f2-d225ca1a92b0",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"}

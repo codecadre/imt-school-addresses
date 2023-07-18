@@ -1,0 +1,12 @@
+{:address "Rua José Maria Pinela 7540 -113 SANTIAGO DO CACÉM",
+ :name "J. Guerreiro e Batista",
+ :href-id #uuid "e7866743-2700-34f2-971e-d8277e2d860f",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/JGuerreiroeBatista570.aspx",
+ :concelho "Santiago do Cacém",
+ :nec 931,
+ :cp7 "7540-113",
+ :id #uuid "72ece87f-f25b-3cdf-bc90-36e3cb9918bd",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Santiago%20do%20Cac%C3%A9m"}

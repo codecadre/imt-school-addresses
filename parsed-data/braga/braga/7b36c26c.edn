@@ -1,0 +1,12 @@
+{:address "Rua Nova de Santa Cruz N.º334",
+ :name "Pampicar",
+ :href-id #uuid "7b36c26c-3fd9-3107-9abe-4c7bca288af0",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SantaCombadense919.aspx",
+ :concelho "Braga",
+ :nec 443,
+ :cp7 nil,
+ :id #uuid "73b75a5e-f5fa-352c-b540-a5d657da9017",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Braga"}

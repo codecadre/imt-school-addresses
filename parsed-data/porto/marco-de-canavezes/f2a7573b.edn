@@ -1,0 +1,12 @@
+{:address "Lugar de Palheira 4575-011 ALPENDURADA e MATOS",
+ :name "Santa Marinha - Autoagra",
+ :href-id #uuid "f2a7573b-c1d7-3667-a956-b1ea35d002d7",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SantaMarinhaAutoagra932.aspx",
+ :concelho "Marco de Canavezes",
+ :nec 944,
+ :cp7 "4575-011",
+ :id #uuid "dae8ab30-0234-397d-bbc1-8c3298567681",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Marco%20Canavezes"}

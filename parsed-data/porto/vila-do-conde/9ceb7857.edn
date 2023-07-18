@@ -1,0 +1,12 @@
+{:address "Av. Das Portas Fronhas, n.º 154, 4480-004 Vila do Conde",
+ :name "Academia do Condutor",
+ :href-id #uuid "9ceb7857-b3f2-3677-a226-afe6e9f809fb",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AcademiadoCondutor.aspx",
+ :concelho "Vila do Conde",
+ :nec 1452,
+ :cp7 "4480-004",
+ :id #uuid "a699b6ec-66f6-3ce9-883c-3425c08bb3bc",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Conde"}

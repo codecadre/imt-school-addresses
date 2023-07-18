@@ -1,0 +1,13 @@
+{:address
+ "Av.ª Prof. Aníbal de Bettencourt, n.º 1, 1º, 1600-189 LISBOA",
+ :name "Moderna",
+ :href-id #uuid "ffbee929-3e98-36e8-9f5a-0afb0c2fe74c",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Moderna656.aspx",
+ :concelho "Lisboa",
+ :nec 16,
+ :cp7 "1600-189",
+ :id #uuid "e704454f-c2a2-39e1-9552-5289e0dfe89f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}

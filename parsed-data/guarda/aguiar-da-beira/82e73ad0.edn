@@ -1,0 +1,12 @@
+{:address "Rua do Barreiro, n.º 31, r/c 3570-021 AGUIAR DA BEIRA",
+ :name "Escola de Condução Olidrive",
+ :href-id #uuid "82e73ad0-3a2c-3ab4-a6b5-a6de8d9d955d",
+ :distrito "Guarda",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeCondu%c3%a7%c3%a3oOlidrive.aspx",
+ :concelho "Aguiar da Beira",
+ :nec 1347,
+ :cp7 "3570-021",
+ :id #uuid "71be6390-9780-3e13-9d83-a8253fe5adf5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Guarda&Concelho=Aguiar%20da%20Beira"}

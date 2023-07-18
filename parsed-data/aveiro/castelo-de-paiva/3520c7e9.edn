@@ -1,0 +1,13 @@
+{:address
+ "Avª Jean Tyssen-Oliveira do Arda-Raiva 4550-100 CASTELO DE PAIVA",
+ :name "Estrela do Arda",
+ :href-id #uuid "3520c7e9-461c-34da-8503-cc8fa73e294b",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EstreladoArda425.aspx",
+ :concelho "Castelo de Paiva",
+ :nec 1026,
+ :cp7 "4550-100",
+ :id #uuid "abc1fe12-88a5-321e-b94e-eda6f2d6d67b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Castelo%20de%20Paiva"}

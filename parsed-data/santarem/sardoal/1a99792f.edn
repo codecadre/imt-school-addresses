@@ -1,0 +1,12 @@
+{:address "Avª Heróis do Ultramar nº 16 2230-224 SARDOAL",
+ :name "Do Sardoal",
+ :href-id #uuid "1a99792f-8e24-3c03-bb77-ba99c140268d",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DoSardoal392.aspx",
+ :concelho "Sardoal",
+ :nec 178,
+ :cp7 "2230-224",
+ :id #uuid "1c33ba96-5502-3915-81ec-85fe2ebad6d9",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Sardoal"}

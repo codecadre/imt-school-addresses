@@ -1,0 +1,12 @@
+{:address "Avª Forças Armadas 3300-011 ARGANIL",
+ :name "Arganilense",
+ :href-id #uuid "431fd650-f61c-3cc6-915c-f5034e639a8e",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Arganilense119.aspx",
+ :concelho "Arganil",
+ :nec 232,
+ :cp7 "3300-011",
+ :id #uuid "d9874853-4986-3fc5-9efd-6579bdd4dd94",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Arganil"}

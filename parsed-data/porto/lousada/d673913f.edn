@@ -1,0 +1,12 @@
+{:address "Rua Visconde de Alentem 4620-650 SILVARES",
+ :name "Ideal de Lousada",
+ :href-id #uuid "d673913f-906a-3008-a049-8882b0d3e3a2",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/IdealdeLousada515.aspx",
+ :concelho "Lousada",
+ :nec 553,
+ :cp7 "4620-650",
+ :id #uuid "00b0add3-1806-3a93-9452-a98aec17eef6",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Lousada"}

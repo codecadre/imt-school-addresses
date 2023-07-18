@@ -1,0 +1,13 @@
+{:address
+ "Rua Francisco Sá Carneiro, Nº 28, Loja C - cave 2725-316 MEM MARTINS",
+ :name "M. M. Ouressa",
+ :href-id #uuid "5651e70f-1941-3f4b-ab76-c95cbb80b25d",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/MMOuressa614.aspx",
+ :concelho "Sintra",
+ :nec 22,
+ :cp7 "2725-316",
+ :id #uuid "af6c4c44-cbe3-34d0-866f-3b65a6dbcb1b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"}

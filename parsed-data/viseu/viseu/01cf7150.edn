@@ -1,0 +1,13 @@
+{:address
+ "Av. D. Afonso Henriques, Quinta da Alagoa, Lote 178, r/c Esq., 3500-626 Viseu",
+ :name "Zig Zag",
+ :href-id #uuid "01cf7150-0aae-3185-a5e7-0e8629fac468",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ZigZag.aspx",
+ :concelho "Viseu",
+ :nec 1455,
+ :cp7 "3500-626",
+ :id #uuid "3bba91fa-cf96-3e2a-88a4-7d491695b778",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Viseu"}

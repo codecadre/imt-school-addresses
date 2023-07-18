@@ -1,0 +1,13 @@
+{:address
+ "Edifício Cimo de Vila, Loja 11 M, Pousada de Saramagos, 4760-175 Vila Nova de Famalicão",
+ :name "Reta Segura",
+ :href-id #uuid "6bcd85b0-d161-3ec9-9220-59d4640652f3",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Recta%20Segura.aspx",
+ :concelho "Vila Nova de Famalicão",
+ :nec 833,
+ :cp7 "4760-175",
+ :id #uuid "cf7cebde-b656-34a5-8d5f-67d5f04194f6",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"}

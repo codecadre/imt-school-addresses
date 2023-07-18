@@ -1,0 +1,12 @@
+{:address "Rua Dr. José dos Santos Alves, Nº 10-1º 3100-480 POMBAL",
+ :name "Pombal",
+ :href-id #uuid "ee1c8c99-bab1-33ef-a197-cf709580bddf",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Pombal796.aspx",
+ :concelho "Pombal",
+ :nec 441,
+ :cp7 "3100-480",
+ :id #uuid "c2a08a86-5ce9-3569-aca5-28f7bde33582",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Pombal"}

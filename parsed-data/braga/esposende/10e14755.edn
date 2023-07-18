@@ -1,0 +1,13 @@
+{:address
+ "Rua dos Bombeiros Voluntários Fracção B/C 4740-291 ESPOSENDE",
+ :name "A Ideal - Esposende",
+ :href-id #uuid "10e14755-118f-3024-b2b8-0d6f8e864057",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AIdealEsposende022.aspx",
+ :concelho "Esposende",
+ :nec 256,
+ :cp7 "4740-291",
+ :id #uuid "bfbc3bb3-d85b-3e60-adee-513daab91c3b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Esposende"}

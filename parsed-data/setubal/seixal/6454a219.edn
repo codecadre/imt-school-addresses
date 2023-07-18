@@ -1,0 +1,12 @@
+{:address "Av. 1.º de Maio, n.º 87-A, 2845-601 Amora",
+ :name "Helder Pereira",
+ :href-id #uuid "6454a219-93f6-3aa3-a6bc-76aa8d6a0202",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/HelderPereira.aspx",
+ :concelho "Seixal",
+ :nec 1283,
+ :cp7 "2845-601",
+ :id #uuid "1d23ad76-7d33-3992-86af-f4ecd81ba297",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Seixal"}

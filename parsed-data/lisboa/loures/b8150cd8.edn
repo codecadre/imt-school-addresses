@@ -1,0 +1,13 @@
+{:address
+ "Praceta Soeiro Pereira Gomes, n.º 3 e n.º 3 A ; 2695-074 Bobadela",
+ :name "A Vida da Condução",
+ :href-id #uuid "b8150cd8-27f2-3f87-89b5-9234c68b1fde",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AVidadaConducao.aspx",
+ :concelho "Loures",
+ :nec 1317,
+ :cp7 "2695-074",
+ :id #uuid "fda4373c-ede7-3048-b5d7-cd157087afe2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Loures"}

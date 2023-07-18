@@ -1,0 +1,12 @@
+{:address "Escadinhas 3140 MONTEMOR-O-VELHO",
+ :name "Mondego",
+ :href-id #uuid "263ddb40-7a84-3b08-b6aa-f773f3e47f59",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Mondego668.aspx",
+ :concelho "Montemor-o-Velho",
+ :nec 713,
+ :cp7 "3140",
+ :id #uuid "9f0f96c2-96ad-3b10-b289-6b147c298f66",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Montemor%20o%20Velho"}

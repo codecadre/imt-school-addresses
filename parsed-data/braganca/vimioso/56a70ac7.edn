@@ -1,0 +1,12 @@
+{:address "Avª de Alcanices, Nº 21-Bairro das Cruzes 5230-302 VIMIOSO",
+ :name "S. Bartolomeu",
+ :href-id #uuid "56a70ac7-f9af-3c44-be75-297e6519f9d8",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SBartolomeu876.aspx",
+ :concelho "Vimioso",
+ :nec 352,
+ :cp7 "5230-302",
+ :id #uuid "5f068edf-0103-355a-ac13-b716d5ad3867",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Vimioso"}

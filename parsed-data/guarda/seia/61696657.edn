@@ -1,0 +1,12 @@
+{:address "Rua do Comércio nº 173 r/c 6270-133 SEIA",
+ :name "Rota da Estrela",
+ :href-id #uuid "61696657-abf8-31ad-9c83-3f2d3679e85b",
+ :distrito "Guarda",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RotadaEstrela871.aspx",
+ :concelho "Seia",
+ :nec 1014,
+ :cp7 "6270-133",
+ :id #uuid "46db1c63-d0cf-3776-8722-8c76d5babb56",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Guarda&Concelho=Seia"}

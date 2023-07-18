@@ -1,0 +1,12 @@
+{:address "Rua Chafariz D’El rei, n.º 39, r/c Esq. 7005-190 Évora",
+ :name "D’El Rei",
+ :href-id #uuid "f90fecff-74d2-37f5-8f94-8fd33f73e845",
+ :distrito "Évora",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/D%e2%80%99ElRei.aspx",
+ :concelho "Évora",
+ :nec 1429,
+ :cp7 "7005-190",
+ :id #uuid "a07e5afd-8770-3320-b0c3-b3bb075497fc",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Evora&Concelho=%C3%89vora"}

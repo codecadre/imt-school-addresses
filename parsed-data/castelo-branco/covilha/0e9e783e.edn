@@ -1,0 +1,13 @@
+{:address
+ "Rua Dr. José Mendes Matos, Lote 10, Fracção A, 6200-559 COVILHÃ",
+ :name "Pacense",
+ :href-id #uuid "0e9e783e-e25c-37fc-9865-9728a07817cb",
+ :distrito "Castelo Branco",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Pacense762.aspx",
+ :concelho "Covilhã",
+ :nec 308,
+ :cp7 "6200-559",
+ :id #uuid "6954eecd-445d-3f94-a530-3a7260228d32",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=CasteloBranco&Concelho=Covilh%C3%A3"}

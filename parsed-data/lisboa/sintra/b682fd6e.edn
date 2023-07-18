@@ -1,0 +1,12 @@
+{:address "Avª de Fitares, Nº 9- B Rinchoa 2635-011 RIO de MOURO",
+ :name "Caravela",
+ :href-id #uuid "b682fd6e-c29f-37e2-9b6b-f5efb9655880",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Caravela282.aspx",
+ :concelho "Sintra",
+ :nec 984,
+ :cp7 "2635-011",
+ :id #uuid "8de799ce-2681-33b0-9725-c135db841ce7",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"}

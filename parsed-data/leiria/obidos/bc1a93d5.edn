@@ -1,0 +1,12 @@
+{:address "Estrada Nacional 8- Lote 4 2510 -737 GAEIRAS",
+ :name "Santa Maria de Óbidos",
+ :href-id #uuid "bc1a93d5-e8e8-34c1-872c-af94d0d0c0ed",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SantaMariadeObidos930.aspx",
+ :concelho "Óbidos",
+ :nec 487,
+ :cp7 "2510-737",
+ :id #uuid "db7bbd94-6ef6-3726-9768-41b7bd659e34",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=%C3%93bidos"}

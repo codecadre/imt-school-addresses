@@ -1,0 +1,13 @@
+{:address
+ "Rua Pedro Costa, n.ºs 1290,1290A,1290B e Rua das Quintinhas, n.º 2, 2820-185 CHARNECA DA CAPARICA",
+ :name "Charneca",
+ :href-id #uuid "50e525d2-465a-3522-aa46-d0b671f9027b",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Charneca.aspx",
+ :concelho "Almada",
+ :nec 1285,
+ :cp7 "2820-185",
+ :id #uuid "49c78c0f-a279-33c2-bf98-a5baea589f35",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Almada"}

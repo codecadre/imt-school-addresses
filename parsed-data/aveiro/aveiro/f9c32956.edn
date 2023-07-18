@@ -1,0 +1,12 @@
+{:address "Rua do Magistério Primário, Nº 20/22 3800-212 AVEIRO",
+ :name "Santos e Gamelas",
+ :href-id #uuid "f9c32956-9ef8-3e0c-9ff2-b7c3853e8ab7",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SantoseGamelas942.aspx",
+ :concelho "Aveiro",
+ :nec 108,
+ :cp7 "3800-212",
+ :id #uuid "0a0ff539-d0b5-34b2-ac5b-a5db1e769383",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Aveiro"}

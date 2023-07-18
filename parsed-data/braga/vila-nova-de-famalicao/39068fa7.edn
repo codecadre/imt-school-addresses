@@ -1,0 +1,13 @@
+{:address
+ "Lugar Fonte dos Castanheiros, Nº 6, bloco 1, Loja 1 4760-624 LOUSADO",
+ :name "Lagoncinha",
+ :href-id #uuid "39068fa7-e3b7-366e-b225-c1f885841cfc",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Lagoncinha590.aspx",
+ :concelho "Vila Nova de Famalicão",
+ :nec 1203,
+ :cp7 "4760-624",
+ :id #uuid "15ea5479-851c-39ad-813c-a9c116c4aa83",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"}

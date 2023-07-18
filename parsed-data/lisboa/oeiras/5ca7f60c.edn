@@ -1,0 +1,12 @@
+{:address "Alameda Conde de Oeiras, 95 2780-139 OEIRAS",
+ :name "Armando Victor",
+ :href-id #uuid "5ca7f60c-7249-384c-a6bf-8860d302901b",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ArmandoVictor124.aspx",
+ :concelho "Oeiras",
+ :nec 215,
+ :cp7 "2780-139",
+ :id #uuid "61200dcc-d845-3b0d-8dc4-189ad6b5f865",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Oeiras"}

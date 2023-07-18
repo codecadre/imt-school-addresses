@@ -1,0 +1,12 @@
+{:address "Rua 1º de Dezembro, Nº 2 –2º Esqº 2700-671 AMADORA",
+ :name "Amadora",
+ :href-id #uuid "c7c9bf6a-fe79-3c6f-b37a-4e99d0adf132",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Amadora101.aspx",
+ :concelho "Amadora",
+ :nec 237,
+ :cp7 "2700-671",
+ :id #uuid "18ae75d2-7291-3375-8aa1-061a9e9e982c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Amadora"}

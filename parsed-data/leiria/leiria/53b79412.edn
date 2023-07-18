@@ -1,0 +1,12 @@
+{:address "Praceta Cristiano Schurmann nº 55 2410-078 LEIRIA",
+ :name "Rota do Sol",
+ :href-id #uuid "53b79412-e97f-316b-b476-a7b58871dd20",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RotadoSol872.aspx",
+ :concelho "Leiria",
+ :nec 695,
+ :cp7 "2410-078",
+ :id #uuid "93e90028-9736-3137-9b53-eb59678a0de5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Leiria"}

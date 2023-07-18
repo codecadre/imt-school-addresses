@@ -1,0 +1,12 @@
+{:address "Rua Joaquim Tim Tim Sitima, N.º 20 A; 2650-224 Brandoa",
+ :name "Eco Brandoa",
+ :href-id #uuid "c0d9b338-2fec-37a7-8bb2-fb2a97e75973",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EcoBrandoa.aspx",
+ :concelho "Amadora",
+ :nec 1310,
+ :cp7 "2650-224",
+ :id #uuid "24c4fc92-24d0-3762-8df6-238f8032ba33",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Amadora"}

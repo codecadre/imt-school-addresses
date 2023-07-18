@@ -1,0 +1,13 @@
+{:address
+ "Urbanização Quinta do Monte, lote 3, Loja 76 4805-158 CALDELAS",
+ :name "Mariana",
+ :href-id #uuid "9a8ac7fb-84d4-3c9d-ae44-262968fda681",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Mariana629.aspx",
+ :concelho "Guimarães",
+ :nec 734,
+ :cp7 "4805-158",
+ :id #uuid "73242be2-47cf-385e-b1a9-5fbbf3472ac4",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Guimar%C3%A3es"}

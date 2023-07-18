@@ -1,0 +1,13 @@
+{:address
+ "Avª Campo das Laranjeiras – Edifício Europa 6 r/c 4580-058 CASTELÕES de CEPEDA",
+ :name "A Paredense",
+ :href-id #uuid "af14a81d-5fbb-36df-bcfa-08a521c3bd55",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AParedense036.aspx",
+ :concelho "Paredes",
+ :nec 821,
+ :cp7 "4580-058",
+ :id #uuid "2f461648-ad86-36d7-ba54-db96e281ed95",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Paredes"}

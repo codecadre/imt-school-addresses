@@ -1,0 +1,13 @@
+{:address
+ "Urbanização Hilário, Edifício Sol Nascente, Bloco A r/c 3 2560-374 TORRES VEDRAS",
+ :name "de Torres Vedras",
+ :href-id #uuid "32affad8-72d8-3114-b216-e6e3267049e4",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/deTorresVedras380.aspx",
+ :concelho "Torres Vedras",
+ :nec 677,
+ :cp7 "2560-374",
+ :id #uuid "94607160-cd65-3dcc-95d2-a3eaa6a5c451",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Torres%20Vedras"}

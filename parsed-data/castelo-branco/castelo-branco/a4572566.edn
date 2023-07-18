@@ -1,0 +1,13 @@
+{:address
+ "Quinta do Amieiro de Baixo, lote 1 A – nº 6 6000-129 CASTELO BRANCO",
+ :name "Castelo Branco",
+ :href-id #uuid "a4572566-2c33-316b-b62f-8f447a4bf7ce",
+ :distrito "Castelo Branco",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/CasteloBranco294.aspx",
+ :concelho "Castelo Branco",
+ :nec 879,
+ :cp7 "6000-129",
+ :id #uuid "5cf1d626-e4bf-3a70-8c97-69113b7aabb4",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=CasteloBranco&Concelho=Castelo%20Branco"}

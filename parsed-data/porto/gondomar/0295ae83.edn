@@ -1,0 +1,12 @@
+{:address "Avª Santa Bárbara nº 582 4515-463 MELRES",
+ :name "Rocha e Dias",
+ :href-id #uuid "0295ae83-a0d8-3e0d-8482-39f7e4d737cc",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RochaeDias861.aspx",
+ :concelho "Gondomar",
+ :nec 750,
+ :cp7 "4515-463",
+ :id #uuid "093069b3-ee90-316e-9c52-ed6f63d307d0",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Gondomar"}

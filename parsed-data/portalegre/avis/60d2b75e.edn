@@ -1,0 +1,12 @@
+{:address "Bairro da Estrada do Clube Náutico nº 12 7480-107 AVIS",
+ :name "Alentejana",
+ :href-id #uuid "60d2b75e-64a7-3ef4-ae87-c33f93325336",
+ :distrito "Portalegre",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Alentejana078.aspx",
+ :concelho "Avis",
+ :nec 269,
+ :cp7 "7480-107",
+ :id #uuid "84086d09-dfc3-38a2-a445-54fad7b26885",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Portalegre&Concelho=Avis"}

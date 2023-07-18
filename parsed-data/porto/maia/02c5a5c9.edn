@@ -1,0 +1,12 @@
+{:address "Rua da Igreja nº 18 – Sala 2 4475-641 AVIOSO (SANTA MARIA)",
+ :name "Castêlo da Maia",
+ :href-id #uuid "02c5a5c9-94f0-3a42-a7a4-819f171f473e",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/CastelodaMaia295.aspx",
+ :concelho "Maia",
+ :nec 1049,
+ :cp7 "4475-641",
+ :id #uuid "fe078c58-492b-3a61-822f-e218ba2576f1",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Maia"}

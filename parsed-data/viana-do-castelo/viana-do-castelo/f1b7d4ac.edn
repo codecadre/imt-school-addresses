@@ -1,0 +1,12 @@
+{:address "Largo Capitão Gaspar de Castro 4925-411 LANHESES",
+ :name "Lanheses",
+ :href-id #uuid "f1b7d4ac-120e-3834-8b5c-b88a6a6b5185",
+ :distrito "Viana do Castelo",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Lanheses592.aspx",
+ :concelho "Viana do Castelo",
+ :nec 1018,
+ :cp7 "4925-411",
+ :id #uuid "791866c8-badf-37c6-b81b-97a3a2ce6401",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Viana%20Castelo"}

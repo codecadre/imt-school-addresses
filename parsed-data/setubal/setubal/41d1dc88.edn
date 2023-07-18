@@ -1,0 +1,12 @@
+{:address "Av. D. João II, n.º 24 B, 2900-001 SETÚBAL",
+ :name "Golfinho",
+ :href-id #uuid "41d1dc88-dbfa-3074-b4a3-e9ead4865d92",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Golfinho492.aspx",
+ :concelho "Setúbal",
+ :nec 1176,
+ :cp7 "2900-001",
+ :id #uuid "7af795c0-6fe4-34d3-9a98-98d3089d71d8",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Set%C3%BAbal"}
