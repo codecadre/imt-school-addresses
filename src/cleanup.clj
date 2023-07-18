@@ -47,6 +47,7 @@
                          (re-find #"\d{4}" address)))))))
 
 
+;;TODO move to utils
 (defn string->uuid
   "deterministic ID
   cljs version based on core/random-uuid with a few changes to use the seedrandom
