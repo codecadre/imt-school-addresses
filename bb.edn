@@ -20,10 +20,13 @@
   cleanup {:doc "Step 3: Cleans the data in the predefined sort order"
            :task (shell "bb -m cleanup")}
 
+  file-writer {:doc "Step 4: writes to final file structure and adds :archived-last-seen-at"
+               :task (shell "bb -m file-writer")}
+
   run-all {:doc "Do the whole thing"
            :task (do (run 'hrefs)
                      (run 'schools)
                      #_(if (seq (fs/modified-since "parsed-data/db.edn"
-                                                 "schools.edn")))
+                                                   "schools.edn")))
                      (run 'cleanup)
                      #_(println "No new schools"))}}}

@@ -1,25 +1,61 @@
-## What's this
+## What's this?
 
-Portuguese driving schools as available in the [IMT website](https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx).
+This repo mirrors Portuguese driving schools available at [imt-ip.pt](https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx).
 
-This was originally done for [passaprimeira.xyz](https://www.passaprimeira.xyz).
+The goal is to have a 1-1 mapping between each school URL and a file under `/parsed-data`.
+
+For example, `parsed-data/castelo-branco/fundao/035c3e16.edn` looks like:
+
+```clojure
+{:address
+ "Loteamento Quinta do Espírito Santo, lote 10 r/c Frente 6230-329 FUNDÃO",
+ :name "A Cereja",
+ :href-id #uuid "035c3e16-af4a-38d1-9233-2173e6767f72",
+ :distrito "Castelo Branco",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ACereja005.aspx",
+ :concelho "Fundão",
+ :nec 668,
+ :cp7 "6230-329",
+ :id #uuid "2ab49907-1192-3122-9793-687bc6136515",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=CasteloBranco&Concelho=Fund%C3%A3o"}
+```
+
+Which mirrors the URL under `imt-href`:
+https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ACereja005.aspx
+
+## When was the last fetch?
+
+Check `last-fetch.txt` for the timestamp (epoch in milliseconds).
 
 ## Background
 
-[passaprimeira.xyz](https://www.passaprimeira.xyz) aims at bringing transparency to the driving school business in Portugal, by crossing public data and presenting it in an accessible format. Originally it was only a web app, but we decided to release some of the data and code, in a accessible format, so that others could benefit form it.
+This was originally done for [passaprimeira.xyz](https://www.passaprimeira.xyz).
 
+[passaprimeira.xyz](https://www.passaprimeira.xyz) wants to bringing transparency to the driving school business in Portugal, by crossing public data and presenting it in an accessible format. Originally it was only a web app, but we decided to release some of the data and code, in a accessible format, so that others could benefit form it.
 
-## Data Origin
+## Archive
 
-[IMT website](https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx)
+When a school is removed from the source, we add a key representing the time of the last fetch, for example:
 
-## How to use it
+```clojure
+{:address "Rua Homem Cristo Filho, n.º 62 – B, 3804-501 Aveiro",
+ :archived-last-seen-at "2022-05-07T14:52:45Z", ;;<-----
+ :name "OK Condutor",
+ :href-id #uuid "abb64eb1-d043-3530-a3db-9edaecc18000",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/HomemCristo.aspx",
+ :concelho "Aveiro",
+ :nec 1426,
+ :cp7 "3804-501",
+ :id #uuid "6dd53139-1797-3b3f-918a-57e7f2c695a5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Aveiro"}
+```
 
-Probably what you want is the output at
-
-- `parsed-data/db.json`
-- `parsed-data/db.edn`
-- `parsed-data/db.txt` (for debug - easier to look at for a quick reference)
+`:archived-last-seen-at` means that this school is "archived" and that the last fetch was May 7th 2022.
 
 ## Unique IDs
 
