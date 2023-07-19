@@ -23,10 +23,19 @@
   file-writer {:doc "Step 4: writes to final file structure and adds :archived-last-seen-at"
                :task (shell "bb -m file-writer")}
 
+  add-parsed-data {:doc "Step 5: Add changes to git index"
+                   :task (shell "git add parsed-data/*")}
+
+  stats {:doc "Step 6: Creates stats"
+         :task (shell "bb -m stats")}
+
   run-all {:doc "Do the whole thing"
            :task (do (run 'hrefs)
                      (run 'schools)
                      #_(if (seq (fs/modified-since "parsed-data/db.edn"
                                                    "schools.edn")))
                      (run 'cleanup)
+                     (run 'file-writer)
+                     (run 'add-parsed-data)
+                     (run 'stats)
                      #_(println "No new schools"))}}}

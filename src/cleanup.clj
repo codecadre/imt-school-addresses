@@ -4,7 +4,7 @@
             [clojure.string :as str]
             [cheshire.core :as json]
             [clojure.set :as set]
-            [util :refer [string->uuid]]))
+            [util :refer [string->uuid now-dd-mm-yyyy]]))
 
 (defn d [] (-> "temp/schools.edn" slurp edn/read-string))
 
@@ -108,9 +108,9 @@
                              (pprint/print-table [:id :nec :name :address :imt-href]
                                                  (duplicates))))
 
-  (spit "./temp/db.edn" (with-out-str (pprint/pprint (results))))
+  (spit (str "./snapshots/db_" (now-dd-mm-yyyy) ".edn")  (with-out-str (pprint/pprint (results))))
   #_(spit "./parsed-data/db.json" (json/generate-string results {:pretty true}))
-  (spit "./parsed-data/db.txt" (with-out-str (pprint/print-table ks (results)))))
+  (spit (str "./snapshots/db_" (now-dd-mm-yyyy) ".txt") (with-out-str (pprint/print-table ks (results)))))
 
 
 (comment
