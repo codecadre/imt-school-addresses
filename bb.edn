@@ -22,13 +22,6 @@
 
   file-writer {:doc "Step 4: writes to final file structure and adds :archived-last-seen-at"
                :task (shell "bb -m file-writer")}
-
-  add-parsed-data {:doc "Step 5: Add changes to git index"
-                   :task (shell "git add parsed-data/*")}
-
-  stats {:doc "Step 6: Creates stats"
-         :task (shell "bb -m stats")}
-
   run-all {:doc "Do the whole thing"
            :task (do (run 'hrefs)
                      (run 'schools)

@@ -5,7 +5,8 @@
             [clojure.pprint :refer [pprint]]
             [clojure.java.io :as io]
             [babashka.fs :as fs]
-            [clojure.string :as str]))
+            [clojure.string :as str]
+            [babashka.tasks :as tasks]))
 
 (defn latest-snapshot []
   (latest-file (fs/glob "snapshots" "*.edn")))
@@ -58,6 +59,27 @@
     (let [old-file (last (sort-files-by-latest-first files-a-and-b))]
       (fs/delete old-file))))
 
+(defn stats []
+  (let [everything-that-changed (str/split (:out (tasks/shell {:out :string} "git diff --cached --name-status parsed-data/*")) #"\n")
+        new-entries (filter #(str/starts-with? % "A") everything-that-changed)
+        modified (filter #(re-find #"M|R" %) everything-that-changed)
+        clean-git-output (fn [l]
+                           (str/replace (apply str (interpose " -> " (-> l (str/split #"\t") rest ))) #"parsed-data/" "/"))
+        archived (map #(-> % str (str/replace #"parsed-data/" "/" ))
+                      (filter #(-> % str slurp read-string :archived-last-seen-at
+                                   (= (str (fs/file-time->instant (fs/millis->file-time last-fetch-at-millis)))))
+                              (all-parsed-files)))]
+    (println "\nNew entries: " (count new-entries))
+    (doseq [l new-entries]
+      (println (clean-git-output l)))
+    (println "\nArchived: " (count archived))
+    (doseq [l archived]
+      (println (-> l str (str/replace "parsed-data/" "/") )))
+    (println "\nEdited:" (- (count modified) (count archived)))
+    (doseq [l modified]
+      (when (not ((set archived) (clean-git-output l)))
+        (println (clean-git-output l))))))
+
 (defn -main []
 
   (file-writer!)
@@ -65,7 +87,8 @@
   ;;remove duplicates
   (delete-old-duplicate)
 
-
   (add-archived-last-seen-at-key)
+
+  (tasks/shell "git add parsed-data/*")
 
   (spit "last-fetch.txt" (.getTime now)))
