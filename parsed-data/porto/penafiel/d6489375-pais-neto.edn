@@ -1,0 +1,12 @@
+{:address "Avenida Central 4575-262 OLDRÕES",
+ :name "Pais Neto",
+ :href-id #uuid "d6489375-3020-39a4-8abd-d243112ea1aa",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/PaisNeto766.aspx",
+ :concelho "Penafiel",
+ :nec 788,
+ :cp7 "4575-262",
+ :id #uuid "036ed107-970d-3dff-8ef2-961c00f33082",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Penafiel"}

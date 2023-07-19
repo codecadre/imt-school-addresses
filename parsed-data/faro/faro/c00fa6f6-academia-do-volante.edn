@@ -1,0 +1,13 @@
+{:address
+ "Parque das Amoreiras I, Av. 25 de Abril, Lote 10/11 - Edificio Júpiter, Bloco B, Loja D 8000-546 FARO",
+ :name "Academia do Volante",
+ :href-id #uuid "c00fa6f6-4dc3-3ebb-a2fd-73c323498cfa",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AcademiadoVolante053.aspx",
+ :concelho "Faro",
+ :nec 1050,
+ :cp7 "8000-546",
+ :id #uuid "999d90d2-1b82-30ae-87ec-7429780aa84b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Faro"}

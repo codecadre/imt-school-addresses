@@ -1,0 +1,12 @@
+{:address "Av. General Craveiro Lopes, n.º 60, 7080-164 VENDAS NOVAS",
+ :name "Avenida",
+ :href-id #uuid "d108fccb-8fae-3b7c-81db-586f40d78911",
+ :distrito "Évora",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Avenida204.aspx",
+ :concelho "Vendas Novas",
+ :nec 628,
+ :cp7 "7080-164",
+ :id #uuid "e4aaf9bd-4f83-35b4-b0f1-265fc10f6288",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Evora&Concelho=Vendas%20Novas"}

@@ -1,0 +1,13 @@
+{:address
+ "Rua Costa Pinto, Nº 152 - Pai do Vento-Amoreira 2645-183 ALCABIDECHE",
+ :name "Ti-Ta",
+ :href-id #uuid "0b8a9c3f-ef75-31c6-a4f6-eb63ebd61ec6",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/TiTa1008.aspx",
+ :concelho "Cascais",
+ :nec 427,
+ :cp7 "2645-183",
+ :id #uuid "ba1462c0-70bd-304d-98dc-8b7c6526cb11",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Cascais"}

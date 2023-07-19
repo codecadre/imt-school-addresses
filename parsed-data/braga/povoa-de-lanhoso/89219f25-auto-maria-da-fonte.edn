@@ -1,0 +1,13 @@
+{:address
+ "Largo Engº Armando Rodrigues,2º D, S/Nº 4830-520 PÓVOA DE LANHOSO",
+ :name "Auto Maria da Fonte",
+ :href-id #uuid "89219f25-dc09-3481-bbbf-05f65d002e00",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutoMariadaFonte163.aspx",
+ :concelho "Póvoa de Lanhoso",
+ :nec 484,
+ :cp7 "4830-520",
+ :id #uuid "43136a90-19d6-3d5d-8c62-a717c8bc3cd8",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=P%C3%B3voa%20Lanhoso"}

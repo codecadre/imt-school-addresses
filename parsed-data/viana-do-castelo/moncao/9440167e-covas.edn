@@ -1,0 +1,12 @@
+{:address "Rua Eng.º Duarte Pacheco , Loja 8 4950-454 MONÇÃO",
+ :name "Covas",
+ :href-id #uuid "9440167e-06cb-352b-bc5e-92c08424170e",
+ :distrito "Viana do Castelo",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Covas346.aspx",
+ :concelho "Monção",
+ :nec 266,
+ :cp7 "4950-454",
+ :id #uuid "41228446-f8ce-37aa-b922-d0c6de275ede",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Mon%C3%A7%C3%A3o"}

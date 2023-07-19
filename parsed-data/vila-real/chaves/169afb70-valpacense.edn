@@ -1,0 +1,12 @@
+{:address "Rua Nadir Afonso, Nº 8, Santa Maria Maior,5400-416 CHAVES",
+ :name "Valpacense",
+ :href-id #uuid "169afb70-4913-3696-ba10-58b2358698d8",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Valpacense1036.aspx",
+ :concelho "Chaves",
+ :nec 353,
+ :cp7 "5400-416",
+ :id #uuid "d0bcdf18-bd57-3d87-9a32-bc480816d863",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Chaves"}

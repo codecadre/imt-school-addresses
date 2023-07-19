@@ -1,0 +1,12 @@
+{:address "Estrada Nacional nº 8 – 22 c/v – Dagorda 2510-082 ÓBIDOS",
+ :name "Oeste",
+ :href-id #uuid "caa2ffd7-6373-36c7-aafd-dd575917eafd",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Oeste740.aspx",
+ :concelho "Óbidos",
+ :nec 1064,
+ :cp7 "2510-082",
+ :id #uuid "fa81aea5-1189-3f8d-85c5-b9e4d276f6c5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=%C3%93bidos"}

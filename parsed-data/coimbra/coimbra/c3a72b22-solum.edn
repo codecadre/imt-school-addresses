@@ -1,0 +1,13 @@
+{:address
+ "Av. João de Deus Ramos, n.º 138-152, Centro comercial Solum, Loja 317, 3.º andar, 3030-328 Coimbra",
+ :name "Solum",
+ :href-id #uuid "c3a72b22-80be-3734-96e8-71aae66e46b7",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Solum.aspx",
+ :concelho "Coimbra",
+ :nec 1315,
+ :cp7 "3030-328",
+ :id #uuid "7d89233a-a6ee-336e-bbc9-bcd8a4d443b7",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Coimbra"}

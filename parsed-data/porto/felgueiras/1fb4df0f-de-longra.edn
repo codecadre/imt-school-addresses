@@ -1,0 +1,12 @@
+{:address "Lugar da Piedade (Longra) 4650-464 SERNANDE",
+ :name "De Longra",
+ :href-id #uuid "1fb4df0f-5f2a-3b03-8d0c-ef9a8261d743",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DeLongra374.aspx",
+ :concelho "Felgueiras",
+ :nec 698,
+ :cp7 "4650-464",
+ :id #uuid "cd878394-5004-3c80-9e5d-fd068e44e033",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Felgueiras"}

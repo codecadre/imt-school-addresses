@@ -1,0 +1,12 @@
+{:address "Rua das Taipas, n.º 9, 2040-339 RIO MAIOR",
+ :name "Torre da Marinha",
+ :href-id #uuid "15deeb2f-41af-3953-95c0-8714729a616f",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/TorredaMarinha.aspx",
+ :concelho "Rio Maior",
+ :nec 1324,
+ :cp7 "2040-339",
+ :id #uuid "91e490de-9142-3b4f-96cc-b8ead2d74280",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Rio%20Maior"}

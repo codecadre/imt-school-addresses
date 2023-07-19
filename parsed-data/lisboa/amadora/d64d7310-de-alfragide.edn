@@ -1,0 +1,12 @@
+{:address "Rua Manuel Lemos Peixoto, 2 A 2610-110 AMADORA",
+ :name "De Alfragide",
+ :href-id #uuid "d64d7310-5dfa-3518-a767-273cf9d14254",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DeAlfragide368.aspx",
+ :concelho "Amadora",
+ :nec 770,
+ :cp7 "2610-110",
+ :id #uuid "4c4803a4-eb4c-35b8-ba0a-ca28b6fc657a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Amadora"}

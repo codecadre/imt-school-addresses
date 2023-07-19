@@ -1,0 +1,12 @@
+{:address "Rua Maria Barradas, Nº 6 Loja Dtª 2625 PÓVOA DE STª IRIA",
+ :name "Coimbra de Vialonga",
+ :href-id #uuid "098f486c-267d-385a-8324-2580bbd2c959",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/CoimbradeVialonga323.aspx",
+ :concelho "Vila Franca de Xira",
+ :nec 891,
+ :cp7 "2625",
+ :id #uuid "31d2d785-e3b1-3a43-abe6-48598fe5b6f8",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Vila%20Franca%20Xira"}

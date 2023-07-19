@@ -1,0 +1,13 @@
+{:address
+ "Rua Dr. António José de Almeida 3680-094 OLIVEIRA DE FRADES",
+ :name "Olifradense",
+ :href-id #uuid "c964d6df-71d3-397b-a31a-a78d079decc7",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Olifradense744.aspx",
+ :concelho "Oliveira de Frades",
+ :nec 341,
+ :cp7 "3680-094",
+ :id #uuid "0580b6c6-074e-35ad-bb68-06dd9634ff73",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Oliveira%20de%20Frades"}

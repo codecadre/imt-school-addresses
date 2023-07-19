@@ -1,0 +1,13 @@
+{:address
+ "Avª Dr. Carlos Pinto Ferreira, Nº 364-1ºDtº 4480-665 VILA DO CONDE",
+ :name "Beira",
+ :href-id #uuid "30080bfc-f76e-338a-b793-e5e321383291",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Beira232.aspx",
+ :concelho "Vila do Conde",
+ :nec 396,
+ :cp7 "4480-665",
+ :id #uuid "213fa049-db93-3924-8db8-24212e69561c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Conde"}

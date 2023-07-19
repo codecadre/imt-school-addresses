@@ -1,0 +1,12 @@
+{:address "Rua do Touco, n.º 2 r/c Dtº , 2025-570 Tremês",
+ :name "Siiimplearrábida",
+ :href-id #uuid "56aa8e4d-8f36-3bf9-a4c1-87d254e2d731",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Siiimplearr%c3%a1bida.aspx",
+ :concelho "Santarém",
+ :nec 1409,
+ :cp7 "2025-570",
+ :id #uuid "6eda9c0d-2c25-38ec-bd99-42fbfa24bbd7",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Santar%C3%A9m"}

@@ -1,0 +1,13 @@
+{:address
+ "Rua da Junta de Freguesia - Shopping Parque, Loja 14 2330 -114 ENTRONCAMENTO",
+ :name "Carmona",
+ :href-id #uuid "90bcc810-7c44-35f5-bd36-5fd02fb641ed",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Carmona287.aspx",
+ :concelho "Entroncamento",
+ :nec 681,
+ :cp7 "2330-114",
+ :id #uuid "e274c5a9-3b8a-30be-bcc3-706b44c8186d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Entroncamento"}

@@ -1,0 +1,12 @@
+{:address "Av. S. Salvador n.º 46 r/c 4415-534 Grijó",
+ :name "Novo Engenho de Grijó",
+ :href-id #uuid "e328d4e7-e70f-31c0-966e-50b9362e0bf9",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovoEngenhodeGrij%c3%b3.aspx",
+ :concelho "Vila Nova de Gaia",
+ :nec 1450,
+ :cp7 "4415-534",
+ :id #uuid "4a40f54f-67af-305e-83f4-e3db09397db5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia"}

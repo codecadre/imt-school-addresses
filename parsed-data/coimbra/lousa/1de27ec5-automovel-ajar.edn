@@ -1,0 +1,12 @@
+{:address "Avª São Silvestre, Lote 5, 1º 3200-203 LOUSÃ",
+ :name "Automóvel Ajar",
+ :href-id #uuid "1de27ec5-6c4a-3415-ad98-bdfa40240bcc",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutomovelAjar192.aspx",
+ :concelho "Lousã",
+ :nec 231,
+ :cp7 "3200-203",
+ :id #uuid "b06dcb6b-53f1-372b-af41-353c54224823",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Lous%C3%A3"}

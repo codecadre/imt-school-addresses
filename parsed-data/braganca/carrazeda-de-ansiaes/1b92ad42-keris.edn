@@ -1,0 +1,13 @@
+{:address
+ "Rua Luis de Camões, n.º 319, r/c B 5140-080 Carrazeda de Ansiães",
+ :name "Kéris",
+ :href-id #uuid "1b92ad42-195b-3d31-96e1-fb264fd42318",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/K%c3%a9ris.aspx",
+ :concelho "Carrazeda de Ansiâes",
+ :nec 1356,
+ :cp7 "5140-080",
+ :id #uuid "05b941fb-4d7f-33ff-8d12-296b48bafdfb",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Carrazeda%20Ans%C3%A3es"}

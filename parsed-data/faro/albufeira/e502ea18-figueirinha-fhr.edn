@@ -1,0 +1,13 @@
+{:address
+ "Rua da Figueira, Fracção A, Lote L, Caliços, 8200-131 ALBUFEIRA",
+ :name "Figueirinha FHR",
+ :href-id #uuid "e502ea18-b3fc-3263-a212-e7452c6fc7b1",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/FigueirinhaFHR.aspx",
+ :concelho "Albufeira",
+ :nec 342,
+ :cp7 "8200-131",
+ :id #uuid "82f34b76-6be9-3808-b082-b9d0319a574f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Albufeira"}

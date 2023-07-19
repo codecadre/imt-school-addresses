@@ -1,0 +1,12 @@
+{:address "Rua do Professor, n º 47- Largo da Feira 4730-072 BARBUDO",
+ :name "Auto Vilaverdense",
+ :href-id #uuid "37e85a7b-0ff8-3367-9454-80e38c49a8fe",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutoVilaverdense177.aspx",
+ :concelho "Vila Verde",
+ :nec 929,
+ :cp7 "4730-072",
+ :id #uuid "0f42be8e-32ea-3ccf-9be2-708ad80f1ac6",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Verde"}

@@ -1,0 +1,12 @@
+{:address "Rua Gil Vicente, Nº 40-A 5340-271 MACEDO CAVALEIROS",
+ :name "Nelmar",
+ :href-id #uuid "b4e291eb-234a-3d80-af7f-4e16913fa975",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Nelmar690.aspx",
+ :concelho "Macedo de Cavaleiros",
+ :nec 527,
+ :cp7 "5340-271",
+ :id #uuid "6c595e53-55a8-33e1-aba4-23d05cf9e71a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Macedo%20Cavaleiros"}

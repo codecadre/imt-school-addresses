@@ -1,0 +1,13 @@
+{:address
+ "Rua Dr. Raul de Sousa Santos, S/Nº, 5450-156 BORNES de AGUIAR",
+ :name "Pedras Salgadas",
+ :href-id #uuid "764c6545-91b2-3906-912b-b3a870ec83ec",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/PedrasSalgadas777.aspx",
+ :concelho "Vila Pouca de Aguiar",
+ :nec 1266,
+ :cp7 "5450-156",
+ :id #uuid "4e83792f-32ce-3eaa-9d58-dbfc57bd0d8c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Vila%20Pouca%20Aguiar"}

@@ -1,0 +1,13 @@
+{:address
+ "Avª dos Bombeiros Municipais nº 30 lote 3 r/c Esqº 8700 OLHÃO",
+ :name "Ria Formosa",
+ :href-id #uuid "eaec8da0-c1ee-3d1b-88b4-f1481615acfc",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RiaFormosa845.aspx",
+ :concelho "Olhão",
+ :nec 667,
+ :cp7 "8700",
+ :id #uuid "43b1e9cd-0bf8-327b-bdcb-aca4d602fe23",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Olh%C3%A3o"}

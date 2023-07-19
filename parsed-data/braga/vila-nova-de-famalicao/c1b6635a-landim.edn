@@ -1,0 +1,13 @@
+{:address
+ "Rua da Estrada Nacional 204-5, n.º 158 r/c, Landim 4765-080 Vila Nova de Famalicão ",
+ :name "Landim",
+ :href-id #uuid "c1b6635a-c991-38f6-9d4e-a82378f3c9cf",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Landim.aspx",
+ :concelho "Vila Nova de Famalicão",
+ :nec 349,
+ :cp7 "4765-080",
+ :id #uuid "06297868-8303-39c4-b2e4-749b489240f3",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"}

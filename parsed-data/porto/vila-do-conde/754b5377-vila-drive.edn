@@ -1,0 +1,12 @@
+{:address "Largo do Vilarinho, n.º 50 4485-373 Macieira da Maia",
+ :name "Vila Drive",
+ :href-id #uuid "754b5377-edbb-3131-b721-20f340f3a7c2",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/VilaDrive.aspx",
+ :concelho "Vila do Conde",
+ :nec 1383,
+ :cp7 "4485-373",
+ :id #uuid "7f6ae041-e53e-38db-b0d7-5b1910ac3070",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Conde"}

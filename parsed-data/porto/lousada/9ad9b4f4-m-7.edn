@@ -1,0 +1,12 @@
+{:address "AV. Hans Isler, Nº 216 4620-268 CRISTELOS",
+ :name "M 7",
+ :href-id #uuid "9ad9b4f4-cf0d-315a-8d97-7aebd1bb84b9",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/M7613.aspx",
+ :concelho "Lousada",
+ :nec 1160,
+ :cp7 "4620-268",
+ :id #uuid "18426ca6-ccda-3dcb-aaa2-371e9a7db17b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Lousada"}

@@ -1,0 +1,13 @@
+{:address
+ "Avª Francisco Sá Carneiro s/n º 3260-400 FIGUEIRÓ DOS VINHOS",
+ :name "Lago Azul –Figueiró dos Vinhos",
+ :href-id #uuid "a1f1e7ee-22e2-318e-b084-9d2d5c179350",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LagoAzul%e2%80%93FigueirodosVinhos588.aspx",
+ :concelho "Figueiró dos Vinhos",
+ :nec 491,
+ :cp7 "3260-400",
+ :id #uuid "9fe69aed-282b-34af-b905-1a113d6445a0",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Figueir%C3%B3%20dos%20Vinhos"}

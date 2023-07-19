@@ -1,0 +1,13 @@
+{:address
+ "Rua Dr. Júlio Constantino nº 75 ED Primitivo 2495-447 FÁTIMA",
+ :name "Destinus",
+ :href-id #uuid "ac9d50ed-b615-3218-897d-b63491dfff65",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Destinus383.aspx",
+ :concelho "Ourém",
+ :nec 857,
+ :cp7 "2495-447",
+ :id #uuid "8c8b1589-e57b-3487-8d57-e65225a6d008",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Our%C3%A9m"}

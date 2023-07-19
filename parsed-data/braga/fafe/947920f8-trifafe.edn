@@ -1,0 +1,12 @@
+{:address "Urbanização S. Gemil, nº 7 4820-362 FAFE",
+ :name "Trifafe",
+ :href-id #uuid "947920f8-08f2-321f-973d-97e24b8c55a1",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Trifafe1021.aspx",
+ :concelho "Fafe",
+ :nec 683,
+ :cp7 "4820-362",
+ :id #uuid "8f4b819e-3650-36bb-a485-3d69290bd2e6",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Fafe"}

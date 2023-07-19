@@ -1,0 +1,12 @@
+{:address "Rua Cacheu, n.º 17, 2845-607 Seixal",
+ :name "Nova de Setúbal",
+ :href-id #uuid "116abfc2-e533-3aee-8d8e-52b0c8c4fdbc",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovadeSet%c3%babal.aspx",
+ :concelho "Seixal",
+ :nec 1364,
+ :cp7 "2845-607",
+ :id #uuid "6a1abda7-fd26-3e70-a03e-7ca95543f91a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Seixal"}

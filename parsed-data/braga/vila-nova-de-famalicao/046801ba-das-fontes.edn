@@ -1,0 +1,12 @@
+{:address "Rua das Fontes, Nº 462 4770-252 JOANE",
+ :name "Das Fontes",
+ :href-id #uuid "046801ba-5b26-3c7b-8bb6-d3daac17bcb6",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DasFontes367.aspx",
+ :concelho "Vila Nova de Famalicão",
+ :nec 1183,
+ :cp7 "4770-252",
+ :id #uuid "dbb28617-061e-3d35-96b7-7a865adeb1a0",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"}

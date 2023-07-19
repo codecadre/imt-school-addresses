@@ -1,0 +1,13 @@
+{:address
+ "Largo Dr. Eduardo de Freitas - Edificio Jradim 4615-623 VILA COVA da LIXA",
+ :name "Sampaio",
+ :href-id #uuid "69435205-0e03-37c8-a572-751073cc99d0",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Sampaio914.aspx",
+ :concelho "Felgueiras",
+ :nec 574,
+ :cp7 "4615-623",
+ :id #uuid "595ce2ab-5413-375f-869b-afcf48b13bbf",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Felgueiras"}

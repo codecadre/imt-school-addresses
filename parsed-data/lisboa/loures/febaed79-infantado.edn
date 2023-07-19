@@ -1,0 +1,13 @@
+{:address
+ "Rua Vasco da Gama, n.º 5 B, Urbanização do Infantado, 2670-395 LOURES",
+ :name "Infantado",
+ :href-id #uuid "febaed79-19a6-350a-b510-2062b8d0957a",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Infantado855.aspx",
+ :concelho "Loures",
+ :nec 686,
+ :cp7 "2670-395",
+ :id #uuid "255d453d-173a-38fe-b1ac-08352dc942f1",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Loures"}

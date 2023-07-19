@@ -1,0 +1,13 @@
+{:address
+ "Rua Rodrigues de Freitas, 2072 r/c Esqº e 1º Dtº 4445 - 637 ERMESINDE",
+ :name "Sameiro Nova Era",
+ :href-id #uuid "86c199ca-0e1e-3511-83ca-1dc15e0ccc38",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SameiroNovaEra912.aspx",
+ :concelho "Valongo",
+ :nec 393,
+ :cp7 "4445-637",
+ :id #uuid "f1a87842-8ad2-36ec-99cf-dd8e263243b4",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Valongo"}

@@ -1,0 +1,13 @@
+{:address
+ "Rua Manuel Policarpo Martins, Nº15 R/C Dtº 2630-110 Arruda dos Vinhos",
+ :name "Automóvel Arrudense",
+ :href-id #uuid "8184f3c0-5764-305a-bfce-4482724eda2f",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutomovelArrudense193.aspx",
+ :concelho "Arruda dos Vinhos",
+ :nec 424,
+ :cp7 "2630-110",
+ :id #uuid "fa0a3365-3ffe-38ae-a0c7-35cc230be290",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Arruda%20dos%20Vinhos"}

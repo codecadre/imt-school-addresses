@@ -1,0 +1,13 @@
+{:address
+ "Rua 5 de Outubro n.º 1150, C/v Esq. 4910-388 Vila Praia de Âncora ",
+ :name "Ancorensis",
+ :href-id #uuid "2ff83f7c-64ad-371b-8335-f5bebcaa5ae7",
+ :distrito "Viana do Castelo",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/JorgeMatos579.aspx",
+ :concelho "Caminha",
+ :nec 902,
+ :cp7 "4910-388",
+ :id #uuid "e7d74a44-0a74-3ac8-bc09-1a8f89520c78",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Caminha"}

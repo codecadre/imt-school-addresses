@@ -1,0 +1,13 @@
+{:address
+ "Avª da Raposeira, Edificio Jardim ,Loja 4 5400-482 SANTA MARIA MAIOR",
+ :name "Santo Amaro",
+ :href-id #uuid "883b3531-4dba-3a70-9821-4e4c3b6b7272",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SantoAmaro940.aspx",
+ :concelho "Chaves",
+ :nec 708,
+ :cp7 "5400-482",
+ :id #uuid "e84a952a-68a0-3fdf-b744-4afb0ee24ab2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Chaves"}

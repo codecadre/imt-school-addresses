@@ -1,0 +1,13 @@
+{:address
+ "Rua Maria Eugénia Dias Ferreira nº 22 8375-121 S. BARTOLOMEU DE MESSINES",
+ :name "F. Guerreiro",
+ :href-id #uuid "0df0e2a2-8967-3688-ab24-7a7698079dcf",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/FGuerreiro439.aspx",
+ :concelho "Silves",
+ :nec 749,
+ :cp7 "8375-121",
+ :id #uuid "3ebacb7b-2b49-3e3d-bcea-b3be3f0cc1dd",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Silves"}

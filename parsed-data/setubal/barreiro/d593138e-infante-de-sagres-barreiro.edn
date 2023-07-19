@@ -1,0 +1,13 @@
+{:address
+ "Rua Afonso Albuquerque, Quinta da Lomba, Nº 50-1º 2830-174 BARREIRO",
+ :name "Infante de Sagres -Barreiro",
+ :href-id #uuid "d593138e-abbe-31bf-b446-2311500f66c8",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfantedeSagresBarreiro546.aspx",
+ :concelho "Barreiro",
+ :nec 523,
+ :cp7 "2830-174",
+ :id #uuid "bef7f155-b384-3a50-9251-afc6c42dac9b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Barreiro"}

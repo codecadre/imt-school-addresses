@@ -1,0 +1,12 @@
+{:address "Rua de S. Vicente, 457 4760-093 VILA NOVA DE FAMALICÃO",
+ :name "Europeia",
+ :href-id #uuid "73c83007-060d-3105-b2a3-a18d2536bce1",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Europeia435.aspx",
+ :concelho "Vila Nova de Famalicão",
+ :nec 923,
+ :cp7 "4760-093",
+ :id #uuid "e8751bbc-ec6d-373d-88e3-06a78a5ecd94",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"}

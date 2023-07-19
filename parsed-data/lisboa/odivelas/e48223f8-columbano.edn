@@ -1,0 +1,13 @@
+{:address
+ "Rua Laura Aires, n.º 5, R/C Esq.º e Dt.º, 2675-564 ODIVELAS",
+ :name "Columbano",
+ :href-id #uuid "e48223f8-1df4-3ce7-8eec-2ec071b9eaf6",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Columbano.aspx",
+ :concelho "Odivelas",
+ :nec 964,
+ :cp7 "2675-564",
+ :id #uuid "f58d0579-fec6-370a-bb58-8e1d3228b5f6",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Odivelas"}

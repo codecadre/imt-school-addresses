@@ -1,0 +1,12 @@
+{:address "Rua Coronel Cândido Teles, n.º 7 3830-126 Ílhavo",
+ :name "Ílhavo",
+ :href-id #uuid "cbb5c5a9-3e63-3e05-90a4-98aa02dbf62e",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/%c3%8dlhavo.aspx",
+ :concelho "Ílhavo",
+ :nec 1362,
+ :cp7 "3830-126",
+ :id #uuid "e69a7728-d0f3-3b7c-adb1-226ddb686bfc",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Ilhavo"}

@@ -1,0 +1,12 @@
+{:address "Avª da Liberdade, 666 – 2º Dtº 4710-249 BRAGA",
+ :name "Bracarense",
+ :href-id #uuid "4e8beda1-f792-3460-a865-07c18c0bff26",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Bracarense261.aspx",
+ :concelho "Braga",
+ :nec 97,
+ :cp7 "4710-249",
+ :id #uuid "17d50bde-bfd1-3742-b934-6731cc355005",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Braga"}

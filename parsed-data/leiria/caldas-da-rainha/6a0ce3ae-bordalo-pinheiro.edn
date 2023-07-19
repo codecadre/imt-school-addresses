@@ -1,0 +1,13 @@
+{:address
+ "Rua Dr. Ângelo Ferrari, 5, R/c Dtº 2500 - 113 CALDAS DA RAINHA",
+ :name "Bordalo Pinheiro",
+ :href-id #uuid "6a0ce3ae-a2f5-3542-9f56-5bf0be6fc663",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/BordaloPinheiro259.aspx",
+ :concelho "Caldas da Raínha",
+ :nec 913,
+ :cp7 "2500-113",
+ :id #uuid "cb842ba2-7d7b-3cf5-b81e-33e0481fa5fd",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Caldas%20da%20Rainha"}

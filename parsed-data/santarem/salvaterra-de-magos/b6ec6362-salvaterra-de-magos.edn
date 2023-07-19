@@ -1,0 +1,12 @@
+{:address "Estrada Nacional nº 367 2125-120 SALVATERRA MAGOS",
+ :name "Salvaterra de Magos",
+ :href-id #uuid "b6ec6362-2476-35d3-8f54-bc179905b1c6",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SalvaterradeMagos909.aspx",
+ :concelho "Salvaterra de Magos",
+ :nec 302,
+ :cp7 "2125-120",
+ :id #uuid "1deb1f2e-60cb-3961-97ee-051f6cdeda89",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Salvaterra%20Magos"}

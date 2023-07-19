@@ -1,0 +1,12 @@
+{:address "Rua da Arroteia nº 64 r/c Esqº 4485-575 MODIVAS",
+ :name "Modivas",
+ :href-id #uuid "d62a262c-47e0-3012-bf4c-1c62f0c3d636",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Modivas661.aspx",
+ :concelho "Vila do Conde",
+ :nec 1134,
+ :cp7 "4485-575",
+ :id #uuid "7a05765e-7bb8-3c73-b84a-642ecd46b6ab",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Conde"}

@@ -1,0 +1,13 @@
+{:address
+ "Avª Infante D. Henrique, Nº 61-B - Vale de Açores - Mortágua 3450-202VALE de AÇORES",
+ :name "Juíz de Fora",
+ :href-id #uuid "d6eb9a8a-d4ef-3048-96cb-42355ef3b23d",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/JuizdeFora.aspx",
+ :concelho "Mortágua",
+ :nec 792,
+ :cp7 "3450-202",
+ :id #uuid "b6ea8497-b558-3cb6-8fbc-52015084b1b5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Mort%C3%A1gua"}

@@ -1,0 +1,12 @@
+{:address "Rua de S. Miguel, Nº 10 7050-205 MONTEMOR O NOVO",
+ :name "Montemorense",
+ :href-id #uuid "0543069f-543b-3ce9-a627-1121baccbf35",
+ :distrito "Évora",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Montemorense674.aspx",
+ :concelho "Montemor-o-Novo",
+ :nec 11,
+ :cp7 "7050-205",
+ :id #uuid "72700f2b-ef54-3046-8fb9-b86adeb24752",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Evora&Concelho=Montemor%20o%20Novo"}

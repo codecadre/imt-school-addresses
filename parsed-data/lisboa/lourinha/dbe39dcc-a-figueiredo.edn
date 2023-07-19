@@ -1,0 +1,12 @@
+{:address "Avª de Angola, 63 2530 LOURINHÃ",
+ :name "A Figueiredo",
+ :href-id #uuid "dbe39dcc-d607-3115-9806-e44638195d59",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AFigueiredo018.aspx",
+ :concelho "Lourinhã",
+ :nec 151,
+ :cp7 "2530",
+ :id #uuid "e7e11e90-1372-304f-8831-eec4c753595a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lourinh%C3%A3"}

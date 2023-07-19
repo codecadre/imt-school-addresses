@@ -1,0 +1,12 @@
+{:address "Lugar da Areia, lote 14-r/c 4900-119 DARQUE",
+ :name "Santa Luzia –Darque",
+ :href-id #uuid "214e71b9-5b2f-3855-a08e-3e6dd475ca04",
+ :distrito "Viana do Castelo",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SantaLuzia%e2%80%93Darque925.aspx",
+ :concelho "Viana do Castelo",
+ :nec 917,
+ :cp7 "4900-119",
+ :id #uuid "3592f53a-9ed7-3408-bbe4-64fce1921fd4",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Viana%20Castelo"}

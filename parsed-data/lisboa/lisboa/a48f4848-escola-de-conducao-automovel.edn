@@ -1,0 +1,12 @@
+{:address "Rua D. Carlos Mascarenhas, n.º 76 – A 1070-083 Lisboa",
+ :name "Escola de Condução Automóvel",
+ :href-id #uuid "a48f4848-5895-3a3f-9642-cdcd2798851f",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeCondu%c3%a7%c3%a3oAutom%c3%b3vel.aspx",
+ :concelho "Lisboa",
+ :nec nil,
+ :cp7 "1070-083",
+ :id #uuid "b939f188-69db-3720-9816-55d9709f8ab4",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}

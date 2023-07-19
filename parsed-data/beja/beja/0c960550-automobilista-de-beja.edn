@@ -1,0 +1,12 @@
+{:address "Rua Capitão João Francisco de Sousa nº 1 7800-451 BEJA",
+ :name "Automobilista de Beja",
+ :href-id #uuid "0c960550-784c-330a-b24e-cf0ed84fdf55",
+ :distrito "Beja",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutomobilistadeBeja184.aspx",
+ :concelho "Beja",
+ :nec 82,
+ :cp7 "7800-451",
+ :id #uuid "0c83dbb0-e12e-35ba-83a0-eff52668dbf8",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Beja&Concelho=Beja"}

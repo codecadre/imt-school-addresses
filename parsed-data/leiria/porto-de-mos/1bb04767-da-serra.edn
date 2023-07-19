@@ -1,0 +1,12 @@
+{:address "Rua da Escola, N.º 15, R/C - Juncal, 2480-356 JUNCAL",
+ :name "Da Serra",
+ :href-id #uuid "1bb04767-6002-3413-a5ed-479d9e209c0e",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DaSerra360.aspx",
+ :concelho "Porto de Mós",
+ :nec 1162,
+ :cp7 "2480-356",
+ :id #uuid "ec9a9bb0-5857-3a95-ae1d-98b2e5984edc",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Porto%20de%20M%C3%B3s"}

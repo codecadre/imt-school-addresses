@@ -1,0 +1,13 @@
+{:address
+ "Edificio Tojal - R. N. Senhora dos Milagres, 26 Ala B, Loja F 3680-077 OLIVEIRA de FRADES",
+ :name "Rodovia",
+ :href-id #uuid "f9324070-712e-37bb-92b3-851d63d315b0",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Rodovia864.aspx",
+ :concelho "Oliveira de Frades",
+ :nec 1165,
+ :cp7 "3680-077",
+ :id #uuid "b13acc44-3e41-3098-9794-c69b9d22d3a4",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Oliveira%20de%20Frades"}

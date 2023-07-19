@@ -1,0 +1,12 @@
+{:address "Avª Beato Nuno, Nº 111 e 113 2495 FÁTIMA",
+ :name "Fátima",
+ :href-id #uuid "15f43af0-5452-3d01-856d-4dfe08fbcc2a",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Fatima446.aspx",
+ :concelho "Ourém",
+ :nec 613,
+ :cp7 "2495",
+ :id #uuid "3b34efb2-a4a9-3d68-8cf3-7911800244d4",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Our%C3%A9m"}

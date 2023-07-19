@@ -1,0 +1,13 @@
+{:address
+ "Rua Aquilino Ribeiro, lote C - Bairro Santa Apolónia 3020-096 COIMBRA",
+ :name "Inês de Castro",
+ :href-id #uuid "c3381714-680c-350f-9801-34f3f4fd3653",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InesdeCastro523.aspx",
+ :concelho "Coimbra",
+ :nec 664,
+ :cp7 "3020-096",
+ :id #uuid "16dc78a3-744d-3f77-ae1c-3fc2ac03be2d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Coimbra"}

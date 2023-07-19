@@ -1,0 +1,12 @@
+{:address "Av. Eng.º Bonneville de Franco, n.º 4ª e 4B – Paço D’Arcos",
+ :name "Nova Malveira",
+ :href-id #uuid "01cd8709-bd9f-398f-bd52-6f459e05e8d5",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovaMalveira.aspx",
+ :concelho "Oeiras",
+ :nec 1258,
+ :cp7 nil,
+ :id #uuid "f080e994-4946-3e31-b402-07873fd78f04",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Oeiras"}

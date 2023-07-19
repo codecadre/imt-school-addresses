@@ -1,0 +1,12 @@
+{:address "Av. da Agrela - Edificio Vila Rio 4575-471 RIO de MOINHOS",
+ :name "Rio de Moinhos",
+ :href-id #uuid "9bfe552e-244a-3681-846e-54869ac9935a",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RiodeMoinhos853.aspx",
+ :concelho "Penafiel",
+ :nec 1129,
+ :cp7 "4575-471",
+ :id #uuid "59b655d1-4328-3325-81cb-363fe20e8f0c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Penafiel"}

@@ -1,0 +1,13 @@
+{:address
+ "Alameda das Linhas de Torres, Nº 122, Loja A 1769-020 LISBOA",
+ :name "Alameda",
+ :href-id #uuid "891ecb6e-8b8a-321f-8657-0de16d2218e3",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Alameda067.aspx",
+ :concelho "Lisboa",
+ :nec 1105,
+ :cp7 "1769-020",
+ :id #uuid "8abbae34-67af-327d-8a79-b20552a53caa",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}

@@ -1,0 +1,13 @@
+{:address
+ "Zona Industrial - Horta das Figueiras- Rua C,Lote 3 7005-316 ÉVORA",
+ :name "Giraldo",
+ :href-id #uuid "a58a5a98-3640-3942-9848-ed487de13fbd",
+ :distrito "Évora",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Giraldo487.aspx",
+ :concelho "Évora",
+ :nec 800,
+ :cp7 "7005-316",
+ :id #uuid "f2ddda32-ed37-30c0-bae4-938e184aff5d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Evora&Concelho=%C3%89vora"}

@@ -1,0 +1,13 @@
+{:address
+ "Avª Adelino Amaro da Costa, Edificio Vale do Lis, Lote 20-1º 2400-078 LEIRIA",
+ :name "Batalhense de Leiria",
+ :href-id #uuid "014742c4-f098-3036-841e-24e8f6515a4c",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/BatalhensedeLeiria228.aspx",
+ :concelho "Leiria",
+ :nec 872,
+ :cp7 "2400-078",
+ :id #uuid "42a5c1c2-52f6-3e55-a306-af6da7dab0c0",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Leiria"}

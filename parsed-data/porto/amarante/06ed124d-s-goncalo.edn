@@ -1,0 +1,13 @@
+{:address
+ "Lugar de Ramos - Edifício Cristal Center, Fracção BH 4600-760 TELÕES",
+ :name "S. Gonçalo",
+ :href-id #uuid "06ed124d-1774-3bae-a785-640e9c961bdf",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SGoncalo884.aspx",
+ :concelho "Amarante",
+ :nec 720,
+ :cp7 "4600-760",
+ :id #uuid "663b44b4-e665-3f0b-b9ed-7d6d8ab3e9b7",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Amarante"}

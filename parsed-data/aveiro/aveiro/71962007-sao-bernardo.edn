@@ -1,0 +1,12 @@
+{:address "Estrada de Vilar, n.º 53 r/c 3810-195 Aveiro",
+ :name "São Bernardo",
+ :href-id #uuid "71962007-95ce-365a-b744-a3f7356921b0",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/S%c3%a3oBernardo.aspx",
+ :concelho "Aveiro",
+ :nec 1379,
+ :cp7 "3810-195",
+ :id #uuid "142db53f-b1d7-3fd9-a5a0-2167c11170bc",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Aveiro"}

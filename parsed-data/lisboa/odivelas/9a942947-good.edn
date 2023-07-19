@@ -1,0 +1,12 @@
+{:address "Praceta de S. Carlos nº 1 – loja B 1675-597 CANEÇAS",
+ :name "Good",
+ :href-id #uuid "9a942947-d8cc-362d-b515-dd80a3e6268e",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Good.aspx",
+ :concelho "Odivelas",
+ :nec 1052,
+ :cp7 "1675-597",
+ :id #uuid "205e7205-f7d6-3da4-b20e-23c7d842bbdb",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Odivelas"}

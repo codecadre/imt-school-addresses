@@ -1,0 +1,12 @@
+{:address "Rua Ponte de Pego, n.º 375, 4600-754 TELÕES AMT",
+ :name "Classe",
+ :href-id #uuid "335a0c68-079b-32c5-8609-e618d7f15429",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Classe.aspx",
+ :concelho "Amarante",
+ :nec 1328,
+ :cp7 "4600-754",
+ :id #uuid "4df99bde-65b3-3e41-9d40-e3d18b85897f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Amarante"}

@@ -1,0 +1,12 @@
+{:address "Avenida 25 de Abril, n.º 19 5430-420 Valpaços",
+ :name "Ponto de Partida",
+ :href-id #uuid "c7d6eb8d-b69f-3d10-9d40-11dc8d90091e",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/PontodePartida.aspx",
+ :concelho "Vila Real",
+ :nec 1077,
+ :cp7 "5430-420",
+ :id #uuid "74d02e36-9dfb-3d9b-854b-071c7d8dcf81",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Vila%20Real"}

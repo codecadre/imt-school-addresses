@@ -1,0 +1,12 @@
+{:address "Rua da Alegria, Nº 136 4480-743 VILA do CONDE",
+ :name "Fasa",
+ :href-id #uuid "b25faf89-6409-304f-b5ff-180adfd01404",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Fasa445.aspx",
+ :concelho "Vila do Conde",
+ :nec 739,
+ :cp7 "4480-743",
+ :id #uuid "156d1c27-9d7a-32ec-a18d-32afa310b1d7",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Conde"}

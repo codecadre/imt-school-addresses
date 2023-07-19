@@ -1,0 +1,12 @@
+{:address "Avª da Boavista, 579 – 1º Dtº 4100-127 PORTO",
+ :name "Boavista – Porto",
+ :href-id #uuid "5a797268-41a2-3b2e-bc5b-b34758b74631",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Boavista%e2%80%93Porto251.aspx",
+ :concelho "Porto",
+ :nec 49,
+ :cp7 "4100-127",
+ :id #uuid "ce8005d7-b07a-3bef-a2d0-93a62aaebcc5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

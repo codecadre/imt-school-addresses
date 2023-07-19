@@ -1,0 +1,12 @@
+{:address "Rua D. Afonso Henriques, Nº 4515 4425-057 ÁGUAS SANTAS",
+ :name "Boa Nova",
+ :href-id #uuid "2bafc369-c2c6-36dc-a0f1-5dd4080b46a2",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/BoaNova248.aspx",
+ :concelho "Maia",
+ :nec 672,
+ :cp7 "4425-057",
+ :id #uuid "80297c79-ad95-3e22-adeb-7c29800e0dce",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Maia"}

@@ -1,0 +1,12 @@
+{:address "Rua da Codixeira, nº 40 4490-025 AGUÇADOURA",
+ :name "Aguçadoura",
+ :href-id #uuid "ddb1c600-2547-3fd6-93d6-7afa2c4eb435",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Agucadoura060.aspx",
+ :concelho "Póvoa de Varzim",
+ :nec 919,
+ :cp7 "4490-025",
+ :id #uuid "7263178b-1851-3dbd-b423-e76efd88ee99",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=P%C3%B3voa%20de%20Varzim"}

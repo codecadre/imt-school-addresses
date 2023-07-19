@@ -1,0 +1,13 @@
+{:address
+ "Avenida Dr. Renato Araújo, 2038, 3700-241 São João da Madeira",
+ :name "Nova Caparica",
+ :href-id #uuid "cbdcc8ff-e14a-3305-8694-ba334a7ada65",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovaCaparica.aspx",
+ :concelho "São João da Madeira",
+ :nec 1291,
+ :cp7 "3700-241",
+ :id #uuid "47d900fe-a9ee-3d64-be56-d005abc65376",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=S.%20Jo%C3%A3o%20da%20Madeira"}

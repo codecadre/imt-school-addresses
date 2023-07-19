@@ -1,0 +1,12 @@
+{:address "Avª Arquitecto Rosado Correia, Lote 3 3100-532 POMBAL",
+ :name "Triangular",
+ :href-id #uuid "5d5f7618-3a03-3ca8-8c16-47dbe5445da5",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Triangular1019.aspx",
+ :concelho "Pombal",
+ :nec 537,
+ :cp7 "3100-532",
+ :id #uuid "c16a2497-02f2-349e-9386-4599e2b4a169",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Pombal"}

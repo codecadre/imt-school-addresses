@@ -1,0 +1,12 @@
+{:address "Rua Envolvente à Praça de Touros 14 A 2860-293 MOITA",
+ :name "Siiimplesado",
+ :href-id #uuid "f9ab8fd8-4480-3b31-92f1-c02e24d64a8d",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Siiimplesado.aspx",
+ :concelho "Moita",
+ :nec 802,
+ :cp7 "2860-293",
+ :id #uuid "1f2a7313-8eff-3592-98f5-e36d2b645979",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Moita"}

@@ -1,0 +1,13 @@
+{:address
+ "Rua Silvério Ferreira de Macedo, n.º 136, Lojas 1 / 2 / 3 4760-053 Vila Nova de Famalicão",
+ :name "Famalicense",
+ :href-id #uuid "aed5ce43-23c4-3792-8759-489ebf8fb811",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Famalicense443.aspx",
+ :concelho "Vila Nova de Famalicão",
+ :nec 123,
+ :cp7 "4760-053",
+ :id #uuid "070ed1a4-373f-33d5-b67b-7418784d94c9",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"}

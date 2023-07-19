@@ -1,0 +1,13 @@
+{:address
+ "Rua da República - Edifício Pires Faria, n.º 17 R/c; 3050-428 Pampilhosa",
+ :name "Via S",
+ :href-id #uuid "5417efe7-084f-3c70-badc-bbc800cd03b0",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Pampilhosa770.aspx",
+ :concelho "Mealhada",
+ :nec 1087,
+ :cp7 "3050-428",
+ :id #uuid "3495281b-780a-31de-a24d-50560146d538",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Mealhada"}

@@ -1,0 +1,12 @@
+{:address "Lugar da Portela, Fracções D e E 4640-264 GOVE",
+ :name "Santa Marinhense",
+ :href-id #uuid "b0f42882-3bb8-39bf-b959-592f8dd6c60d",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SantaMarinhense933.aspx",
+ :concelho "Baião",
+ :nec 1047,
+ :cp7 "4640-264",
+ :id #uuid "59e83a39-71b8-3a3d-b578-fecaa629c872",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Bai%C3%A3o"}

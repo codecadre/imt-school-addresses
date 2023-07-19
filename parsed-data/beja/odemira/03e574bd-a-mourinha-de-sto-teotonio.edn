@@ -1,0 +1,12 @@
+{:address "Rua das Escolas nº 1 e 3 r/c 7630 -623 S. TEOTÓNIO",
+ :name "A Mourinha de Stº Teotónio",
+ :href-id #uuid "03e574bd-9a4d-30ee-8440-e121b839307f",
+ :distrito "Beja",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AMourinhadeStTeotonio030.aspx",
+ :concelho "Odemira",
+ :nec 1142,
+ :cp7 "7630-623",
+ :id #uuid "5606fabe-5e1b-3bc8-9b26-93dc838eb813",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Beja&Concelho=Odemira"}

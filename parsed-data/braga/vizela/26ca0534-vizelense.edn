@@ -1,0 +1,13 @@
+{:address
+ "Centro Comercial Jardim - Rua Manuel Faria,Nº 127, 2º Esq 4815-514 CALDAS VIZELA",
+ :name "Vizelense",
+ :href-id #uuid "26ca0534-3614-3b07-9e4d-ff3c8ff150e4",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Vizelense1079.aspx",
+ :concelho "Vizela",
+ :nec 507,
+ :cp7 "4815-514",
+ :id #uuid "0865f9ce-e629-3afc-a717-496c7659f45b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vizela"}

@@ -1,0 +1,12 @@
+{:address "Rua 1.º de Maio, N.º 31 R/C 7220-426 PORTEL",
+ :name "Vila Portel",
+ :href-id #uuid "759c818f-c375-3ec0-bf6d-3f19831a1414",
+ :distrito "Évora",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Trindade464.aspx",
+ :concelho "Portel",
+ :nec 1159,
+ :cp7 "7220-426",
+ :id #uuid "598320e1-85f1-3e2d-9792-94675ecf909d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Evora&Concelho=Portel"}

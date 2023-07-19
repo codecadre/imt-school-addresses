@@ -1,0 +1,12 @@
+{:address "Rua Teófilo Braga, 85 8900 VILA REAL DE STº ANTÓNIO",
+ :name "Infante de Sagres - Vila Real de Stº António",
+ :href-id #uuid "d4ccadd9-dfd6-3445-90b2-2b4d282bb1d2",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfantedeSagresVilaRealdeStAntonio544.aspx",
+ :concelho "Vila Real de Santo António",
+ :nec 447,
+ :cp7 "8900",
+ :id #uuid "076f5935-fa1e-3139-91ca-dbc4ad80dfbd",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=V.%20R.%20St%C2%BA%20Ant%C3%B3nio"}

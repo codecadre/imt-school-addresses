@@ -1,0 +1,12 @@
+{:address "Alameda da Música, n.º 9, Loja C, Bloco E; 1750-105 Lisboa",
+ :name "Fonte Nova",
+ :href-id #uuid "68697956-fe83-3b7e-b31f-c6a3792713e7",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/FonteNova.aspx",
+ :concelho "Lisboa",
+ :nec 1307,
+ :cp7 "1750-105",
+ :id #uuid "4abf9435-9c16-37cb-a9d8-f1cb0741e782",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}

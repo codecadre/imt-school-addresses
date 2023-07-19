@@ -1,0 +1,12 @@
+{:address "Rua das Searas, Nº 14, loja E 4585-517 REBORDOSA",
+ :name "Atlântica",
+ :href-id #uuid "c0a3edec-fc30-3d84-95ea-c19e89f467e8",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Atlantica133.aspx",
+ :concelho "Paredes",
+ :nec 858,
+ :cp7 "4585-517",
+ :id #uuid "4c958885-1542-317a-a99a-7751f1b4577d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Paredes"}

@@ -1,0 +1,12 @@
+{:address "Rua Agnelo Prazeres nº 45 R/C 3770-059 OIÃ",
+ :name "Oiã",
+ :href-id #uuid "343ca06d-a02f-314f-9530-989d7bd54d36",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Oia741.aspx",
+ :concelho "Oliveira do Bairro",
+ :nec 1029,
+ :cp7 "3770-059",
+ :id #uuid "f5710f22-1339-3bcf-bc6b-0a73593983eb",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Oliveira%20Bairro"}

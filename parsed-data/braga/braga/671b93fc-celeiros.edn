@@ -1,0 +1,12 @@
+{:address "Avª de Covedêlo, Nº 7 R/C Esq 4700-586 CELEIRÓS",
+ :name "Celeirós",
+ :href-id #uuid "671b93fc-77e9-3624-a772-d2458929d538",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Celeiros299.aspx",
+ :concelho "Braga",
+ :nec 1210,
+ :cp7 "4700-586",
+ :id #uuid "f92827bd-c161-315b-a674-179dc87d2b30",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Braga"}

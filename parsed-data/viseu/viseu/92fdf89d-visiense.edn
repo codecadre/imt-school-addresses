@@ -1,0 +1,12 @@
+{:address "Av. Cidade de Aveiro, Lote 7 r/c 3510-720 VISEU",
+ :name "Visiense",
+ :href-id #uuid "92fdf89d-f0b8-3f38-83b9-27752edbb9a6",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Visiense1076.aspx",
+ :concelho "Viseu",
+ :nec 1068,
+ :cp7 "3510-720",
+ :id #uuid "0dec50ce-e5f3-3ff9-80d5-0030a8f43be8",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Viseu"}

@@ -1,0 +1,12 @@
+{:address "Rua D. Afonso Henriques, 2248 4425-57 ÁGUAS SANTAS",
+ :name "Águas Santas",
+ :href-id #uuid "9e84464e-8cea-3066-8832-503a91fcfec3",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AguasSantas059.aspx",
+ :concelho "Maia",
+ :nec 853,
+ :cp7 "4425-57",
+ :id #uuid "efe2dfe8-2b2e-33d6-b99b-4cec816cbdcf",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Maia"}

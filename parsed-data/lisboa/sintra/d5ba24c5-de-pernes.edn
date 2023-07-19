@@ -1,0 +1,12 @@
+{:address "Rua Cidade de Leiria, 2-A, 2725-597 MEM MARTINS",
+ :name "De Pernes",
+ :href-id #uuid "d5ba24c5-0fcc-310f-ba7b-3b6b47628e09",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DePernes376.aspx",
+ :concelho "Sintra",
+ :nec 630,
+ :cp7 "2725-597",
+ :id #uuid "d763fa60-3365-3e8b-bf04-e42a6318fd7a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"}

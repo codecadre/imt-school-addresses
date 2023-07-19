@@ -1,0 +1,12 @@
+{:address "Largo do Calvário, 16 – R/C Dtº 1300-114 LISBOA",
+ :name "Vencedora Alcanterense",
+ :href-id #uuid "725e6644-2e79-33aa-bd04-2d98a9b390bb",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/VencedoraAlcanterense1042.aspx",
+ :concelho "Lisboa",
+ :nec 27,
+ :cp7 "1300-114",
+ :id #uuid "75ac46fd-1378-38ba-afab-1c2279f30f62",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}

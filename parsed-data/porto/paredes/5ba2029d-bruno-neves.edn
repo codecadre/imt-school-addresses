@@ -1,0 +1,13 @@
+{:address
+ "Rua Casimiro Neto da Silva, n.º 304, R/C, 4580-191 CRISTELO PRD",
+ :name "Bruno Neves",
+ :href-id #uuid "5ba2029d-1aaa-3ef2-a2e7-0a67a9e2256a",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/BrunoNeves.aspx",
+ :concelho "Paredes",
+ :nec 1325,
+ :cp7 "4580-191",
+ :id #uuid "29ffd1e7-2e7a-3861-b0f0-42a7821273d4",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Paredes"}

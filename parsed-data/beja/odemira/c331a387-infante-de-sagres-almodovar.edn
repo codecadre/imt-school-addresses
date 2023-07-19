@@ -1,0 +1,13 @@
+{:address
+ "Loteamento da Bemposta, Lote 14 C/V Esq.; 7630-614 São Teotónio",
+ :name "Infante de Sagres - Almodovar",
+ :href-id #uuid "c331a387-a6b4-3a16-881c-ef310dc8f045",
+ :distrito "Beja",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfantedeSagresAlmodovar533.aspx",
+ :concelho "Odemira",
+ :nec 639,
+ :cp7 "7630-614",
+ :id #uuid "eb1184a7-821e-3e54-aab7-a53756af9beb",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Beja&Concelho=Odemira"}

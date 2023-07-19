@@ -1,0 +1,13 @@
+{:address
+ "Urbanização do Paraíso, E.N.125, Lote 1, R/C Esq., 8700-240 OLHÃO",
+ :name "Baía de Monte Gordo",
+ :href-id #uuid "6daef2a4-1152-30b8-8918-67c1e83c0812",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/BaiadeMonteGordo213.aspx",
+ :concelho "Olhão",
+ :nec 691,
+ :cp7 "8700-240",
+ :id #uuid "b3047e5c-4263-33c9-a58e-44a596a3f918",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Olh%C3%A3o"}

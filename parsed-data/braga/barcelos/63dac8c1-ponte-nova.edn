@@ -1,0 +1,13 @@
+{:address
+ "Rua Professor Celestino Costa-Edificio Loureiro, Loja 9 4755-058 BARCELINHOS",
+ :name "Ponte Nova",
+ :href-id #uuid "63dac8c1-2096-3598-8475-0663dc254a45",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/PonteNova799.aspx",
+ :concelho "Barcelos",
+ :nec 954,
+ :cp7 "4755-058",
+ :id #uuid "7a2cfc5e-bac0-3e60-8e56-4206be0c7ccd",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Barcelos"}

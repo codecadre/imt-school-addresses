@@ -1,0 +1,13 @@
+{:address
+ "Avª 29 de Março, 190 B-A, 1º Esqº - Edifício Miramar 3885-402 ESMORIZ",
+ :name "Nova de Esmoriz",
+ :href-id #uuid "a63037ce-d013-3a1e-a12e-5a0639ff1175",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovadeEsmoriz704.aspx",
+ :concelho "Ovar",
+ :nec 909,
+ :cp7 "3885-402",
+ :id #uuid "fb13b2a3-01c9-3a04-bdbe-928516ec41d1",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Ovar"}

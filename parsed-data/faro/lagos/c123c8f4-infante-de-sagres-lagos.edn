@@ -1,0 +1,12 @@
+{:address "Rua Capitão Salgueiro Maia, Lote 15-Loja A 8600-620 LAGOS",
+ :name "Infante de Sagres - Lagos",
+ :href-id #uuid "c123c8f4-235e-3340-97bc-10906b3bccfa",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/InfantedeSagresLagos536.aspx",
+ :concelho "Lagos",
+ :nec 636,
+ :cp7 "8600-620",
+ :id #uuid "24fcbbf2-edde-355c-a1b6-9a134f186e8b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Lagos"}

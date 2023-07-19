@@ -1,0 +1,12 @@
+{:address "Parque Empresarial do Algarve, lote 3 r/c 8400-431 LAGOA",
+ :name "Lagoense",
+ :href-id #uuid "a7e2bb68-2e71-339e-8bb8-c18dc8e3a546",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Lagoense589.aspx",
+ :concelho "Lagoa",
+ :nec 1086,
+ :cp7 "8400-431",
+ :id #uuid "3734bb2d-a746-3cb1-975b-23d66bc845e7",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Lagoa"}

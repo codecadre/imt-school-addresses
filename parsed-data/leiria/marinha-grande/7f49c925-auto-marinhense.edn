@@ -1,0 +1,12 @@
+{:address "Avª da Liberdade, nº 155 –1ºB 2430-229 MARINHA GRANDE",
+ :name "Auto Marinhense",
+ :href-id #uuid "7f49c925-6d36-32dc-ae49-536017848513",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutoMarinhense164.aspx",
+ :concelho "Marinha Grande",
+ :nec 113,
+ :cp7 "2430-229",
+ :id #uuid "701c10a4-6148-3d9c-b6ed-d1939343f6b5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Marinha%20Grande"}

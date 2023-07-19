@@ -1,0 +1,12 @@
+{:address "Avª da República nº 31 8700-308 OLHÃO",
+ :name "Olhanense",
+ :href-id #uuid "af5e574a-4336-3032-bb1e-dc6b12f5ebcb",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Olhanense743.aspx",
+ :concelho "Olhão",
+ :nec 77,
+ :cp7 "8700-308",
+ :id #uuid "3d0f6fbb-dc5c-35ec-b9a4-1e497edbbfae",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Olh%C3%A3o"}

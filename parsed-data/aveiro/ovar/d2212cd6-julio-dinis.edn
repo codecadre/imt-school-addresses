@@ -1,0 +1,12 @@
+{:address "Rua Dr. Albino Borges Pinho nº 84 r/c 3880-001 OVAR",
+ :name "Júlio Dinis",
+ :href-id #uuid "d2212cd6-9eb2-34de-bcfa-efd638224702",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/JulioDinis584.aspx",
+ :concelho "Ovar",
+ :nec 1063,
+ :cp7 "3880-001",
+ :id #uuid "d8934337-9da3-39ca-9f58-ee40c61b556c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Ovar"}

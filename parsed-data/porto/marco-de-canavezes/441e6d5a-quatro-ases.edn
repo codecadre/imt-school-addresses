@@ -1,0 +1,13 @@
+{:address
+ "Avª F. C. Porto - Edificio Via Marco, Loja 68 4630-203 TUIAS",
+ :name "Quatro Ases",
+ :href-id #uuid "441e6d5a-b536-3376-8211-f788c07e3166",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/QuatroAses827.aspx",
+ :concelho "Marco de Canavezes",
+ :nec 662,
+ :cp7 "4630-203",
+ :id #uuid "70271f41-4321-3803-9843-66fa07f77437",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Marco%20Canavezes"}

@@ -1,0 +1,12 @@
+{:address "Rua Pontes Pereiros, n.º 54, 4830-508 PÓVOA do LANHOSO",
+ :name "Dinâmica Drive",
+ :href-id #uuid "e2f934c0-c8b4-31b9-928e-98e821153f3b",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DinamicaDrive.aspx",
+ :concelho "Póvoa de Lanhoso",
+ :nec 831,
+ :cp7 "4830-508",
+ :id #uuid "621d64af-d67f-3483-a563-9b2164d8237c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=P%C3%B3voa%20Lanhoso"}

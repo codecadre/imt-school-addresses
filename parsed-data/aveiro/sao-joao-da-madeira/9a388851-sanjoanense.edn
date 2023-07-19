@@ -1,0 +1,12 @@
+{:address "Avª da Liberdade, nº 615 –1º 3700-166 S. JOÃO DA MADEIRA",
+ :name "Sanjoanense",
+ :href-id #uuid "9a388851-bc76-32f0-9b44-ca4d93f4bae4",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Sanjoanense917.aspx",
+ :concelho "São João da Madeira",
+ :nec 531,
+ :cp7 "3700-166",
+ :id #uuid "199cba02-1f5a-38e8-bcc2-659da19a2569",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=S.%20Jo%C3%A3o%20da%20Madeira"}

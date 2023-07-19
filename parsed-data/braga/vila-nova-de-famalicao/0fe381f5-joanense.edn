@@ -1,0 +1,12 @@
+{:address "Avª Dr. Mário Soares, Nº 2209 4770-260 JOANE",
+ :name "Joanense",
+ :href-id #uuid "0fe381f5-09da-3e0b-af4b-0f0824f1c546",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Joanense576.aspx",
+ :concelho "Vila Nova de Famalicão",
+ :nec 506,
+ :cp7 "4770-260",
+ :id #uuid "fce3f4f9-6ccf-303c-9815-a96a9aad8055",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vila%20Nova%20Famalic%C3%A3o"}

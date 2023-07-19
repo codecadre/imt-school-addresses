@@ -1,0 +1,12 @@
+{:address "Rua António Amaro Monteiro nº 6 A 2830 BARREIRO",
+ :name "Instrusol",
+ :href-id #uuid "fe96a340-dcf0-36ab-8aa3-b97469e66b72",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Instrusol563.aspx",
+ :concelho "Barreiro",
+ :nec 1138,
+ :cp7 "2830",
+ :id #uuid "a9dbb338-ae7c-3c0b-bd94-0f014191c188",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Barreiro"}

@@ -1,0 +1,13 @@
+{:address
+ "Rua Afonso de Paiva, n.º 33 - Cave, 6000-076 CASTELO BRANCO",
+ :name "Nova Técnica",
+ :href-id #uuid "ae3ea269-5018-32b5-859b-3ac071c03a8b",
+ :distrito "Castelo Branco",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovaTecnica718.aspx",
+ :concelho "Castelo Branco",
+ :nec 743,
+ :cp7 "6000-076",
+ :id #uuid "1c7e0104-91e1-3470-bfcb-f0ee8b4693b2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=CasteloBranco&Concelho=Castelo%20Branco"}

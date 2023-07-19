@@ -1,0 +1,13 @@
+{:address
+ "Rua Marquês D'Ávila e Bolama, Lote 5, Nº 357 R/C DTº 6200-053 COVILHÃ",
+ :name "Covilhanense",
+ :href-id #uuid "65739be8-69c8-3ac1-851f-3b1d36f52449",
+ :distrito "Castelo Branco",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Covilhanense347.aspx",
+ :concelho "Covilhã",
+ :nec 230,
+ :cp7 "6200-053",
+ :id #uuid "3da294f2-fdd3-33f3-967f-74271550dd57",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=CasteloBranco&Concelho=Covilh%C3%A3"}

@@ -1,0 +1,12 @@
+{:address "Rua Bento Gonçalves, n.º 23 2860-439 Moita",
+ :name "Cooldrive",
+ :href-id #uuid "18ff0e24-46b9-3ed5-a9cf-77af4125703f",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Cooldrive.aspx",
+ :concelho "Moita",
+ :nec 1453,
+ :cp7 "2860-439",
+ :id #uuid "0f3fd915-a030-3fe1-8d0b-25f219844f4b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Moita"}

@@ -1,0 +1,13 @@
+{:address
+ "Rua Caetano de Melo, nº 448 - R/C 4430-267 OLIVEIRA do DOURO",
+ :name "Nova de Gervide",
+ :href-id #uuid "153f8fc1-0eaf-3e8d-baa7-39eb809f5a16",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovadeGervide705.aspx",
+ :concelho "Vila Nova de Gaia",
+ :nec 797,
+ :cp7 "4430-267",
+ :id #uuid "5c4f43a4-8508-32bb-88cb-b8eb25bc7a7d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia"}

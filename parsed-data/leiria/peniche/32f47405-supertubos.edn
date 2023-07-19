@@ -1,0 +1,12 @@
+{:address "Rua Ramiro de Matos Bilhau, n.º 8-10 Peniche",
+ :name "Supertubos",
+ :href-id #uuid "32f47405-3ec5-333c-9926-795230d166fb",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Supertubos.aspx",
+ :concelho "Peniche",
+ :nec 129,
+ :cp7 nil,
+ :id #uuid "522db535-7570-3cf1-9dd1-161527a8d5b5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Peniche"}

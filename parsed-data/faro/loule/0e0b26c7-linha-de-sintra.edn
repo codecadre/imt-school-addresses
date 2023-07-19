@@ -1,0 +1,13 @@
+{:address
+ "Estrada Nacional 125, Fonte de Boliqueime, Nº 66, 8100-069 BOLIQUEIME",
+ :name "Linha de Sintra",
+ :href-id #uuid "0e0b26c7-8f5a-3e49-ae62-b1abc6685309",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/GuedesVieriaSintra.aspx",
+ :concelho "Loulé",
+ :nec 1081,
+ :cp7 "8100-069",
+ :id #uuid "6e3c4d0f-3263-34f5-b57c-f6cc10e5b93d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Loul%C3%A9"}

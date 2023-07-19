@@ -1,0 +1,12 @@
+{:address "Rua Aveiro 1-B, Mamodeiro 3810-732 NOSSA SENHORA DE FÁTIMA",
+ :name "Prestige",
+ :href-id #uuid "dc7a4a61-25ea-3ea5-910d-0823421fc746",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Prestige.aspx",
+ :concelho "Aveiro",
+ :nec 1314,
+ :cp7 "3810-732",
+ :id #uuid "351af02c-cc4f-3980-8f70-da518e9b8dbb",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Aveiro"}

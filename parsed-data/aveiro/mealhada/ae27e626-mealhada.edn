@@ -1,0 +1,12 @@
+{:address "Avª 25 de Abril, Bloco A-R/C 3050-344 MEALHADA",
+ :name "Mealhada",
+ :href-id #uuid "ae27e626-9101-31ef-ae67-3b2e97cf3479",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Mealhada638.aspx",
+ :concelho "Mealhada",
+ :nec 243,
+ :cp7 "3050-344",
+ :id #uuid "6bf8c662-26e7-3081-9358-396541118ffa",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Mealhada"}

@@ -1,0 +1,12 @@
+{:address "Rua Principal, n.º 258 r/c 4505-374 Fiães",
+ :name "5 Estrelas",
+ :href-id #uuid "6c9142b7-70d3-3a1c-bd31-b986a192d484",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/5Estrelas.aspx",
+ :concelho "Santa Maria da Feira",
+ :nec 1404,
+ :cp7 "4505-374",
+ :id #uuid "d77154e6-ac4b-3963-8faf-5b83872d2919",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Santa%20Maria%20da%20Feira"}

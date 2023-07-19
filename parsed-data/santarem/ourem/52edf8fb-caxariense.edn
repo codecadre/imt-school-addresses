@@ -1,0 +1,12 @@
+{:address "Avª 21 de Junho nº 32 r/c Dtº 2435-021 CAXARIAS",
+ :name "Caxariense",
+ :href-id #uuid "52edf8fb-67bc-32d8-b21f-9a7d113e6206",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Caxariense297.aspx",
+ :concelho "Ourém",
+ :nec 1089,
+ :cp7 "2435-021",
+ :id #uuid "00204d1c-89d3-33ba-a239-ef3ef5790726",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Our%C3%A9m"}

@@ -1,0 +1,13 @@
+{:address
+ "Av. João Paulo II, n.º 646; 4410-406 Arcozelo - Vila Nova de Gaia",
+ :name "Euro Boavista",
+ :href-id #uuid "27206e3e-d1eb-3560-b17e-5ec7880dc8fa",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EuroBoavista431.aspx",
+ :concelho "Vila Nova de Gaia",
+ :nec 1072,
+ :cp7 "4410-406",
+ :id #uuid "98305723-cf14-33ac-bead-c0cf895234d0",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia"}

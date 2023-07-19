@@ -1,0 +1,13 @@
+{:address
+ "Largo das Teixugueiras, Nº 284, Bloco 4 A - R/C Esq 4815-474 CALDAS de VIZELA(S. Miguel)",
+ :name "S. Miguel",
+ :href-id #uuid "02edd4f3-67ec-38f1-9be6-8a2b7df53420",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SMiguel895.aspx",
+ :concelho "Vizela",
+ :nec 680,
+ :cp7 "4815-474",
+ :id #uuid "0bfa296a-23ed-37ba-8034-1eae1bd0cb30",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Vizela"}

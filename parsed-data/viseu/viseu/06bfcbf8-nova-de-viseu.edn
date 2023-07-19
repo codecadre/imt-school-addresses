@@ -1,0 +1,13 @@
+{:address
+ "Rua Camilo Castelo Branco, n.º 8, Quinta das Mesuras, freguesia da União das freguesias de VISEU",
+ :name "Nova de Viseu",
+ :href-id #uuid "06bfcbf8-65f1-3f69-83ba-62044e07ba25",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovadeViseu.aspx",
+ :concelho "Viseu",
+ :nec 1388,
+ :cp7 nil,
+ :id #uuid "13b8440c-8d60-371e-be7e-fcf07e0f0625",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Viseu"}

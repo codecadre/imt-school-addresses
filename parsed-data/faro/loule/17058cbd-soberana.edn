@@ -1,0 +1,12 @@
+{:address "Rua Engº Duarte Pacheco,Nº83 R/C 8100-570 LOULÉ",
+ :name "Soberana",
+ :href-id #uuid "17058cbd-052b-388f-9ea6-21f0f84583bd",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Soberana975.aspx",
+ :concelho "Loulé",
+ :nec 638,
+ :cp7 "8100-570",
+ :id #uuid "88cea0cf-8ad8-3078-8a05-79958b7cb559",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Loul%C3%A9"}

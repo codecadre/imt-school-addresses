@@ -1,0 +1,12 @@
+{:address "Rua do Alecrim, Nº 360-1ºEsq 4535-263 MOZELOS VFR",
+ :name "Santa Maria",
+ :href-id #uuid "c1f4b871-e1de-39dc-846a-2d45b3287738",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SantaMaria927.aspx",
+ :concelho "Santa Maria da Feira",
+ :nec 412,
+ :cp7 "4535-263",
+ :id #uuid "8c6ea07f-17e2-3de4-901d-a520ee65279e",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Santa%20Maria%20da%20Feira"}

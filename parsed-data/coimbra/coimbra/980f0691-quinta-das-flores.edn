@@ -1,0 +1,12 @@
+{:address "Av. Dr. Mendes Silva, loja 285 3030-193 Coimbra",
+ :name "Quinta das Flores",
+ :href-id #uuid "980f0691-4d93-3852-b932-7dcf7adf2fae",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/QuintadasFlores.aspx",
+ :concelho "Coimbra",
+ :nec 1377,
+ :cp7 "3030-193",
+ :id #uuid "15fd78cf-bb57-3144-8827-579318918c11",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Coimbra"}

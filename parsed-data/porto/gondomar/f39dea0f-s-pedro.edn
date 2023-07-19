@@ -1,0 +1,12 @@
+{:address "Rua de S. Pedro nº 882 – 1º 4510-431 SÃO PEDRO da COVA",
+ :name "S. Pedro",
+ :href-id #uuid "f39dea0f-8825-30a7-aeb8-141a0c42a60f",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SPedro896.aspx",
+ :concelho "Gondomar",
+ :nec 806,
+ :cp7 "4510-431",
+ :id #uuid "8783c347-5a94-3d03-a91f-f924f9c7c792",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Gondomar"}

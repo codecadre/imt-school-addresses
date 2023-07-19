@@ -1,0 +1,13 @@
+{:address
+ "Rua do Pavilhão, Nº 27, Edificio Passus II, Fracção D 4660-226 RESENDE",
+ :name "S. Salvador de Resende",
+ :href-id #uuid "a5006c93-3503-3467-9214-c98cc858cd0f",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SSalvadordeResende898.aspx",
+ :concelho "Resende",
+ :nec 655,
+ :cp7 "4660-226",
+ :id #uuid "4e601931-0390-3dee-b1dd-ba1e33490eaf",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Resende"}

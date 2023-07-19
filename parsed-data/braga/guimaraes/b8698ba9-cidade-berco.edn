@@ -1,0 +1,13 @@
+{:address
+ "Rua Dr. João Afonso Almeida , Nº 291- Fracção O 4800-045 AZURÉM",
+ :name "Cidade Berço",
+ :href-id #uuid "b8698ba9-cea3-36be-bee9-27cd36b2e9e1",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/CidadeBerco309.aspx",
+ :concelho "Guimarães",
+ :nec 658,
+ :cp7 "4800-045",
+ :id #uuid "f3843460-63b6-3514-8998-b42702844f18",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Guimar%C3%A3es"}

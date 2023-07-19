@@ -1,0 +1,12 @@
+{:address "Rua da Fábrica, 65-2º 4050-247 PORTO",
+ :name "Académica",
+ :href-id #uuid "5e98f625-f99d-3161-95e0-ddc9476aa369",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Academica055.aspx",
+ :concelho "Porto",
+ :nec 384,
+ :cp7 "4050-247",
+ :id #uuid "0cc8e1e1-9015-3cbd-8d58-075c2b00555c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

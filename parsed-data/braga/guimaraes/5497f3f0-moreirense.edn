@@ -1,0 +1,12 @@
+{:address "Rua Vila Moure, Nº 3 - R/c 4815-301 MOREIRA de CÓNEGOS",
+ :name "Moreirense",
+ :href-id #uuid "5497f3f0-9cb5-3355-b421-1460d9d2e415",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Moreirense680.aspx",
+ :concelho "Guimarães",
+ :nec 684,
+ :cp7 "4815-301",
+ :id #uuid "b6589486-6c08-380b-9671-84d144abccf8",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Guimar%C3%A3es"}

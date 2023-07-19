@@ -1,0 +1,13 @@
+{:address
+ "Rua do Vuveiro, Lote 15C - Loja, Monte do Estoril, 2765-294 ESTORIL",
+ :name "Gémeos",
+ :href-id #uuid "5bf9b2ea-2d11-3da1-b8db-b5274754dd0e",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Gemeos484.aspx",
+ :concelho "Cascais",
+ :nec 1235,
+ :cp7 "2765-294",
+ :id #uuid "23735d1d-3ece-325a-a271-42174dca0ad1",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Cascais"}

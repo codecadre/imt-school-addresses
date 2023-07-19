@@ -1,0 +1,13 @@
+{:address
+ "Rua Adriano Correia de Oliveira, Nº 6 R/C Frente 2625-387 FORTE da CASA",
+ :name "Viaensinauto",
+ :href-id #uuid "0a4c3e90-4c4c-39be-9fee-8612c1225f0d",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Viaensinauto1058.aspx",
+ :concelho "Vila Franca de Xira",
+ :nec 1184,
+ :cp7 "2625-387",
+ :id #uuid "500e805a-0083-3c8b-a90f-89561f768992",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Vila%20Franca%20Xira"}

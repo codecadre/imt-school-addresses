@@ -1,0 +1,12 @@
+{:address "Praceta João Caetano Brás n º 9 2000 SANTARÉM",
+ :name "S. Domingos",
+ :href-id #uuid "765b6421-425e-35c2-9f50-798220c0bcc3",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SDomingos883.aspx",
+ :concelho "Santarém",
+ :nec 1085,
+ :cp7 "2000",
+ :id #uuid "08527b9d-2f2d-3e71-b7a2-76263ff020da",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Santar%C3%A9m"}

@@ -1,0 +1,12 @@
+{:address "Rua José Cardoso Pires, n.º 3 C, 2830-554 Barreiro",
+ :name "Casquilhos",
+ :href-id #uuid "a3d5e1c0-30a0-36bf-ab5e-b08d3dc74560",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Casquilhos.aspx",
+ :concelho "Barreiro",
+ :nec 1419,
+ :cp7 "2830-554",
+ :id #uuid "941587fe-f170-3937-929b-b8c28b8048e5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Barreiro"}

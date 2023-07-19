@@ -1,0 +1,12 @@
+{:address "Avª 25 de Abril, 2 5070-011 ALIJÓ",
+ :name "Plátano",
+ :href-id #uuid "2595a8ea-aaa2-394e-9f54-d222b1ebe336",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Platano794.aspx",
+ :concelho "Alijó",
+ :nec 663,
+ :cp7 "5070-011",
+ :id #uuid "e5c8b5ca-406a-324b-a5ce-45248770f35c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Alij%C3%B3"}

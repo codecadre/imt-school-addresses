@@ -1,0 +1,12 @@
+{:address "Rua António Joaquim Henriques, n.º 66, 3520-035 Nelas",
+ :name "Vitor Arede",
+ :href-id #uuid "b085501f-99f5-36ff-845c-fa72edca840f",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/VitorArede.aspx",
+ :concelho "Nelas",
+ :nec 1434,
+ :cp7 "3520-035",
+ :id #uuid "59aa636f-e671-39e6-a2f5-9deb51d0a893",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Nelas"}

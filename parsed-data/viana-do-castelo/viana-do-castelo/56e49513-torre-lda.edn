@@ -1,0 +1,13 @@
+{:address
+ "Rua Ramalho Ortigão nº 177 r/c Dtº 4900-422 VIANA DO CASTELO (Stª Mª Maior)",
+ :name "Torre, Ldª",
+ :href-id #uuid "56e49513-71c4-3461-ab00-155501209f47",
+ :distrito "Viana do Castelo",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/TorreLd1015.aspx",
+ :concelho "Viana do Castelo",
+ :nec 671,
+ :cp7 "4900-422",
+ :id #uuid "b4698e21-2af8-37c5-97c1-916ca2a48c70",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Viana%20Castelo"}

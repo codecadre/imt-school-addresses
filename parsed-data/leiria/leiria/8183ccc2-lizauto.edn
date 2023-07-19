@@ -1,0 +1,12 @@
+{:address "Rua de Setúbal, n.º 1 r/c 2400-448 Leiria",
+ :name "Lizauto",
+ :href-id #uuid "8183ccc2-62cf-3380-b9f5-743a9f6191d1",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Lizauto.aspx",
+ :concelho "Leiria",
+ :nec 1369,
+ :cp7 "2400-448",
+ :id #uuid "84e680cc-d2ee-3de6-83aa-0ef8abb7d989",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Leiria"}

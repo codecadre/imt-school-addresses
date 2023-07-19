@@ -1,0 +1,13 @@
+{:address
+ "Rua Alexandre Herculano, n.º 52-G, Loja 3, Bloco A, 2605-015 Belas",
+ :name "Belas",
+ :href-id #uuid "82b79b3b-5bf3-3127-934f-41f6697dbea7",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Belas.aspx",
+ :concelho "Sintra",
+ :nec 1271,
+ :cp7 "2605-015",
+ :id #uuid "db302e36-aec1-3a0f-a2e4-523be4a1a5e2",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"}

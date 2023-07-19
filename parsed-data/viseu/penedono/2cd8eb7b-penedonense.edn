@@ -1,0 +1,12 @@
+{:address "Travessa do Castelo 3630-240 PENEDONO",
+ :name "Penedonense",
+ :href-id #uuid "2cd8eb7b-3088-3ec6-ae07-370be9ff80eb",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Penedonense783.aspx",
+ :concelho "Penedono",
+ :nec 1022,
+ :cp7 "3630-240",
+ :id #uuid "5ae66847-a47c-341e-b8af-553a66d0404a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Penedono"}

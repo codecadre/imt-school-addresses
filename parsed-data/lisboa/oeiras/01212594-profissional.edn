@@ -1,0 +1,12 @@
+{:address "Rua de Macau, n.º 1 e n.º 4, 2730-117 BARCARENA",
+ :name "Profissional",
+ :href-id #uuid "01212594-153f-3dee-9748-d1ab4850d687",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Profissional.aspx",
+ :concelho "Oeiras",
+ :nec 1284,
+ :cp7 "2730-117",
+ :id #uuid "54e4629c-6a72-390d-8b97-967e5a1d61b8",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Oeiras"}

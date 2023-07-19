@@ -1,0 +1,13 @@
+{:address
+ "Rua Cidade do Porto - Edificio Olympus, Loja 73 4700-213 BRAGA (MAXIMINOS)",
+ :name "Olivolante",
+ :href-id #uuid "90ce5e36-a919-3936-8f8a-3c5b97e4e6c3",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Olivolante750.aspx",
+ :concelho "Braga",
+ :nec 735,
+ :cp7 "4700-213",
+ :id #uuid "d3dfdd88-15d7-3953-a9db-15a5488a3703",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Braga"}

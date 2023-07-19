@@ -1,0 +1,12 @@
+{:address "Rua Teófilo Braga, Nº 814, 5370-198 MIRANDELA",
+ :name "Nova Via",
+ :href-id #uuid "aa31685b-03a8-3dc2-9e23-37c113e7bf42",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovaVia720.aspx",
+ :concelho "Mirandela",
+ :nec 1173,
+ :cp7 "5370-198",
+ :id #uuid "afa4f277-676f-3ee8-b004-9825dbe0739c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Mirandela"}

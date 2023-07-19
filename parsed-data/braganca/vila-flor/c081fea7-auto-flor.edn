@@ -1,0 +1,12 @@
+{:address "Avª João Carlos Noronha, Nº 20 5360-302 VILA FLOR",
+ :name "Auto Flor",
+ :href-id #uuid "c081fea7-76ee-3058-9df3-b26bb5e431ec",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutoFlor158.aspx",
+ :concelho "Vila Flôr",
+ :nec 1007,
+ :cp7 "5360-302",
+ :id #uuid "42020dad-2dd1-3624-a1eb-43c7ae455cd3",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Vila%20Flor"}

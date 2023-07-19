@@ -1,0 +1,12 @@
+{:address "Praceta Água Viva, Nº 42 R/C 4745-615 TROFA",
+ :name "Campeão",
+ :href-id #uuid "652f27b8-8c49-3be1-a1c6-fac6c19d43c8",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Campeao272.aspx",
+ :concelho "Trofa",
+ :nec 1224,
+ :cp7 "4745-615",
+ :id #uuid "37c64c6b-0d58-3833-a7de-a941340130e4",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Trofa"}

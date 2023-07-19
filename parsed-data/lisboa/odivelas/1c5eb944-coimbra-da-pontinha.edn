@@ -1,0 +1,12 @@
+{:address "Avª Bombeiros Voluntários loja 8 J D 1675 PONTINHA",
+ :name "Coimbra da Pontinha",
+ :href-id #uuid "1c5eb944-ccad-348a-95f0-89a990492154",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/CoimbradaPontinha320.aspx",
+ :concelho "Odivelas",
+ :nec 493,
+ :cp7 "1675",
+ :id #uuid "fe4c5996-186a-320f-bfe8-210f853321d9",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Odivelas"}

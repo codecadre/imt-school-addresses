@@ -1,0 +1,13 @@
+{:address
+ "Rua Amadeu Rodrigues Matias lote 16 Loja 2 2560-253 TORRES VEDRAS",
+ :name "Alta Roda",
+ :href-id #uuid "735205c0-258b-3b93-8443-9f82c21c082c",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AltaRoda093.aspx",
+ :concelho "Torres Vedras",
+ :nec 883,
+ :cp7 "2560-253",
+ :id #uuid "9a8bf619-e381-305f-84fb-008fe00acdde",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Torres%20Vedras"}

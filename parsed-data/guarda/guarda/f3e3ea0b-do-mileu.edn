@@ -1,0 +1,12 @@
+{:address "Rua Vila Manteigas 9 A-Póvoa de Mileu 6300-617 GUARDA",
+ :name "Do Mileu",
+ :href-id #uuid "f3e3ea0b-bf9c-38b2-bb1e-5ec5db9d5062",
+ :distrito "Guarda",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DoMileu391.aspx",
+ :concelho "Guarda",
+ :nec 824,
+ :cp7 "6300-617",
+ :id #uuid "8c89d682-cf19-33e1-af3b-2f2adb1b0d9c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Guarda&Concelho=Guarda"}

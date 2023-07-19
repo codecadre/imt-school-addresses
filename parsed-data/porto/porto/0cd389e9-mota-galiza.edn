@@ -1,0 +1,12 @@
+{:address "Rua Julio Dinis n.º 380, r/c , 4050-318 Porto",
+ :name "Mota Galiza",
+ :href-id #uuid "0cd389e9-a934-337a-af5f-f557cb099412",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/MotaGaliza.aspx",
+ :concelho "Porto",
+ :nec 1079,
+ :cp7 "4050-318",
+ :id #uuid "58c80e89-6aa3-333a-b697-d39d3a1f8312",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

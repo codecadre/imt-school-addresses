@@ -1,0 +1,12 @@
+{:address "Rua de Leiria, Nº 22, 3840-507 VAGOS",
+ :name "Monte Real",
+ :href-id #uuid "4c9f57ae-7a22-3ba5-b6fb-d3ee590af460",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/MonteReal854.aspx",
+ :concelho "Marinha Grande",
+ :nec 854,
+ :cp7 "3840-507",
+ :id #uuid "447ead5b-7b3d-37fc-b193-349b54585d3c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Marinha%20Grande"}

@@ -1,0 +1,12 @@
+{:address "Rua Ilhar Mourisco, n.º 220 4440-661 Valongo",
+ :name "BN Valongo",
+ :href-id #uuid "6378f55c-d591-3d1f-bc3e-d89e3ccdf722",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/BNValongo.aspx",
+ :concelho "Valongo",
+ :nec 1454,
+ :cp7 "4440-661",
+ :id #uuid "29892d9b-7170-34be-8333-c44ceb656554",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Valongo"}

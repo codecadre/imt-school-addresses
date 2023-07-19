@@ -1,0 +1,12 @@
+{:address "Rua Alfredo da Maia Pereira nº 6 r/c Esqº 2300-449 TOMAR",
+ :name "Carreira",
+ :href-id #uuid "5e070fbc-892b-30ca-a726-72d67514fbab",
+ :distrito "Santarém",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Carreira289.aspx",
+ :concelho "Tomar",
+ :nec 1108,
+ :cp7 "2300-449",
+ :id #uuid "1fa8652b-71ed-307d-8605-c7d6e888ddb3",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Santarem&Concelho=Tomar"}

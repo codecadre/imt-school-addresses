@@ -1,0 +1,13 @@
+{:address
+ "Avª Marquês de Pombal, Nº 53 Loja Dtª 2590-041 SOBRAL MONTE AGRAÇO",
+ :name "Sobralense",
+ :href-id #uuid "9d64d4cb-8863-3553-99f4-cb4fcc2b6176",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Sobralense977.aspx",
+ :concelho "Sobral do Monte Agraço",
+ :nec 168,
+ :cp7 "2590-041",
+ :id #uuid "f273b323-3457-3553-88ff-2c1d210b0a7a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sobral%20Monte%20Agra%C3%A7o"}

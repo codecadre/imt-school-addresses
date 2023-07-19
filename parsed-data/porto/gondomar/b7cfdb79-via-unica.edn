@@ -1,0 +1,12 @@
+{:address "Rua Guerra Junqueiro, Nº 34-R/C 4510-575 FÂNZERES",
+ :name "Via Única",
+ :href-id #uuid "b7cfdb79-87ba-3e4c-9d5f-4f427f0210c1",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ViaUnica1056.aspx",
+ :concelho "Gondomar",
+ :nec 1076,
+ :cp7 "4510-575",
+ :id #uuid "17a10e09-7d1b-3d8a-84ba-1e13d9c42672",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Gondomar"}

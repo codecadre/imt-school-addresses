@@ -1,0 +1,13 @@
+{:address
+ "Rua Professor Francisco Corujo, n.º 162-A , 3830-523 Gafanha da Encarnação",
+ :name "Liceu",
+ :href-id #uuid "0ebb976c-378f-3407-a317-d93645b710c6",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Liceu.aspx",
+ :concelho "Ílhavo",
+ :nec 277,
+ :cp7 "3830-523",
+ :id #uuid "ec8b2b22-ac40-3324-ac3e-1c17dc7085f6",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Ilhavo"}

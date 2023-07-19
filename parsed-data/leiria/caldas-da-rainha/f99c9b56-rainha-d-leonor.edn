@@ -1,0 +1,13 @@
+{:address
+ "Avª Engº Luis Paiva e Sousa, Nº 22-B 2500-329 CALDAS DA RAINHA",
+ :name "Rainha D. Leonor",
+ :href-id #uuid "f99c9b56-1714-3977-a287-1044a90c315b",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RainhaDLeonor834.aspx",
+ :concelho "Caldas da Raínha",
+ :nec 1079,
+ :cp7 "2500-329",
+ :id #uuid "3b8e0ab2-f245-33f6-b500-47ce568b3dc5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Caldas%20da%20Rainha"}

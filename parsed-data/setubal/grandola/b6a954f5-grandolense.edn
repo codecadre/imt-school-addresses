@@ -1,0 +1,12 @@
+{:address "Avª António Inácio da Cruz, Nº 29/30 R/C 7570-270 GRÂNDOLA",
+ :name "Grandolense",
+ :href-id #uuid "b6a954f5-46b0-33e9-83f4-52a20f68ab68",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Grandolense496.aspx",
+ :concelho "Grândola",
+ :nec 106,
+ :cp7 "7570-270",
+ :id #uuid "d9885d1e-322d-30cd-bb14-c87a16a0ea15",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Grandola"}

@@ -1,0 +1,13 @@
+{:address
+ "Bairro Pôr do Sol, Bloco 14 B r/c 7500-190 VILA NOVA DE SANTO ANDRÉ",
+ :name "Miróbriga",
+ :href-id #uuid "6313d26e-1263-366c-882a-8a81667f8b67",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Mirobriga655.aspx",
+ :concelho "Santiago do Cacém",
+ :nec 920,
+ :cp7 "7500-190",
+ :id #uuid "4adeeec6-d7e9-3a44-83d3-6459ca215e4b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Santiago%20do%20Cac%C3%A9m"}

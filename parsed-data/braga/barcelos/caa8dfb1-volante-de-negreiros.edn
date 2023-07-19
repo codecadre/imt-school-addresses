@@ -1,0 +1,12 @@
+{:address "Av. das Barreiras, Nº 49 4750-732 TAMEL",
+ :name "Volante de Negreiros",
+ :href-id #uuid "caa8dfb1-2083-35fe-ba69-9aaceb0373c1",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/VolantedeNegreiros1083.aspx",
+ :concelho "Barcelos",
+ :nec 1058,
+ :cp7 "4750-732",
+ :id #uuid "20e71a5a-4ba9-3948-a333-d7f00b00e10f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Barcelos"}

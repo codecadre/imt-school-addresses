@@ -1,0 +1,12 @@
+{:address "Rua Pereira da Cunha, s/nº 4940-542 PAREDES DE COURA",
+ :name "Courense",
+ :href-id #uuid "dcd7a353-1920-3a06-b8ad-6455f5b16eb8",
+ :distrito "Viana do Castelo",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Courense344.aspx",
+ :concelho "Paredes de Coura",
+ :nec 317,
+ :cp7 "4940-542",
+ :id #uuid "31f11dd8-8ef7-33b5-b9a9-babba82a902a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=VianaCastelo&Concelho=Paredes%20de%20Coura"}

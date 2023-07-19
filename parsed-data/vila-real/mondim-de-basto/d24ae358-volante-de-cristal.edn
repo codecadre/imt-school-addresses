@@ -1,0 +1,12 @@
+{:address "Rua das Fontainhas n.º 267, r/c 4880-183 Mondim de Basto",
+ :name "Volante de Cristal",
+ :href-id #uuid "d24ae358-a80e-39e4-801a-e9678b71a6dc",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/VolantedeCristal.aspx",
+ :concelho "Mondim de Basto",
+ :nec 1442,
+ :cp7 "4880-183",
+ :id #uuid "b16b2fa6-4db7-3c28-a5a7-618aff5700ce",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Mondim%20Basto"}

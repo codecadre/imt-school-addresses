@@ -1,0 +1,12 @@
+{:address "Rua Pinto Bessa n.º 215, 4300-431 Porto",
+ :name "Campanhã",
+ :href-id #uuid "0e9e39db-34de-30ac-8a29-8c6ac6e0ca49",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Campanh%c3%a3.aspx",
+ :concelho "Porto",
+ :nec nil,
+ :cp7 "4300-431",
+ :id #uuid "7f7d57ec-c53d-3011-b080-285687e47e98",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

@@ -1,0 +1,13 @@
+{:address
+ "Avª Escola Secundária, Bloco 4-B, R/C Esq 3440-321 SANTA COMBA DÃO",
+ :name "Novo Rumo",
+ :href-id #uuid "1010d5b3-d851-386b-8ecb-ea5a2bab5bf7",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovoRumo726.aspx",
+ :concelho "Santa Comba Dão",
+ :nec 1023,
+ :cp7 "3440-321",
+ :id #uuid "a0c55e09-78cf-3370-a803-29f6facf2308",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Santa%20Comba%20D%C3%A3o"}

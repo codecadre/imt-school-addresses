@@ -1,0 +1,13 @@
+{:address
+ "Rua do Rei da Memória, S/N - Estrada Nacional 8/6 2475-149 BENEDITA",
+ :name "Cister",
+ :href-id #uuid "caabcb9e-d9bd-33c9-b3ae-7873e373ea40",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Cister316.aspx",
+ :concelho "Alcobaça",
+ :nec 867,
+ :cp7 "2475-149",
+ :id #uuid "f27c2f47-2b2a-3235-97b0-aeee2684f4e8",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Alcoba%C3%A7a"}

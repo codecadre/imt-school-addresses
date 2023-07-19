@@ -1,0 +1,12 @@
+{:address "Rua Dr. Eduardo Santos Silva, Nº 499 4200-248 PORTO",
+ :name "Areosa",
+ :href-id #uuid "ffbe847a-2807-36e1-b696-67186136353a",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Areosa118.aspx",
+ :concelho "Porto",
+ :nec 373,
+ :cp7 "4200-248",
+ :id #uuid "9eff6856-7528-3ae9-93fb-8d7b051d5cfc",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

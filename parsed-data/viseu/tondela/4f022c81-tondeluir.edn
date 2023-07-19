@@ -1,0 +1,13 @@
+{:address
+ "Av. Eng. Adelino Amaro da Costa - Lote 1 Lj. 844 3460-009 TONDELA",
+ :name "Tondeluir",
+ :href-id #uuid "4f022c81-f5f2-3cf3-9a9c-ae1f2bb7df39",
+ :distrito "Viseu",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Tondeluir1013.aspx",
+ :concelho "Tondela",
+ :nec 1188,
+ :cp7 "3460-009",
+ :id #uuid "59a34454-a3ea-3db4-8405-d22cc824bd55",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Tondela"}

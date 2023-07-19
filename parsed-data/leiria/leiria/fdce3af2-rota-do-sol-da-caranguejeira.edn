@@ -1,0 +1,12 @@
+{:address "Rua de São Cristóvão nº 16 r/c Esqº 2420-104 CARANGUEJEIRA",
+ :name "Rota do Sol da Caranguejeira",
+ :href-id #uuid "fdce3af2-4db2-3c98-ab61-2a3969384b99",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RotadoSoldaCaranguejeira873.aspx",
+ :concelho "Leiria",
+ :nec 1114,
+ :cp7 "2420-104",
+ :id #uuid "c3c3775b-72dd-3406-878a-2055c26fd77c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Leiria"}

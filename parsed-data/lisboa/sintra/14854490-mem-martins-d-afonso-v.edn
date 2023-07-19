@@ -1,0 +1,13 @@
+{:address
+ "Rua António Silva Nº 4, Loja A -Urb. S. Carlos 2725 -171 MEM MARTINS",
+ :name "Mem Martins – D. Afonso V",
+ :href-id #uuid "14854490-3dc4-347b-b953-161ff2b5e965",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/MemMartins%e2%80%93DAfonsoV640.aspx",
+ :concelho "Sintra",
+ :nec 895,
+ :cp7 "2725-171",
+ :id #uuid "92297790-d182-35d2-b9ce-89b2d302a4e5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"}

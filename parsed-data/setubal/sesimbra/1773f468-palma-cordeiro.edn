@@ -1,0 +1,13 @@
+{:address
+ "Rua Jaime Cortesão nº 53 r/c Dtº - Cova dos Vidros 2975-323 QUINTA DO CONDE",
+ :name "Palma Cordeiro",
+ :href-id #uuid "1773f468-5d50-33aa-a752-7361e4895d0a",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/PalmaCordeiro768.aspx",
+ :concelho "Sesimbra",
+ :nec 1037,
+ :cp7 "2975-323",
+ :id #uuid "38546458-0ba6-3113-be70-9f3ca35c476f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Sesimbra"}

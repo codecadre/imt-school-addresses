@@ -1,0 +1,12 @@
+{:address "Rua da Fraternidade, n.º40, Loja n.º 6, Tamel S. Veríssimo",
+ :name "Abreu",
+ :href-id #uuid "f7b01902-ca24-3df2-9744-2fce1a4f7bdb",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Abreu051.aspx",
+ :concelho "Barcelos",
+ :nec 789,
+ :cp7 nil,
+ :id #uuid "b52d04d9-5881-3905-8fc2-80556b28ce50",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Barcelos"}

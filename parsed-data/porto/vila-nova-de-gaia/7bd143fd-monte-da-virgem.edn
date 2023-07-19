@@ -1,0 +1,12 @@
+{:address "Rua do Agueiro, Nº 347, 4400-004 VILA NOVA DE GAIA",
+ :name "Monte da Virgem",
+ :href-id #uuid "7bd143fd-0236-3bd1-bd08-c375c1d0a5f5",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/MontedaVirgem671.aspx",
+ :concelho "Vila Nova de Gaia",
+ :nec 700,
+ :cp7 "4400-004",
+ :id #uuid "fe6ab35c-ff7c-3ece-a983-7215f428fcc5",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia"}

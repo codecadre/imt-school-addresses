@@ -1,0 +1,12 @@
+{:address "Av. Das Descobertas, Nº 6 2635-063 RIO DE MOURO",
+ :name "Rio de Mouro",
+ :href-id #uuid "312fe8ef-802f-335d-9ed2-9c36cc676c97",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RiodeMouro854.aspx",
+ :concelho "Sintra",
+ :nec 979,
+ :cp7 "2635-063",
+ :id #uuid "1823c1af-f1b7-38be-924c-7b90fe2320a9",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"}

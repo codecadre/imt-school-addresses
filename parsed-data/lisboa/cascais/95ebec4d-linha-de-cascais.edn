@@ -1,0 +1,12 @@
+{:address "Rua Athilio Santini, n.º 160, 2750-100 Cascais",
+ :name "Linha de Cascais",
+ :href-id #uuid "95ebec4d-af2c-3537-ab57-f4e7956d871f",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LinhadeCascais.aspx",
+ :concelho "Cascais",
+ :nec 1363,
+ :cp7 "2750-100",
+ :id #uuid "5b51ca4f-57c9-3717-b17d-34e4ff4cbd4c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Cascais"}

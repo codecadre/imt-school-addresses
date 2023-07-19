@@ -1,0 +1,12 @@
+{:address "Avª D. Nuno Álvares Pereira, 403-1º 4750-324 BARCELOS",
+ :name "Flor do Cávado",
+ :href-id #uuid "a9afe67b-d697-336e-805a-e700040e854d",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/FlordoCavado459.aspx",
+ :concelho "Barcelos",
+ :nec 488,
+ :cp7 "4750-324",
+ :id #uuid "2ce909ab-153b-3cd7-a4ae-5db9629b4025",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Barcelos"}

@@ -1,0 +1,13 @@
+{:address
+ "Estrada Nacional nº 11, nº 219 r/c 2835-024 BAIXA DA BANHEIRA",
+ :name "Além Rio",
+ :href-id #uuid "96cd635e-9cff-3f4b-ad11-70f158f7c4dc",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AlemRio077.aspx",
+ :concelho "Moita",
+ :nec 190,
+ :cp7 "2835-024",
+ :id #uuid "593bb178-21cd-3ce3-9c0f-e317357384df",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Moita"}

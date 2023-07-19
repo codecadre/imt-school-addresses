@@ -1,0 +1,12 @@
+{:address "Rua do Cónego Maio, Bloco 2, Nº8 - R/C 3800-089 AVEIRO",
+ :name "Sinal Vertical",
+ :href-id #uuid "51bc60b8-75bf-3166-94fa-065f0458a301",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SinalVertical974.aspx",
+ :concelho "Aveiro",
+ :nec 1198,
+ :cp7 "3800-089",
+ :id #uuid "aed706cb-a0cd-35e4-a29d-06766524c1f8",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Aveiro"}

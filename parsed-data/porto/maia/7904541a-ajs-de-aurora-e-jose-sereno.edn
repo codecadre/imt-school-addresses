@@ -1,0 +1,12 @@
+{:address "Travessa Nova da Giesta, Nº 333, 4425-672 MAIA",
+ :name "AJS de Aurora e José Sereno",
+ :href-id #uuid "7904541a-45fb-3c70-8d58-6df6580dd219",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AJSdeAuroraeJoseSereno065.aspx",
+ :concelho "Maia",
+ :nec 981,
+ :cp7 "4425-672",
+ :id #uuid "cfe56ea0-0615-3f2e-b0ed-a4949e84c3b1",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Maia"}

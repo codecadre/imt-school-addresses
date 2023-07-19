@@ -1,0 +1,12 @@
+{:address "Rua Bernardino Ribeiro, s/nª R/c 7580-033 ALCÁCER DO SAL",
+ :name "Alcacerense",
+ :href-id #uuid "9a2300e6-b79d-35cf-aa1f-a74b66b22d2a",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Alcacerense072.aspx",
+ :concelho "Alcácer do Sal",
+ :nec 122,
+ :cp7 "7580-033",
+ :id #uuid "a9119789-0c22-3544-b071-9b4a53919c33",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Alcacer%20do%20Sal"}

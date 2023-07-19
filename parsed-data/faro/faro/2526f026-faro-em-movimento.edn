@@ -1,0 +1,12 @@
+{:address "Rua Moto Clube de Faro, lote B 8000-123 Faro ",
+ :name "Faro em Movimento",
+ :href-id #uuid "2526f026-e047-3162-983e-4edcb052421c",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/FaroemMovimento.aspx",
+ :concelho "Faro",
+ :nec 1351,
+ :cp7 "8000-123",
+ :id #uuid "fdb01b30-9e7b-358c-90f1-7e17304c2057",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Faro"}

@@ -1,0 +1,13 @@
+{:address
+ "Avª General Norton de Matos, Nº 31 4700-387 BRAGA(São Vicente)",
+ :name "Bom Jesus",
+ :href-id #uuid "461543da-aa14-3dbf-a668-139080815db1",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/BomJesus254.aspx",
+ :concelho "Braga",
+ :nec 504,
+ :cp7 "4700-387",
+ :id #uuid "769fa585-319e-3bb9-9edd-e1cf84e5217b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Braga"}

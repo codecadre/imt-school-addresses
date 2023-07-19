@@ -1,0 +1,12 @@
+{:address "Rua Nova, Nº 73-A 3240-326 AVELAR",
+ :name "Avelar",
+ :href-id #uuid "d2076640-7268-3709-8430-291e4e21c996",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Avelar203.aspx",
+ :concelho "Ansião",
+ :nec 1208,
+ :cp7 "3240-326",
+ :id #uuid "3b848fe4-3676-3762-933a-c721982ffbc6",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Ansi%C3%A3o"}

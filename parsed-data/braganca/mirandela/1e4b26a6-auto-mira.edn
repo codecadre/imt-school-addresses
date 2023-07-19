@@ -1,0 +1,13 @@
+{:address
+ "Avª Varandas do Tua, Lote 7/8 - 1º -Loja 1 5370-212 MIRANDELA",
+ :name "Auto Mira",
+ :href-id #uuid "1e4b26a6-8f67-33bb-bbf1-71c287e14f63",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutoMira166.aspx",
+ :concelho "Mirandela",
+ :nec 1057,
+ :cp7 "5370-212",
+ :id #uuid "4ab9cfe7-f0d8-3a3c-afec-cf0a033c65a0",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Mirandela"}

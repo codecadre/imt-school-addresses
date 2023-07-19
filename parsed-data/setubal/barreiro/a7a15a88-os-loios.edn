@@ -1,0 +1,12 @@
+{:address "Praceta dos Loios, Nº 5 B 2830 BARREIRO",
+ :name "Os Loios",
+ :href-id #uuid "a7a15a88-1a42-30b4-a3cd-ca5532fcc2ef",
+ :distrito "Setúbal",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/OsLoios755.aspx",
+ :concelho "Barreiro",
+ :nec 1031,
+ :cp7 "2830",
+ :id #uuid "3345eee1-820b-3da2-9256-c398c79e9ec1",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Setubal&Concelho=Barreiro"}

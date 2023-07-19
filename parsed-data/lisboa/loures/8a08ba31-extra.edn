@@ -1,0 +1,13 @@
+{:address
+ "Praceta Manuel Fialho, Torre 1, Loja Dtª 2660-460 SANTO ANTÓNIO dos CAVALEIROS",
+ :name "Extra",
+ :href-id #uuid "8a08ba31-63e9-3b4c-8be7-bd0565d9c301",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Extra438.aspx",
+ :concelho "Loures",
+ :nec 614,
+ :cp7 "2660-460",
+ :id #uuid "769fe2bc-1822-3bd5-b269-420dde91ab00",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Loures"}

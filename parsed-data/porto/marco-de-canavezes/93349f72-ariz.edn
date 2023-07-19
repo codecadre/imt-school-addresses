@@ -1,0 +1,13 @@
+{:address
+ "Lugar de Lamoso-Urbanizaçâo Lameu 4625-110 S.PAIO de FAVÕES",
+ :name "Ariz",
+ :href-id #uuid "93349f72-301c-3e90-b6ab-e65d996a8b17",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Ariz121.aspx",
+ :concelho "Marco de Canavezes",
+ :nec 1154,
+ :cp7 "4625-110",
+ :id #uuid "6bb65a6a-0b22-3bbd-813b-7b111d83f694",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Marco%20Canavezes"}

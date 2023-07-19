@@ -1,0 +1,13 @@
+{:address
+ "Rua Comendador Silva, n.º 45, R/c, 5450-011 Vila Pouca de Aguiar",
+ :name "Prova Real - Mondim de Basto",
+ :href-id #uuid "81df006b-d305-38a4-861a-c07252fe6f0c",
+ :distrito "Vila Real",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ProvaRealMondimdeBasto823.aspx",
+ :concelho "Vila Pouca de Aguiar",
+ :nec 765,
+ :cp7 "5450-011",
+ :id #uuid "c9d78977-4f4a-3abe-9ffa-812577c06a76",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Vila%20Pouca%20Aguiar"}

@@ -1,0 +1,13 @@
+{:address
+ "Rua Nova de Stª Cruz nº 26, Loja 7 4710-409 BRAGA (S. VICTOR)",
+ :name "Bela Vista - Braga",
+ :href-id #uuid "7ec3ab11-61e3-3ff4-9636-c6cb10b94743",
+ :distrito "Braga",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/BelaVistaBraga238.aspx",
+ :concelho "Braga",
+ :nec 748,
+ :cp7 "4710-409",
+ :id #uuid "773f0fe4-18ab-3ef9-9214-ba928ec1c0dc",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braga&Concelho=Braga"}
