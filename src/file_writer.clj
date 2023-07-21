@@ -91,4 +91,6 @@
 
   (tasks/shell "git add parsed-data/*")
 
+  (stats)
+
   (spit "last-fetch.txt" (.getTime now)))
