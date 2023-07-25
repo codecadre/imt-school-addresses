@@ -1,0 +1,13 @@
+{:address
+ "Avenida Comandante Xavier Gomes da Gama, Lote 3 A 3060-184 Cantanhede",
+ :name "4Drive",
+ :href-id #uuid "8450efd7-c752-3701-a252-cbe90317fe7b",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/4Drive.aspx",
+ :concelho "Cantanhede",
+ :nec 1465,
+ :cp7 "3060-184",
+ :id #uuid "bc8b7433-8dbe-370f-ad7a-7a15e51f1f21",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=Cantanhede"}

@@ -1,5 +1,6 @@
 {:address
  "Rua Diogo Botelho, n.º 1916 – Frações C e D, 4150-261 Porto",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "75AGV",
  :href-id #uuid "edc82326-b30b-3fc7-97fe-4ee670be191b",
  :distrito "Porto",

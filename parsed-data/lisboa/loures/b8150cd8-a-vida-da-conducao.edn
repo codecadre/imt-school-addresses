@@ -1,5 +1,6 @@
 {:address
  "Praceta Soeiro Pereira Gomes, n.º 3 e n.º 3 A ; 2695-074 Bobadela",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "A Vida da Condução",
  :href-id #uuid "b8150cd8-27f2-3f87-89b5-9234c68b1fde",
  :distrito "Lisboa",

@@ -1,4 +1,5 @@
 {:address "Praça D. Dinis n º 61 r/c 5360-377 VILA FLOR",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Carlos Vaz",
  :href-id #uuid "dc55446b-85c4-38a1-a16b-430305512f79",
  :distrito "Bragança",

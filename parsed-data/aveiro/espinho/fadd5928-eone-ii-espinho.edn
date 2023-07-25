@@ -1,0 +1,12 @@
+{:address "Rua 21, n.º 410; 4520-258 Espinho",
+ :name "EONE II - Espinho",
+ :href-id #uuid "fadd5928-adbb-36b4-9196-253b2360f09c",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ADesportivaEspinho011.aspx",
+ :concelho "Espinho",
+ :nec 463,
+ :cp7 "4520-258",
+ :id #uuid "b1ab09af-6865-3b36-8e46-af62cd33d0c8",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Espinho"}

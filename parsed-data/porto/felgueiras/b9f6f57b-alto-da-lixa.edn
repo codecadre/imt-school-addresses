@@ -1,5 +1,6 @@
 {:address
  "Avª Alto da Lixa, Nº 1606-Fracção D 4615-483 VILA COVA da LIXA",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Alto da Lixa",
  :href-id #uuid "b9f6f57b-a488-3fa2-9d5b-daeee2f98b5d",
  :distrito "Porto",

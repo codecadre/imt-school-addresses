@@ -1,0 +1,13 @@
+{:address
+ "Edifício Milénio, Rua da Indústria/Avenida de Coimbra, n.º 3, 3420-314 Tábua",
+ :name "Arede",
+ :href-id #uuid "e21a9cab-c572-38ed-8013-3673ba522cd0",
+ :distrito "Coimbra",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Arede.aspx",
+ :concelho "Tábua",
+ :nec 1415,
+ :cp7 "3420-314",
+ :id #uuid "9cff1b95-2cb5-3d32-90c5-82e1672ad19f",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Coimbra&Concelho=T%C3%A1bua"}

@@ -1,0 +1,12 @@
+{:address "Rua do Rosário, 5 – 2º 4050-523 PORTO",
+ :name "EONE I - Porto",
+ :href-id #uuid "7604ef07-4e78-3dfb-81e0-0be3c6ee9fbf",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/ADesportiva%e2%80%93Palacio013.aspx",
+ :concelho "Porto",
+ :nec 464,
+ :cp7 "4050-523",
+ :id #uuid "d4431d75-cb03-32c9-a4be-9f94c723c938",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

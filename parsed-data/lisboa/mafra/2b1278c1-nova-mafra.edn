@@ -1,0 +1,12 @@
+{:address "Av. Drº Francisco Sá Carneiro, nº 12, 2640-486 Mafra",
+ :name "Nova Mafra",
+ :href-id #uuid "2b1278c1-16b6-32b5-ba9d-10690e064411",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Instrucoop560.aspx",
+ :concelho "Mafra",
+ :nec 378,
+ :cp7 "2640-486",
+ :id #uuid "b356acea-dff4-3f3c-b7c7-8ff2078f4e3c",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Mafra"}

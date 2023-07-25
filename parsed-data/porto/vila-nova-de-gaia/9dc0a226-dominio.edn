@@ -1,0 +1,13 @@
+{:address
+ "Rua Florbela Espanca, n.º 94, r/c, 4405-859 Vila Nova de Gaia",
+ :name "Domínio",
+ :href-id #uuid "9dc0a226-8ddd-37cf-9a59-4a2447041554",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Dom%c3%adnio.aspx",
+ :concelho "Vila Nova de Gaia",
+ :nec 1461,
+ :cp7 "4405-859",
+ :id #uuid "8a1a074d-2007-3385-987d-db79c02b72c4",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Nova%20Gaia"}

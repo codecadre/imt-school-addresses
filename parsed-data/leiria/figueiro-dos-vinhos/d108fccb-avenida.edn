@@ -1,0 +1,12 @@
+{:address "Rua Bombeiros Voluntários, n.º 26 B, 3260-023 Aguda",
+ :name "Avenida",
+ :href-id #uuid "d108fccb-8fae-3b7c-81db-586f40d78911",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Avenida204.aspx",
+ :concelho "Figueiró dos Vinhos",
+ :nec 628,
+ :cp7 "3260-023",
+ :id #uuid "386caf2a-b1ac-3520-934a-bac1ad4d0e4a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Figueir%C3%B3%20dos%20Vinhos"}

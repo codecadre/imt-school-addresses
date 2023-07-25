@@ -1,0 +1,13 @@
+{:address
+ "Rua General Amílcar Mota, n.º 21 ; 2500-209 Caldas da Rainha",
+ :name "Prestige",
+ :href-id #uuid "dc7a4a61-25ea-3ea5-910d-0823421fc746",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Prestige.aspx",
+ :concelho "Caldas da Raínha",
+ :nec 1314,
+ :cp7 "2500-209",
+ :id #uuid "d3431f0e-3ea9-39bc-9409-18ad609a8abc",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Caldas%20da%20Rainha"}

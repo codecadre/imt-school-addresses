@@ -1,4 +1,5 @@
 {:address "Rua D. Carlos Mascarenhas, n.º 76 – A 1070-083 Lisboa",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Escola de Condução Automóvel",
  :href-id #uuid "a48f4848-5895-3a3f-9642-cdcd2798851f",
  :distrito "Lisboa",

@@ -11,7 +11,7 @@
 (require
  '[pod.retrogradeorbit.bootleg.utils :as bootleg])
 
-(def d (-> "./hrefs.json"
+(def d (-> "./temp/hrefs.json"
            slurp
            (json/parse-string true)))
 
@@ -48,19 +48,20 @@
 
 (def results (atom []))
 
-(doseq [s d]
-  (swap! results conj (merge s
-                             (-> s
-                                 :school-href
-                                 href->hc!
-                                 hiccup->school-raw)))
-  (println "processed " (count @results) " schools.")
-  (Thread/sleep (int (util/rand-int-from-to 500 1000))))
+(defn -main []
+  (doseq [s d]
+    (swap! results conj (merge s
+                               (-> s
+                                   :school-href
+                                   href->hc!
+                                   hiccup->school-raw)))
+    (println "processed " (count @results) " schools.")
+    (Thread/sleep (int (util/rand-int-from-to 500 1000))))
 
-(def sorted-data
-    (->> @results
-         (sort-by :school-href)
-         (sort-by :concelho)
-         (sort-by :distrito)))
+  (let [sorted-data
+        (->> @results
+             (sort-by :school-href)
+             (sort-by :concelho)
+             (sort-by :distrito))]
 
-(spit "./schools.edn" (with-out-str (pprint/pprint sorted-data)))
+    (spit "./temp/schools.edn" (with-out-str (pprint/pprint sorted-data)))))

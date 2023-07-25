@@ -1,0 +1,13 @@
+{:address
+ "n.º 1459, sita na Urbanização Quinta da Ouriva, Lote 3, Loja 5",
+ :name "Escola de Condução Sempremcírculo",
+ :href-id #uuid "f9cf72b4-8447-3190-9dea-5617af3d048f",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeConducaoSempremcirculo.aspx",
+ :concelho "Portimão",
+ :nec nil,
+ :cp7 "1459",
+ :id #uuid "a72d91bb-499b-3355-b620-c8e1d8b2c45e",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Portim%C3%A3o"}

@@ -1,0 +1,13 @@
+{:address
+ "Rua da Circunvalação, N.º 29-urb. Alto dos Mealheiros - Bº Estacal Novo -2690-214 Santa Iria da Azóia",
+ :name "Salvaterra",
+ :href-id #uuid "5dd574f0-fd31-3cb2-b5d2-69d7c903c50c",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Salvaterra908.aspx",
+ :concelho "Loures",
+ :nec 598,
+ :cp7 "2690-214",
+ :id #uuid "f3243f23-f34f-3e94-8b59-9ad070d30b78",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Loures"}

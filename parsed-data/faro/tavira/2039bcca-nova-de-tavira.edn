@@ -1,0 +1,12 @@
+{:address "Rua Álvaro de Campos, n.º 19 A, 8800-320 Tavira",
+ :name "Nova de Tavira",
+ :href-id #uuid "2039bcca-0a2b-3ff5-a956-d24e9d85fa1a",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovadeTavira.aspx",
+ :concelho "Tavira",
+ :nec 1462,
+ :cp7 "8800-320",
+ :id #uuid "02202da4-9005-3e24-bcfc-2e5ac58c399b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Tavira"}

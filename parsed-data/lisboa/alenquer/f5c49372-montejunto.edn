@@ -1,0 +1,13 @@
+{:address
+ "Rua 25 de abril, n.º 33 A, 2580-087 Aldeia Galega da Merceana",
+ :name "Montejunto",
+ :href-id #uuid "f5c49372-ad49-3db3-ad0c-505d5f6e718a",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Montejunto.aspx",
+ :concelho "Alenquer",
+ :nec 1287,
+ :cp7 "2580-087",
+ :id #uuid "47d65856-7ba4-39fb-b2f8-1bb6f683e5df",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Alenquer"}

@@ -5,8 +5,8 @@
  :imt-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/DChama353.aspx",
  :concelho "Valpaços",
- :nec 131,
+ :nec 1057,
  :cp7 "5430-426",
- :id #uuid "86166ec4-67dc-3dc3-b991-6997e76d9399",
+ :id #uuid "84836e2b-1c1f-3190-b2c9-2e79ee69ea29",
  :concelho-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=vilareal&Concelho=Valpa%C3%A7os"}

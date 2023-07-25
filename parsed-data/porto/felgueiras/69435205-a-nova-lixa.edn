@@ -1,0 +1,13 @@
+{:address
+ "Largo Dr. Eduardo de Freitas - Edificio Jradim 4615-623 VILA COVA da LIXA",
+ :name "A Nova Lixa",
+ :href-id #uuid "69435205-0e03-37c8-a572-751073cc99d0",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Sampaio914.aspx",
+ :concelho "Felgueiras",
+ :nec 574,
+ :cp7 "4615-623",
+ :id #uuid "1f205c01-2766-3f89-8fd2-38568a229017",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Felgueiras"}

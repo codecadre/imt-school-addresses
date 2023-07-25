@@ -1,0 +1,13 @@
+{:address
+ "Avenida Dr. Belchior Cardoso da Costa, n.º 35, 4520-152 Santa Maria da Feira",
+ :name "Safira",
+ :href-id #uuid "35c07c0d-6089-3fee-b13a-256fdf31186b",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Safira.aspx",
+ :concelho "Santa Maria da Feira",
+ :nec 1460,
+ :cp7 "4520-152",
+ :id #uuid "4fb04e86-c3ff-3691-a8ea-1d59fe6e757d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Santa%20Maria%20da%20Feira"}

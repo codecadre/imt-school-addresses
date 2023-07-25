@@ -1,4 +1,4 @@
-{:address "Rua Francisco Antunes, Nº 1 2565 – 031 CAMPELOS",
+{:address "Rua das Malhadinhas, Nº 1 - 2565-037 Campelos",
  :name "Campelos",
  :href-id #uuid "89385186-ee57-360f-ab5e-6cd6dfd4d25f",
  :distrito "Lisboa",
@@ -6,7 +6,7 @@
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Campelos273.aspx",
  :concelho "Torres Vedras",
  :nec 758,
- :cp7 "2565",
- :id #uuid "dad8f8f3-6392-37f4-a686-001fadf0543f",
+ :cp7 "2565-037",
+ :id #uuid "aa9269aa-8b11-3738-b752-c0b2f234c1a6",
  :concelho-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Torres%20Vedras"}

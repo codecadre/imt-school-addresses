@@ -1,4 +1,4 @@
-{:address "Rua dos Pescadores, 19 - Vila do Conde",
+{:address "Rua dos Pescadores n.º 19, 4480-804 Vila do Conde",
  :name "Sousa & Batista",
  :href-id #uuid "ed1bf09b-0b65-307b-b5ab-dc7e84215c1f",
  :distrito "Porto",
@@ -6,7 +6,7 @@
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SousaBatista.aspx",
  :concelho "Vila do Conde",
  :nec 851,
- :cp7 nil,
- :id #uuid "f4690224-a11b-3a2d-ae74-5875a4b1dcb0",
+ :cp7 "4480-804",
+ :id #uuid "a2b416ef-5168-387f-84e7-f017b30ff2d3",
  :concelho-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Vila%20Conde"}

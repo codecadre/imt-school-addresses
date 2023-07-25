@@ -4,9 +4,9 @@
  :distrito "Lisboa",
  :imt-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Azambuja207.aspx",
- :concelho "Lisboa",
+ :concelho "Azambuja",
  :nec 233,
  :cp7 "2050-356",
  :id #uuid "4673afd0-c798-3089-9a6b-0dfe354b491c",
  :concelho-href
- "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Azambuja"}

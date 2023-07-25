@@ -29,6 +29,4 @@
                                                    "schools.edn")))
                      (run 'cleanup)
                      (run 'file-writer)
-                     (run 'add-parsed-data)
-                     (run 'stats)
                      #_(println "No new schools"))}}}

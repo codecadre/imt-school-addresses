@@ -1,0 +1,13 @@
+{:address
+ "Estrada Nacional 125, Fonte de Boliqueime, Nº 66, 8100-069 BOLIQUEIME",
+ :name "Boliqueime",
+ :href-id #uuid "ede7f2ed-af02-398f-82d7-06ed12042f62",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Boliqueime.aspx",
+ :concelho "Loulé",
+ :nec 1081,
+ :cp7 "8100-069",
+ :id #uuid "8ca014b5-1108-3368-ae12-16be64246232",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Loul%C3%A9"}

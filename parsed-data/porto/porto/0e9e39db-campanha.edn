@@ -5,8 +5,8 @@
  :imt-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Campanh%c3%a3.aspx",
  :concelho "Porto",
- :nec nil,
+ :nec 297,
  :cp7 "4300-431",
- :id #uuid "7f7d57ec-c53d-3011-b080-285687e47e98",
+ :id #uuid "1cf69171-f786-3787-b9c1-7708d712da1f",
  :concelho-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

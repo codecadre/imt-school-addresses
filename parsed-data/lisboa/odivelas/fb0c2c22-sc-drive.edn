@@ -1,0 +1,12 @@
+{:address "Rua Heróis de Mucaba, n.º 20, 1675-124 Pontinha",
+ :name "SC Drive",
+ :href-id #uuid "fb0c2c22-7a25-3c00-9606-30b0d9b3e29a",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/SCDrive.aspx",
+ :concelho "Odivelas",
+ :nec 1463,
+ :cp7 "1675-124",
+ :id #uuid "70886138-605d-3d21-a243-abf554b0989e",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Odivelas"}

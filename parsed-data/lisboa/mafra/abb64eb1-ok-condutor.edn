@@ -1,0 +1,12 @@
+{:address "Rua Almirante Gago Coutinho n.º 14 Mafra",
+ :name "OK Condutor",
+ :href-id #uuid "abb64eb1-d043-3530-a3db-9edaecc18000",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/HomemCristo.aspx",
+ :concelho "Mafra",
+ :nec 1426,
+ :cp7 nil,
+ :id #uuid "9106600b-72ba-3676-8ccb-860fdd61a761",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Mafra"}

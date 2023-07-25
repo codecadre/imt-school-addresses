@@ -1,0 +1,13 @@
+{:address
+ "Rua Cidade de Abrantes, 23 - Santo Onofre, 2500-146 Caldas da Rainha",
+ :name "Oeste",
+ :href-id #uuid "caa2ffd7-6373-36c7-aafd-dd575917eafd",
+ :distrito "Leiria",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Oeste740.aspx",
+ :concelho "Caldas da Raínha",
+ :nec 1064,
+ :cp7 "2500-146",
+ :id #uuid "9bd8071f-5109-308a-a777-48d1cd8b357d",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Leiria&Concelho=Caldas%20da%20Rainha"}

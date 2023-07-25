@@ -1,0 +1,13 @@
+{:address
+ "Estrada Nacional 1, Edifício das Lages r/c BD, Malaposta, 3780- 294 Anadia",
+ :name "Red Line Malaposta",
+ :href-id #uuid "6b540a20-8405-31e5-97ed-ec446d585b06",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/RedLineMalaposta.aspx",
+ :concelho "Anadia",
+ :nec 1466,
+ :cp7 "3780-294",
+ :id #uuid "977cc531-b944-3258-a78e-d3f9d5e1a612",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=Anadia"}

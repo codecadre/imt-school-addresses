@@ -1,4 +1,5 @@
 {:address "Rua do Rosário, 5 – 2º 4050-523 PORTO",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "A Desportiva – Palácio",
  :href-id #uuid "7604ef07-4e78-3dfb-81e0-0be3c6ee9fbf",
  :distrito "Porto",

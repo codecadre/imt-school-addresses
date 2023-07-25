@@ -1,4 +1,5 @@
 {:address "Av. Cidade de Aveiro, Lote 7 r/c 3510-720 VISEU",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Visiense",
  :href-id #uuid "92fdf89d-f0b8-3f38-83b9-27752edbb9a6",
  :distrito "Viseu",

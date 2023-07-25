@@ -1,0 +1,12 @@
+{:address "Av. 1º de Novembro, nº 38, 2665-378 Milharado",
+ :name "Good",
+ :href-id #uuid "9a942947-d8cc-362d-b515-dd80a3e6268e",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Good.aspx",
+ :concelho "Mafra",
+ :nec 1052,
+ :cp7 "2665-378",
+ :id #uuid "55c5d233-25da-3eea-84ac-f21247693a71",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Mafra"}

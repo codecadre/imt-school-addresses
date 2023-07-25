@@ -1,5 +1,4 @@
-{:address
- "Estrada de Arcena, lote 22 loja Dtª 2615 ALVERCA DO RIBATEJO",
+{:address "Rua dos Combatentes , nº 1 2615-329 Alverca do Ribatejo",
  :name "Gago Coutinho",
  :href-id #uuid "fabf4314-dd79-3ddf-a150-a2787ec4537c",
  :distrito "Lisboa",
@@ -7,7 +6,7 @@
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/GagoCoutinho478.aspx",
  :concelho "Vila Franca de Xira",
  :nec 888,
- :cp7 "2615",
- :id #uuid "a0dfdf12-df80-396e-b3e3-eb1e23b4c862",
+ :cp7 "2615-329",
+ :id #uuid "0dec93c2-879a-3e09-a297-754d4a911bce",
  :concelho-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Vila%20Franca%20Xira"}
