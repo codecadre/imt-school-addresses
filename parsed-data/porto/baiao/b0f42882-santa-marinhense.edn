@@ -1,4 +1,5 @@
 {:address "Lugar da Portela, Fracções D e E 4640-264 GOVE",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Santa Marinhense",
  :href-id #uuid "b0f42882-3bb8-39bf-b959-592f8dd6c60d",
  :distrito "Porto",

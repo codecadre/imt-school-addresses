@@ -1,0 +1,13 @@
+{:address
+ "Rua Fernão de Magalhães, galerias Valmor, S. Domingos de Rana",
+ :name "Egas Moniz",
+ :href-id #uuid "1e755838-c65b-38fd-ba1d-d0516dc88235",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EgasMoniz402.aspx",
+ :concelho "Cascais",
+ :nec 873,
+ :cp7 nil,
+ :id #uuid "2a4a054a-49dd-3299-a42c-b98f07291369",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Cascais"}

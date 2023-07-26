@@ -1,0 +1,13 @@
+{:address
+ "Rua Diogo Botelho, n.º 1916 – Frações C e D, 4150-261 Porto",
+ :name "AGV Porto",
+ :href-id #uuid "e2d192f9-2f19-38bc-b73e-5e53ee759e59",
+ :distrito "Porto",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AGVPorto.aspx",
+ :concelho "Porto",
+ :nec 1410,
+ :cp7 "4150-261",
+ :id #uuid "1f203483-0dd3-3821-893a-20665bf96d84",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"}

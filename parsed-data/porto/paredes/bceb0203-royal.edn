@@ -6,8 +6,8 @@
  :imt-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Royal.aspx",
  :concelho "Paredes",
- :nec nil,
+ :nec 1417,
  :cp7 "4580-294",
- :id #uuid "85b9c656-e409-38cc-a8fa-9d1a39713ae0",
+ :id #uuid "f537c45d-d0aa-3cb4-843b-33af227d7919",
  :concelho-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Paredes"}

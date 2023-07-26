@@ -1,4 +1,5 @@
 {:address "Avenida 25 de Abril, n.º 19 5430-420 Valpaços",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Ponto de Partida",
  :href-id #uuid "c7d6eb8d-b69f-3d10-9d40-11dc8d90091e",
  :distrito "Vila Real",

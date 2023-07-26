@@ -1,0 +1,12 @@
+{:address "Rua de Mem Martins, Nº 178, 2725-079 Algueirão-Mem Martins",
+ :name "Columbano",
+ :href-id #uuid "0bc90421-747d-3135-88ae-5b80cb35e15e",
+ :distrito "Lisboa",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Columbano_.aspx",
+ :concelho "Sintra",
+ :nec 964,
+ :cp7 "2725-079",
+ :id #uuid "9bd41efb-0817-3f25-b253-8784ac1d8a7a",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Sintra"}

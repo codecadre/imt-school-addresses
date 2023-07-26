@@ -1,5 +1,4 @@
-{:address
- "Travessa General Vitorino Laranjeiro, n.º 47; 4600-018 Amarante (São Gonçalo)",
+{:address "Rua Mário Cal Brandão, Fracção B N.º 234",
  :name "Seven",
  :href-id #uuid "08a6a819-e3a0-33eb-9c45-249429e3cb00",
  :distrito "Porto",
@@ -7,7 +6,7 @@
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Seven.aspx",
  :concelho "Amarante",
  :nec 1294,
- :cp7 "4600-018",
- :id #uuid "be2a7ab7-8871-3a27-a9a3-a0ecd60c1555",
+ :cp7 nil,
+ :id #uuid "e921bbf5-5e96-3125-96b0-2ceed73a123f",
  :concelho-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Amarante"}

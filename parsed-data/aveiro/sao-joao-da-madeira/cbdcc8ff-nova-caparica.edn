@@ -1,5 +1,6 @@
 {:address
  "Avenida Dr. Renato Araújo, 2038, 3700-241 São João da Madeira",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Nova Caparica",
  :href-id #uuid "cbdcc8ff-e14a-3305-8694-ba334a7ada65",
  :distrito "Aveiro",

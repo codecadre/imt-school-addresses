@@ -1,5 +1,6 @@
 {:address
  "Largo Dr. Eduardo de Freitas - Edificio Jradim 4615-623 VILA COVA da LIXA",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Sampaio",
  :href-id #uuid "69435205-0e03-37c8-a572-751073cc99d0",
  :distrito "Porto",

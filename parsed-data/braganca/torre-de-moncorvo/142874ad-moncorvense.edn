@@ -1,0 +1,12 @@
+{:address "Rua dos Palheiros - Torre de Moncorvo",
+ :name "Moncorvense",
+ :href-id #uuid "142874ad-ad03-3e49-b427-bc1568f0795c",
+ :distrito "Bragança",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Mogadourense662.aspx",
+ :concelho "Torre de Moncorvo",
+ :nec 1201,
+ :cp7 nil,
+ :id #uuid "f0a2f0e2-98af-36d0-aedc-7844b4c65152",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Torre%20de%20Moncorvo"}

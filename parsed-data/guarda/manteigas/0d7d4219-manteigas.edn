@@ -1,4 +1,5 @@
 {:address "Rua do Colégio, nº 4 6260-000 MANTEIGAS",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Manteigas",
  :href-id #uuid "0d7d4219-0cfb-3e15-850e-b03ed374fbfa",
  :distrito "Guarda",

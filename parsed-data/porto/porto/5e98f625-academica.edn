@@ -1,4 +1,5 @@
 {:address "Rua da Fábrica, 65-2º 4050-247 PORTO",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Académica",
  :href-id #uuid "5e98f625-f99d-3161-95e0-ddc9476aa369",
  :distrito "Porto",

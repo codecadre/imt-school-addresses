@@ -1,5 +1,6 @@
 {:address
  "Avª Engº Luis Paiva e Sousa, Nº 22-B 2500-329 CALDAS DA RAINHA",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Rainha D. Leonor",
  :href-id #uuid "f99c9b56-1714-3977-a287-1044a90c315b",
  :distrito "Leiria",

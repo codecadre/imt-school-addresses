@@ -6,8 +6,8 @@
  :imt-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/AutoMira166.aspx",
  :concelho "Mirandela",
- :nec 1057,
+ :nec 651,
  :cp7 "5370-212",
- :id #uuid "4ab9cfe7-f0d8-3a3c-afec-cf0a033c65a0",
+ :id #uuid "0b843bd5-0f73-3e37-b21f-81c54ba6d00f",
  :concelho-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Braganca&Concelho=Mirandela"}

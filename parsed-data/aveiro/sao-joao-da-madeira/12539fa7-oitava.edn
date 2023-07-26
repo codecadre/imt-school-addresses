@@ -1,0 +1,13 @@
+{:address
+ "Avenida Dr. Renato Araújo, 2038, 3700-241 São João da Madeira",
+ :name "Oitava",
+ :href-id #uuid "12539fa7-0535-3ae0-9eb6-08e460391239",
+ :distrito "Aveiro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/Oitava.aspx",
+ :concelho "São João da Madeira",
+ :nec 1291,
+ :cp7 "3700-241",
+ :id #uuid "68f7d4dc-29e0-34d9-a902-30cad494711b",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Aveiro&Concelho=S.%20Jo%C3%A3o%20da%20Madeira"}

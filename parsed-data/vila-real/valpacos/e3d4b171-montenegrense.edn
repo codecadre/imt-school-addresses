@@ -1,5 +1,6 @@
 {:address
  "Bairro da Igreja, Lote 3 R/C Dtº 5445-101 CARRAZEDO MONTENEGRO",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Montenegrense",
  :href-id #uuid "e3d4b171-9e4f-307d-8dd7-b8795e303b43",
  :distrito "Vila Real",

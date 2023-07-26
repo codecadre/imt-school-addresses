@@ -1,4 +1,5 @@
 {:address "Rua Tomé Adelino Vidigal, 14 - 7050 - MONTEMOR-O-NOVO",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Pero Rodrigues",
  :href-id #uuid "80fdf6fc-a57c-33cc-b13c-8328baaf5293",
  :distrito "Évora",

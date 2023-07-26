@@ -1,0 +1,12 @@
+{:address "n.º 1458 Rua Poeta António Aleixo, n.º 63 A 8005-173 Faro",
+ :name "Escola de Condução Montenegro em Movimento",
+ :href-id #uuid "77dc4073-fac2-3608-9aac-ede10c52af34",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/EscoladeConducaoMontenegroemMovimento.aspx",
+ :concelho "Faro",
+ :nec nil,
+ :cp7 "8005-173",
+ :id #uuid "60053389-c854-35f9-a537-940a96f3bddb",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Faro"}

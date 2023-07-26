@@ -1,5 +1,6 @@
 {:address
  "Rua dos Pescadores, 19 na Freguesia de VILA DO CONDE, Concelho de VILA DO CONDE e Distrito de PORTO",
+ :archived-last-seen-at "2022-05-07T14:52:45Z",
  :name "Escola de Condução SOUSA & BATISTA",
  :href-id #uuid "b3a994f0-e8f0-3182-9f0a-4e3acc2f3d6e",
  :distrito "Porto",

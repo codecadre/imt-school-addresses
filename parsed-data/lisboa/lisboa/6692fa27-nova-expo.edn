@@ -1,5 +1,4 @@
-{:address
- "Avª D. João II, Edificio Gil Eanes, Lote 1,13,03, Fracção H 1900-123 LISBOA",
+{:address "Av. D. João II Lote 1.06.2.1 Fração AR, 1990-095 de Lisboa",
  :name "Nova Expo",
  :href-id #uuid "6692fa27-e97e-392d-9e87-a2d9a3498f8d",
  :distrito "Lisboa",
@@ -7,7 +6,7 @@
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/NovaExpo711.aspx",
  :concelho "Lisboa",
  :nec 1254,
- :cp7 "1900-123",
- :id #uuid "89723612-1f5f-364e-ac0e-fd32cf62ca49",
+ :cp7 "1990-095",
+ :id #uuid "6b8c1966-cb87-3067-87dc-dff637b13ead",
  :concelho-href
  "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"}
