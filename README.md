@@ -91,6 +91,10 @@ In some cases, information on the IMT school profile might not be accurate, for 
 
 - [Lago Azul](https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LagoAzul%e2%80%93FigueirodosVinhos588.aspx) zip code: `3620` should be `3260`.
 
+## Duplicates
+
+
+`duplicates.txt` is a list of *active* schools with the same license number, meaning, duplicates in the last snapshot. 
 ## Background
 
 This was originally done for [passaprimeira.xyz](https://www.passaprimeira.xyz).
