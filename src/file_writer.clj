@@ -38,13 +38,17 @@
   (filter #(< (-> % fs/last-modified-time fs/file-time->millis) (.getTime now)) (all-parsed-files)))
 
 (defn add-archived-last-seen-at-key []
-  (let [files (deleted-files)]
+  (let [files (deleted-files)
+        counter (atom 0)]
     (doseq [deleted-file files]
       (let [filepath (str deleted-file)
-            data (read-string (slurp filepath))
-            data (assoc data :archived-last-seen-at (str (fs/file-time->instant (fs/millis->file-time last-fetch-at-millis))))]
-        (spit filepath (with-out-str (pprint data)))))
-    (println "Archived: " (count files))))
+            data-before (read-string (slurp filepath))
+            data-after (assoc data-before :archived-last-seen-at (str (fs/file-time->instant (fs/millis->file-time last-fetch-at-millis))))]
+        (when (not (:archived-last-seen-at data-before))
+          (spit filepath (with-out-str (pprint data-after)))
+          (swap! counter inc))))
+    (println "Archived in this run: " @counter)
+    (println "Total Archived: " (count files))))
 
 (defn get-file-id [unix-path-object]
   (first (str/split (str (fs/file-name unix-path-object)) #"\.")))

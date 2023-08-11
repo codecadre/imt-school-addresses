@@ -104,6 +104,7 @@
 
 (defn -main []
 
+  ;;NEC duplicates coming from the website
   (spit "./duplicates.txt" (with-out-str
                              (pprint/print-table [:id :nec :name :address :imt-href]
                                                  (duplicates))))
@@ -123,36 +124,36 @@
 
 
 
-(comment
-  ;;sorting hrefs.json
-  (def my-pretty-printer (cheshire.core/create-pretty-printer
-                          (assoc cheshire.core/default-pretty-print-options
-                                 :indent-arrays? true
-                                 :object-field-value-separator ": "))
-    )
+;; (comment
+;;   ;;sorting hrefs.json
+;;   (def my-pretty-printer (cheshire.core/create-pretty-printer
+;;                           (assoc cheshire.core/default-pretty-print-options
+;;                                  :indent-arrays? true
+;;                                  :object-field-value-separator ": "))
+;;     )
 
- (-> (cheshire.core/parse-string (slurp "hrefs.json"))
-     (as-> x (sort-by #(get % "school-href") x))
-     (cheshire.core/generate-string {:pretty my-pretty-printer})
-     (as-> xs (spit "hrefs.json" xs))
-     )
+;;  (-> (cheshire.core/parse-string (slurp "hrefs.json"))
+;;      (as-> x (sort-by #(get % "school-href") x))
+;;      (cheshire.core/generate-string {:pretty my-pretty-printer})
+;;      (as-> xs (spit "hrefs.json" xs))
+;;      )
 
- (-> [10 11]
-     (conj 12)
-     (as-> xs (map - xs [3 2 1]))
-     (reverse))
- )
+;;  (-> [10 11]
+;;      (conj 12)
+;;      (as-> xs (map - xs [3 2 1]))
+;;      (reverse))
+;;  )
 
-(comment
-  (def schools (-> "schools.edn" slurp edn/read-string))
+;; (comment
+;;   (def schools (-> "schools.edn" slurp edn/read-string))
 
-  (def sorted-data
-    (->> schools
-         (sort-by :school-href)
-         (sort-by :concelho)
-         (sort-by :distrito)
-         ))
+;;   (def sorted-data
+;;     (->> schools
+;;          (sort-by :school-href)
+;;          (sort-by :concelho)
+;;          (sort-by :distrito)
+;;          ))
 
-  (spit "temp/schools.edn" (with-out-str (pprint/pprint sorted-data)))
+;;   (spit "temp/schools.edn" (with-out-str (pprint/pprint sorted-data)))
 
-  )
+;;   )
