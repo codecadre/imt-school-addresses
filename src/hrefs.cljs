@@ -194,7 +194,7 @@
         schools-sorted (sort-by :school-href schools)
         school-string (.stringify js/JSON (clj->js schools-sorted) nil "  ")]
   (.close browser)
-  (.writeFileSync fs "../hrefs.json" school-string))
+  (.writeFileSync fs "./temp/hrefs.json" school-string))
 
 
 (comment
