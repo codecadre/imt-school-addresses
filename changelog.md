@@ -2,6 +2,7 @@
 
 [PR](https://github.com/codecadre/imt-school-addresses/pull/3)
 
+```
 Archived in this run:  0
 Total Archived:  33
 
@@ -10,11 +11,12 @@ New entries:  0
 Archived:  0
 
 Edited: 0
-
+```
 # 24-07-2023
 
 [PR](https://github.com/codecadre/imt-school-addresses/pull/2)
 
+```
 New entries:  23
 /aveiro/anadia/6b540a20-red-line-malaposta.edn
 /aveiro/espinho/fadd5928-eone-ii-espinho.edn
@@ -114,3 +116,4 @@ Edited: 38
 /setubal/seixal/116abfc2-nova-de-setubal.edn -> /setubal/setubal/116abfc2-nova-de-setubal.edn
 /viana-do-castelo/arcos-de-valdevez/0040b255-mira-vez.edn
 /vila-real/valpacos/2b7c43a0-d-chama.edn
+```
