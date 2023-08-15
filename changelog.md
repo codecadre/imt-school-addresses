@@ -1,4 +1,4 @@
-# 15-08-23
+# 15-08-2023
 
 [PR](https://github.com/codecadre/imt-school-addresses/pull/3)
 
