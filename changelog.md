@@ -1,3 +1,17 @@
+# 26-11-2023
+
+[COMMIT](https://github.com/codecadre/imt-school-addresses/commit/1e2c4e7df697bf9d7c2d6d40d0262248b51adf06)
+
+```
+Archived in this run:  1
+Total Archived:  34
+
+New entries:  0
+
+Archived:  1
+/santarem/salvaterra-de-magos/b6ec6362-salvaterra-de-magos.edn
+```
+
 # 15-08-2023
 
 [PR](https://github.com/codecadre/imt-school-addresses/pull/3)
