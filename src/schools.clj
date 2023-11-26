@@ -56,7 +56,7 @@
                                    href->hc!
                                    hiccup->school-raw)))
     (println "processed " (count @results) " schools.")
-    (Thread/sleep (int (util/rand-int-from-to 500 1000))))
+    (Thread/sleep (util/rand-int-from-to 500 1000)))
 
   (let [sorted-data
         (->> @results
