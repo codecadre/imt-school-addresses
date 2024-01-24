@@ -96,10 +96,9 @@
 (defn paginate-through-concelho
   "given a page and a concelho map, paginate and fill the results array with each school link"
   [page concelho-map current-human-page results]
-  (p/let [results (pull-schools-href-list page concelho-map results)
-          ;; no idea why I have to sleep and wait here...
-          _ (sleep-ms 1000)
-          ;; the paginator might never come if we have small concelhos...
+  (p/let [_ (sleep-ms 1000)
+          results (pull-schools-href-list page concelho-map results)
+          ;; waiting for the paginator doesn't make sense because some concelhos don't have enough schools
           #_#__ (.waitForSelector page ".divPaginacaoSemMenu > input")
           paginator-elements (.$$ page ".divPaginacaoSemMenu > input")
           paginator-values (get-paginator-values page)
@@ -174,7 +173,7 @@
 ;; Main
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-(p/let [browser (.launch puppeteer #js {:headless false #_ true})
+(p/let [browser (.launch puppeteer #js {:headless true})
         page (.newPage browser)
         districts (pull-districts page)
         #_#_districts (subvec (vec districts)  0 1)
@@ -223,18 +222,23 @@
     ;; small concelho with 1 page
     #_"https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Viseu&Concelho=Cinf%C3%A3es"
     ;; lisbon
-    "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa")
+    #_"https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Lisboa&Concelho=Lisboa"
+    ;; porto
+    "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Porto&Concelho=Porto"
+    )
   (.goto page imt-page-with-schools)
 
   (def concelho-map {:id 123 :distrito "distrito" :concelho "concelho" :href imt-page-with-schools})
 
   (defp test (paginate-through-concelho page concelho-map 1 []))
 
-  (identity test)
+  (= (count (distinct test)) (count test))
 
-  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
   ;; 3. pull-concelhos
-  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
   (defp browser (.launch puppeteer #js {:headless false}))
   (defp page (.newPage browser))
