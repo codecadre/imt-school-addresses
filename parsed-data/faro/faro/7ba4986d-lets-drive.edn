@@ -1,0 +1,13 @@
+{:address
+ "Praceta Sebastião Carvalho, n.º 2 Porta 165 A (com entrada pela Estrada da Penha) 8005-133 Faro",
+ :name "Lets Drive",
+ :href-id #uuid "7ba4986d-a030-33cb-a3fd-dc665496b59d",
+ :distrito "Faro",
+ :imt-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LetsDrive-1469.aspx",
+ :concelho "Faro",
+ :nec 1469,
+ :cp7 "8005-133",
+ :id #uuid "2b4a4346-f612-3eb8-b656-7176c3bbda36",
+ :concelho-href
+ "https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx?Distrito=Faro&Concelho=Faro"}

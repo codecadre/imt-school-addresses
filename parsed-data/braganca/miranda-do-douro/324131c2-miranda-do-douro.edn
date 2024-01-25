@@ -1,5 +1,6 @@
 {:address
  "Edificio Buonas Bistas, Bloco 2, Loja de Trás, 5210-003 MIRANDA do DOURO",
+ :archived-last-seen-at "2023-11-26T17:04:18.929Z",
  :name "Miranda do Douro",
  :href-id #uuid "324131c2-889f-3449-a044-02871421891b",
  :distrito "Bragança",

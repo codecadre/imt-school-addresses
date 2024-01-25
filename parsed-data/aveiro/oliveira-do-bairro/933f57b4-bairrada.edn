@@ -1,4 +1,5 @@
 {:address "Rua do Areeiro nº 14 3770-352 PALHAÇA",
+ :archived-last-seen-at "2023-11-26T17:04:18.929Z",
  :name "Bairrada",
  :href-id #uuid "933f57b4-5409-334e-8622-7305fbbf4a33",
  :distrito "Aveiro",
