@@ -1,3 +1,29 @@
+# 25-01-2024
+
+[PR](https://github.com/codecadre/imt-school-addresses/pull/4)
+
+```
+Archived in this run:  8
+Total Archived:  42
+
+New entries:  1
+/faro/faro/7ba4986d-lets-drive.edn
+
+Archived:  8
+/aveiro/oliveira-do-bairro/933f57b4-bairrada.edn
+/braganca/miranda-do-douro/324131c2-miranda-do-douro.edn
+/braganca/vimioso/56a70ac7-s-bartolomeu.edn
+/faro/castro-marim/5561b603-o-azul-de-castro-marim.edn
+/leiria/batalha/59e08c2c-riachense.edn
+/porto/lousada/9ad9b4f4-m-7.edn
+/setubal/santiago-do-cacem/4aff30e0-novoensino.edn
+/viseu/tondela/4f022c81-tondeluir.edn
+
+Edited: 1
+/porto/porto/7604ef07-eone-i-porto.edn
+```
+
+
 # 26-11-2023
 
 [COMMIT](https://github.com/codecadre/imt-school-addresses/commit/1e2c4e7df697bf9d7c2d6d40d0262248b51adf06)
